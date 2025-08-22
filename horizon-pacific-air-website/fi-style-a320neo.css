@@ -1,0 +1,71 @@
+/*
+    Creator: Sebastian Jaculbe
+    Created: August 17th, 2025
+    Updated: August 18th, 2025
+    Version 0.2
+*/
+
+/* Main Header */
+header {
+    border-bottom: 3px solid;
+    border-color: #2d82b0;
+}
+
+/* Alliance Logo */
+.alliance {
+    float: right;
+    border-radius: 30%;
+}
+
+/* Headings */
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+/* Aircraft Image Container */
+.aircraft-image {
+    display: flex;
+    margin: auto;
+    height: 300px;
+    width: 70%;
+    border: 2px solid;
+    border-radius: 20px;
+    border-color: lightgray;
+    box-sizing: border-box; /* Prevents the border from messing with the width */
+    justify-content: center; /* The content is centered vertically */
+    align-items: center; /* The items are centered horizontally */
+}
+
+/* A320neo Image */
+.aircraft-image img {
+    margin: auto;
+    height: auto; /* Keeps aspect ratio */
+    max-width: 90%; /* Prevents the image from scaling bigger than its set size */
+    display: block;
+}
+
+/* Main Content */
+.info-block {
+    display: block;
+    margin: auto;
+    background-color: beige;
+    border-width: 1px solid;
+    border-color: black;
+    border-radius: 15px;
+    padding: 1%;
+    max-width: 30%;
+}
+
+/*
+.green {
+    color: rgb(17, 137, 17);
+}
+*/
+
+.red {
+    color: red;
+}

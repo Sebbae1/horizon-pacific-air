@@ -1,0 +1,65 @@
+/*
+    Creator: Sebastian Jaculbe
+    Created: August 16th, 2025
+    Updated: August 17th, 2025
+    Version 0.1
+*/
+
+
+/* Main Header */
+header {
+    width: 100%;
+    border-bottom: 3px solid;
+    border-color: #2d82b0;
+}
+
+/* Headings */
+h1 {
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+/* Alliance Logo */
+.alliance {
+    float: right;
+    border-radius: 30%;
+}
+
+/* Table Design */
+table, th, td {
+    border: 2px solid;
+    padding: 8px 15px;
+    font-size: 15px;
+    border-collapse: collapse;
+    overflow-x: auto;
+    margin: auto;
+}
+
+tr:nth-child(even){
+    background-color:beige;
+}
+
+/* NOTE: The table row hover psuedo class must be in between nth-child(even)
+and nth-child(odd) to make sure the table header row is not highlighted when hovered
+UPDATE: NOTE IN USE
+tr:hover{
+    background-color: lightgrey;
+}
+*/
+
+tr:nth-child(odd){
+    background-color: #FACE47;
+    /*background-color: #FFD166;*/
+    /*background-color:rgb(241, 241, 241);*/
+}
+
+/* Red Asterisk */
+.asterisk {
+    color: red;
+} 
+
+/* Configuration Line and Update Statement */
+.config, .update {
+    margin-left: 20%;
+}
