@@ -1,8 +1,8 @@
 <!--
     Creator: Sebastian Jaculbe
     Created: August 12th, 2025
-    Updated: October 8th, 2025
-    Version 0.1
+    Updated: February 8th, 2026
+    Version 0.2
 -->
     
 <!DOCTYPE html>
@@ -50,7 +50,7 @@
                         <td>661/157</td>
                         <td>June 25 2025</td>
                         <td>October 8 2025</td>
-                        <td><button class="dropdown">+</button></td>
+                        <td class="routes">Unavailable</td>
                     </tr>
                     <!--N-002A-->
                     <tr>
@@ -61,8 +61,16 @@
                         <td>645/153</td>
                         <td>June 25 2025</td>
                         <td>October 8 2025</td>
-                        <td>HO-14 ORD 2,803km</td>
-                        <td>HO-204 ATL 3,313km</td>
+                        <!--ChatGPT Assistance-->
+                        <td class="routes">
+                            <button class="dropdown">+</button>
+                            <div class="routes-list routes-collapsed">
+                                <ul class="routes-ul">
+                                    <li>HO-14 ORD 2,803km</li>
+                                    <li>HO-204 ATL 3,313km</li>
+                                </ul>
+                            </div>
+                        </td>
                     </tr>
                     <!--N-003A-->
                     <tr>
@@ -263,7 +271,7 @@
                         <td>HO-630 KBP 3,432km</td>
                     </tr>
                 </table>
-                <b class="update">Updated as of August 25th, 2025</b>
+                <b class="update">Updated as of February 8th, 2026</b>
                     <!--N-001A
                     <div class="data">
                         <b class="asterisk">* Configuration: Economy/Business/First</b>
@@ -283,6 +291,16 @@
                 -->
             </div>
         </main>
+        <!--ChatGPT Assistance-->
+        <script>
+            document.querySelectorAll(".dropdown").forEach(button => {
+                button.addEventListener("click", () => {
+                    const routes = button.nextElementSibling;
+                    routes.classList.toggle("routes-collapsed");
+                    button.textContent = routes.classList.contains("routes-collapsed") ? "+" : "x";
+                });
+            });
+        </script>
         <!--Footer-->
         <footer>
             <div class="about-hpa">

@@ -1,8 +1,8 @@
 /*
     Creator: Sebastian Jaculbe
     Created: August 13th, 2025
-    Updated: August 17th, 2025
-    Version 0.1
+    Updated: February 8th, 2026
+    Version 0.3
 */
 
 /* Main Header */
@@ -41,7 +41,7 @@ tr:nth-child(even){
 
 /* NOTE: The table row hover psuedo class must be in between nth-child(even)
 and nth-child(odd) to make sure the table header row is not highlighted when hovered
-UPDATE: NOTE IN USE
+UPDATE: NOT IN USE
 tr:hover{
     background-color: lightgrey;
 }
@@ -61,4 +61,47 @@ tr:nth-child(odd){
 /* Configuration Line and Update Statement */
 .config, .update {
     margin-left: 20%;
+}
+
+/* ChatGPT Assistance */
+.routes {
+    position: relative;
+}
+
+.routes-list {
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transition: max-height 0.35s ease, opacity 0.25s ease;
+    margin-top: 8px;
+    
+}
+
+.routes-list:not(.routes-collapsed){
+    max-height: 200px;
+    opacity: 1;
+}
+
+.routes-collapsed {
+    max-height: 0;
+    opacity: 0;
+}
+
+.routes-ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 6px 0 0 0;
+}
+
+.dropdown {
+    cursor: pointer;
+    padding: 4px 8px;
+    font-size: 16px;
+    width: 28px;
+    text-align: center;
+    transition: transform 0.7s ease;
+}
+
+button {
+    background-color: beige;
 }
