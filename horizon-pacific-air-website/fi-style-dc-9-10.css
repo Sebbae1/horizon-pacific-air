@@ -1,7 +1,7 @@
 /*
     Creator: Sebastian Jaculbe
     Created: August 15th, 2025
-    Updated: February 8th, 2026
+    Updated: February 23rd, 2026
     Version 0.2
 */
 
@@ -62,4 +62,8 @@ h3 {
 
 .green {
     color: rgb(17, 137, 17);
+}
+
+.red {
+    color: red;
 }
