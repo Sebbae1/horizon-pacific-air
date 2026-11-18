@@ -1,0 +1,650 @@
+{
+  "aircraft": {
+    "name":"McDonnell Douglas DC-9-10",
+    "image":"/images/dc910/dc-9-10-img.jpg",
+    "shortName":"DC-9-10",
+    "fleetSize": 30,
+    "serviceStatus":"Out of Service",
+    "roiStatus":"Positive",
+    "description": {
+      "purpose":"Establish premium, medium-haul routes utilizing stopovers and maximizing the aircraft's range.",
+      "configurations":[
+        "Economy Class",
+        "Business Class",
+        "First Class"
+      ],
+      "operationalFocus":[
+        "Medium-haul narrow-body operations",
+        "Luxury-focused passenger experience",
+        "Services to small and large airports within operational range"
+      ],
+      "advantages": [
+        "Quick profitability on medium-haul routes",
+        "Strong premium cabin revenue potential",
+        "High First and Business Class seating focus"
+      ],
+      "disadvantages": [
+        "High fuel consumption",
+        "Low passenger capacity",
+        "Low operational range of 2,036 km",
+        "High maintenance requirements"
+      ]
+    },
+
+    "performance": {
+      "fuelConsumption":"14 lbs/km",
+      "speed":"903 kph",
+      "range":"2,036 km",
+      "maintenanceInterval":"340 flight hours"
+    },
+
+    "financials":{
+      "averageAircraftPriceUSD": 900000,
+      "estimatedFleetInvestmentUSD": 27000000
+    },
+    "hubs": [
+      {
+        "airportLocation":"Buenos Aires",
+        "iata":"EZE",
+        "country":"Argentina"
+      },
+      {
+        "airportLocation":"Dubai",
+        "iata":"DXB",
+        "country":"United Arab Emirates"
+      },
+      {
+        "airportLocation":"Los Angeles",
+        "iata":"LAX",
+        "country":"United States"
+      },
+      {
+        "airportLocation":"Chicago",
+        "iata":"ORD",
+        "country":"United States"
+      }
+    ],
+    "destinations":[
+      {
+        "continent": "Asia",
+        "airports": [
+          {
+            "airportLocation":"Dhaka",
+            "iata":"DAC",
+            "country":"Bangladesh"
+          },
+          {
+            "airportLocation":"Dunhuang",
+            "iata":"DNH",
+            "country":"China"
+          },
+          {
+            "airportLocation":"Golmud",
+            "iata":"GOQ",
+            "country":"China"
+          }
+        ]
+      },
+      {
+        "continent": "Europe",
+        "airports": [
+          {
+            "airportLocation":"Tirana",
+            "iata":"TIA",
+            "country":"Albania"
+          },
+          {
+            "airportLocation":"Kerkyra Island",
+            "iata":"CFU",
+            "country":"Greece"
+          },
+          {
+            "airportLocation":"Debrecen",
+            "iata":"DEB",
+            "country":"Hungary"
+          },
+          {
+            "airportLocation":"Reggio Calabria",
+            "iata":"REG",
+            "country":"Italy"
+          },
+          {
+            "airportLocation":"Poprad",
+            "iata":"TAT",
+            "country":"Slovakia"
+          },
+          {
+            "airportLocation":"Kiev Boryspil",
+            "iata":"KBP",
+            "country":"Ukraine"
+          }
+        ]
+      },
+      {
+        "continent": "North America",
+        "airports": [
+          {
+            "airportLocation":"San Francisco",
+            "iata":"SFO",
+            "state":"California",
+            "country":"United States"
+          },
+          {
+            "airportLocation":"Miami",
+            "iata":"MIA",
+            "state":"Florida",
+            "country":"United States"
+          },
+          {
+            "airportLocation":"Orlando",
+            "iata":"MCO",
+            "state":"Florida",
+            "country":"United States"
+          },
+          {
+            "airportLocation":"Tampa",
+            "iata":"TPA",
+            "state":"Florida",
+            "country":"United States"
+          },
+          {
+            "airportLocation":"Atlanta",
+            "iata":"ATL",
+            "state":"Georgia",
+            "country":"United States"
+          },
+          {
+            "airportLocation":"New York City",
+            "iata":"JFK",
+            "state":"New York",
+            "country":"United States"
+          },
+          {
+            "airportLocation":"Dulles",
+            "iata":"IAD",
+            "state":"Virginia",
+            "country":"United States"
+          }
+        ]
+      },
+      {
+        "continent":"South America",
+        "airports": [
+          {
+            "airportLocation":"Recife",
+            "iata":"REC",
+            "country":"Brazil"
+          },
+          {
+            "airportLocation":"Sao Gabriel Da Cachoeria",
+            "iata":"SJL",
+            "country":"Brazil"
+          },
+          {
+            "airportLocation":"Teresina",
+            "iata":"THE",
+            "country":"Brazil"
+          },
+          {
+            "airportLocation":"Anta",
+            "iata":"ATA",
+            "country":"Peru"
+          },
+          {
+            "airportLocation":"Jaen",
+            "iata":"JAE",
+            "country":"Peru"
+          },
+          {
+            "airportLocation":"Lima",
+            "iata":"LIM",
+            "country":"Peru"
+          },
+          {
+            "airportLocation":"Maracay",
+            "iata":"MYC",
+            "country":"Venezuela"
+          },
+          {
+            "airportLocation":"Merida",
+            "iata":"MRD",
+            "country":"Venezuela"
+          },
+          {
+            "airportLocation":"Puerto Cabello",
+            "iata":"PBL",
+            "country":"Venezuela"
+          },
+          {
+            "airportLocation":"Valencia",
+            "iata":"VLN",
+            "country":"Venezuela"
+          }
+        ]
+      }
+    ]
+  },
+  "fleet":[
+    {
+      "registration":"N-001A",
+      "configuration":"0/15/20",
+      "priceUSD":802726,
+      "status":"Out of Service",
+      "flightHours":661,
+      "cycles":157,
+      "delivered":"2025-06-25",
+      "sold":"2025-10-08",
+      "location":"Unavailable",
+      "route":[
+        "Unavailable"
+      ]
+    },
+    {
+      "registration":"N-002A",
+      "configuration":"0/15/20",
+      "priceUSD":802726,
+      "status":"Out of Service",
+      "flightHours":645,
+      "cycles":153,
+      "delivered":"2025-06-25",
+      "sold":"2025-08-17",
+      "location":"Los Angeles (LAX)",
+      "route":[
+        "HO-14 LAX-ORD 2,804km",
+        "HO-204 LAX-ATL 3,313km"
+      ]
+    },
+    {
+      "registration":"N-003A",
+      "configuration":"0/6/26",
+      "priceUSD":949657,
+      "status":"Out of Service",
+      "flightHours":675,
+      "cycles":129,
+      "delivered":"2025-06-25",
+      "sold":"2025-08-17",
+      "location":"Dubai (DXB)",
+      "route":[
+        "HO-102 DXB-TAT 4,029km"
+      ]
+    },
+    {
+      "registration":"N-004A",
+      "configuration":"1/7/25",
+      "priceUSD":944657,
+      "status":"Out of Service",
+      "flightHours":619,
+      "cycles":147,
+      "delivered":"2025-06-25",
+      "sold":"2025-08-17",
+      "location":"Los Angeles (LAX)",
+      "route":[
+        "HO-202 LAX-ATL 3,127km"
+      ]
+    },
+    {
+      "registration":"N-005A",
+      "configuration":"1/7/25",
+      "priceUSD":944657,
+      "status":"Out of Service",
+      "flightHours":675,
+      "cycles":129,
+      "delivered":"2025-06-25",
+      "sold":"2025-08-17",
+      "location":"Dubai (DXB)",
+      "route":[
+        "HO-354 DXB-DNH 4,005km"
+      ]
+    },
+    {
+      "registration":"N-006A",
+      "configuration":"0/15/20",
+      "priceUSD":934657,
+      "status":"Out of Service",
+      "flightHours":645,
+      "cycles":123,
+      "delivered":"2025-06-26",
+      "sold":"2025-08-17",
+      "location":"Dubai (DXB)",
+      "route":[
+        "HO-178 DXB-GOQ 3,933km"
+      ]
+    },
+    {
+      "registration":"N-007A",
+      "configuration":"6/15/18",
+      "priceUSD":914657,
+      "status":"Out of Service",
+      "flightHours":645,
+      "cycles":123,
+      "delivered":"2025-06-26",
+      "sold":"2025-08-17",
+      "location":"Los Angeles (LAX)",
+      "route":[
+        "HO-956 LAX-JFK 3,976km"
+      ]
+    },
+    {
+      "registration":"N-008A",
+      "configuration":"6/15/18",
+      "priceUSD":914657,
+      "status":"Out of Service",
+      "flightHours":605,
+      "cycles":115,
+      "delivered":"2025-06-27",
+      "sold":"2025-08-17",
+      "location":"Los Angeles (LAX)",
+      "route":[
+        "HO-958 LAX-JFK 3,976km"
+      ]
+    },
+    {
+      "registration":"N-009A",
+      "configuration":"0/0/30",
+      "priceUSD":959657,
+      "status":"Out of Service",
+      "flightHours":605,
+      "cycles":115,
+      "delivered":"2025-06-27",
+      "sold":"2025-08-18",
+      "location":"Chicago (ORD)",
+      "route":[
+        "HO-81 ORD-VLN 4,052km"
+      ]
+    },
+    {
+      "registration":"N-010A",
+      "configuration":"0/9/24",
+      "priceUSD":944657,
+      "status":"Out of Service",
+      "flightHours":589,
+      "cycles":109,
+      "delivered":"2025-06-27",
+      "sold":"2025-08-18",
+      "location":"Chicago (ORD)",
+      "route":[
+        "HO-99 ORD-PBL 4,001km"
+      ]
+    },
+    {
+      "registration":"N-011A",
+      "configuration":"0/18/18",
+      "priceUSD":929657,
+      "status":"Out of Service",
+      "flightHours":589,
+      "cycles":109,
+      "delivered":"2025-06-28",
+      "sold":"2025-08-18",
+      "location":"Chicago (ORD)",
+      "route":[
+        "HO-93 ORD-MYC 4,058km"
+      ]
+    },
+    {
+      "registration":"N-012A",
+      "configuration":"0/0/30",
+      "priceUSD":959657,
+      "status":"Out of Service",
+      "flightHours":503,
+      "cycles":115,
+      "delivered":"2025-06-29",
+      "sold":"2025-08-18",
+      "location":"Los Angeles (LAX)",
+      "route":[
+        "HO-36 LAX-TPA 4,052km"
+      ]
+    },
+    {
+      "registration":"N-013A",
+      "configuration":"0/18/18",
+      "priceUSD":929657,
+      "status":"Out of Service",
+      "flightHours":487,
+      "cycles":111,
+      "delivered":"2025-06-29",
+      "sold":"2025-08-18",
+      "location":"Los Angeles (LAX)",
+      "route":[
+        "HO-64 LAX-MCO 4,052km"
+      ]
+    },
+    {
+      "registration":"N-014A",
+      "configuration":"10/10/20",
+      "priceUSD":909657,
+      "status":"Out of Service",
+      "flightHours":535,
+      "cycles":101,
+      "delivered":"2025-07-01",
+      "sold":"2025-08-18",
+      "location":"Los Angeles (LAX)",
+      "route":[
+        "HO-512 LAX-IAD 4,052km"
+      ]
+    },
+    {
+      "registration":"N-015A",
+      "configuration":"0/12/22",
+      "priceUSD":939657,
+      "status":"Out of Service",
+      "flightHours":515,
+      "cycles":97,
+      "delivered":"2025-07-02",
+      "sold":"2025-08-18",
+      "location":"Los Angeles (LAX)",
+      "route":[
+        "HO-672 LAX-MIA 3,764km"
+      ]
+    },
+    {
+      "registration":"N-016A",
+      "configuration":"0/12/22",
+      "priceUSD":939657,
+      "status":"Out of Service",
+      "flightHours":515,
+      "cycles":97,
+      "delivered":"2025-07-02",
+      "sold":"2025-08-24",
+      "location":"Los Angeles (LAX)",
+      "route":[
+        "HO-674 LAX-MIA 3,764km"
+      ]
+    },
+    {
+      "registration":"N-017A",
+      "configuration":"1/7/25",
+      "priceUSD":944657,
+      "status":"Out of Service",
+      "flightHours":515,
+      "cycles":97,
+      "delivered":"2025-07-02",
+      "sold":"2025-08-24",
+      "location":"Dubai (DXB)",
+      "route":[
+        "HO-264 DXB-REG 3,985km"
+      ]
+    },
+    {
+      "registration":"N-018A",
+      "configuration":"1/19/17",
+      "priceUSD":924657,
+      "status":"Out of Service",
+      "flightHours":505,
+      "cycles":95,
+      "delivered":"2025-07-03",
+      "sold":"2025-08-24",
+      "location":"Dubai (DXB)",
+      "route":[
+        "HO-584 DXB-DEB 3,854km"
+      ]
+    },
+    {
+      "registration":"N-019A",
+      "configuration":"0/15/20",
+      "priceUSD":934657,
+      "status":"Out of Service",
+      "flightHours":411,
+      "cycles":95,
+      "delivered":"2025-07-03",
+      "sold":"2025-08-24",
+      "location":"Dubai (DXB)",
+      "route":[
+        "HO-628 DXB-KBP 3,491km"
+      ]
+    },
+    {
+      "registration":"N-020A",
+      "configuration":"0/15/20",
+      "priceUSD":934657,
+      "status":"Out of Service",
+      "flightHours":485,
+      "cycles":91,
+      "delivered":"2025-07-03",
+      "sold":"2025-08-24",
+      "location":"Dubai (DXB)",
+      "route":[
+        "HO-630 DXB-KBP 3,432km"
+      ]
+    },
+    {
+      "registration":"N-021A",
+      "configuration":"0/15/20",
+      "priceUSD":934657,
+      "status":"Out of Service",
+      "flightHours":455,
+      "cycles":85,
+      "delivered":"2025-07-06",
+      "sold":"2025-08-24",
+      "location":"Dubai (DXB)",
+      "route":[
+        "HO-438 DXB-CFU 3,661km"
+      ]
+    },
+    {
+      "registration":"N-022A",
+      "configuration":"0/18/18",
+      "priceUSD":929657,
+      "status":"Out of Service",
+      "flightHours":455,
+      "cycles":85,
+      "delivered":"2025-07-06",
+      "sold":"2025-08-24",
+      "location":"Dubai (DXB)",
+      "route":[
+        "HO-52 DXB-TIA 3,733km"
+      ]
+    },
+    {
+      "registration":"N-023A",
+      "configuration":"0/18/18",
+      "priceUSD":929657,
+      "status":"Out of Service",
+      "flightHours":387,
+      "cycles":89,
+      "delivered":"2025-07-06",
+      "sold":"2025-08-24",
+      "location":"Dubai (DXB)",
+      "route":[
+        "HO-76 DXB-DAC 3,541km"
+      ]
+    },
+    {
+      "registration":"N-024A",
+      "configuration":"0/9/24",
+      "priceUSD":944657,
+      "status":"Out of Service",
+      "flightHours":445,
+      "cycles":83,
+      "delivered":"2025-07-06",
+      "sold":"2025-08-24",
+      "location":"Buenos Aires (EZE)",
+      "route":[
+        "HO-86 EZE-JAE 3,589km"
+      ]
+    },
+    {
+      "registration":"N-025A",
+      "configuration":"0/27/12",
+      "priceUSD":914657,
+      "status":"Out of Service",
+      "flightHours":445,
+      "cycles":83,
+      "delivered":"2025-07-06",
+      "sold":"2025-08-24",
+      "location":"Buenos Aires (EZE)",
+      "route":[
+        "HO-682 EZE-SJL 3,955km"
+      ]
+    },
+    {
+      "registration":"N-026A",
+      "configuration":"0/39/4",
+      "priceUSD":894657,
+      "status":"Out of Service",
+      "flightHours":445,
+      "cycles":83,
+      "delivered":"2025-07-06",
+      "sold":"2025-08-24",
+      "location":"Buenos Aires (EZE)",
+      "route":[
+        "HO-456 EZE-REC 3,824km"
+      ]
+    },
+    {
+      "registration":"N-027A",
+      "configuration":"0/18/18",
+      "priceUSD":929657,
+      "status":"Out of Service",
+      "flightHours":445,
+      "cycles":83,
+      "delivered":"2025-07-07",
+      "sold":"2025-08-24",
+      "location":"Buenos Aires (EZE)",
+      "route":[
+        "HO-912 EZE-THE"
+      ]
+    },
+    {
+      "registration":"N-028A",
+      "configuration":"1/13/21",
+      "priceUSD":934657,
+      "status":"Out of Service",
+      "flightHours":379,
+      "cycles":87,
+      "delivered":"2025-07-07",
+      "sold":"2025-08-24",
+      "location":"Buenos Aires (EZE)",
+      "route":[
+        "HO-84 EZE-ATA 3,433km"
+      ]
+    },
+    {
+      "registration":"N-029A",
+      "configuration":"0/9/24",
+      "priceUSD":944657,
+      "status":"Out of Service",
+      "flightHours":395,
+      "cycles":91,
+      "delivered":"2025-07-07",
+      "sold":"2025-08-24",
+      "location":"Buenos Aires (EZE)",
+      "route":[
+        "HO-82 EZE-LIM 3,955km"
+      ]
+    },
+    {
+      "registration":"N-030A",
+      "configuration":"2/20/16",
+      "priceUSD":919657,
+      "status":"Out of Service",
+      "flightHours":375,
+      "cycles":69,
+      "delivered":"2025-07-10",
+      "sold":"2025-08-24",
+      "location":"Buenos Aires (EZE)",
+      "route":[
+        "HO-97 EZE-MRD 3,063km"
+      ]
+    }  
+  ]
+}

@@ -1,0 +1,1489 @@
+{
+    "aircraft":{
+        "name":"Boeing 747-800",
+        "image":"",
+        "shortName":"B747-800",
+        "fleetSize":100,
+        "serviceStatus":"In ServiceIn Service",
+        "roiStatus":"In ServiceNegative",
+        "description":{
+            "purpose":"Establish premium long-haul wide-body international routes focused on high-density service to major global airports.",
+            "configurations":[
+                "Economy Class",
+                "Business Class",
+                "First Class"
+            ],
+            "operationalFocus":[
+                "High-density international operations",
+                "Premium passenger experience",
+                "Global hub-to-hub connectivity",
+                "In-flight catering capability"
+            ],
+            "advantages":[
+                "Capable of handling 467 passengers in a standard three-class configuration",
+                "Efficient fuel usage for aircraft size at 21 lbs/km",
+                "Powered by four GEnx-2B67 engines",
+                "Required runway of 10,250 ft",
+                "Wide-body aircraft",
+                "Maximum cruise speed of 1,097 kph",
+                "Long operational range of 14,815 km",
+                "Low maintenance requirements",
+                "500 flight hours before A-Check"
+            ],
+            "disadvantages":[
+                "Limited airport compatibility compared to a smaller aircraft",
+                "High operational cost due to GE90-115B engines and aircraft size",
+                "Estimated aircraft cost of approximately $122,000,000",
+                "High A-Check maintenance cost of approximately $8,476,840",
+                "Slow turnaround times"
+            ]
+        },
+        "performance":{
+            "fuelConsumption":"21 lbs/km",
+            "speed":"1,097 kph",
+            "range":"14,815 km",
+            "maintenanceInterval":"500 flight hours"
+        },
+
+        "financials":{
+            "averageAircraftPriceUSD":122000000,
+            "estimatedFleetInvestmentUSD":12200000000
+        },
+
+        "hubs":[
+            {
+                "airportLocation":"Argentina",
+                "iata":"EZE",
+                "country":"Argentina"
+            },
+            {
+                "airportLocation":"Cebu",
+                "iata":"CEB",
+                "country":"Philippines"
+            },
+            {
+                "airportLocation":"Los Angeles",
+                "iata":"LAX",
+                "country":"United States"
+            },
+            {
+                "airportLocation":"Chicago",
+                "iata":"ORD",
+                "country":"United States"
+            }
+        ],
+        "destinations":[
+            {
+                "continent":"Africa",
+                "airports":[
+                    {
+                        "airportLocation":"Cape Town",
+                        "iata":"CPT",
+                        "country":"South Africa"
+                    },
+                    {
+                        "airportLocation":"Johannesburg",
+                        "iata":"JNB",
+                        "country":"South Africa"
+                    }
+                ]
+            },
+            {
+                "continent":"Asia",
+                "airports":[
+                    {
+                        "airportLocation":"Banglore",
+                        "iata":"BLR",
+                        "country":"India"
+                    },
+                    {
+                        "airportLocation":"Jakarta Soekarno",
+                        "iata":"CGK",
+                        "country":"Indonesia"
+                    },
+                    {
+                        "airportLocation":"Medan",
+                        "iata":"KNO",
+                        "country":"Indonesia"
+                    },
+                    {
+                        "airportLocation":"Tokyo Haneda",
+                        "iata":"HND",
+                        "country":"Japan"
+                    },
+                    {
+                        "airportLocation":"Johor Bahru",
+                        "iata":"JHB",
+                        "country":"Malaysia"
+                    },
+                    {
+                        "airportLocation":"Gan",
+                        "iata":"GAN",
+                        "country":"Maldives"
+                    },
+                    {
+                        "airportLocation":"Male",
+                        "iata":"MLE",
+                        "country":"Maldives"
+                    },
+                    {
+                        "airportLocation":"Manila",
+                        "iata":"MNL",
+                        "country":"Philippines"
+                    },
+                    {
+                        "airportLocation":"Doha",
+                        "iata":"DIA",
+                        "country":"Qatar"
+                    },
+                    {
+                        "airportLocation":"Colombo",
+                        "iata":"CMB",
+                        "country":"Sri Lanka"
+                    },
+                    {
+                        "airportLocation":"Incheon",
+                        "iata":"ICN",
+                        "country":"South Korea"
+                    },
+                    {
+                        "airportLocation":"Bangkok",
+                        "iata":"DMK",
+                        "country":"Thailand"
+                    },
+                    {
+                        "airportLocation":"Hanoi",
+                        "iata":"HAN",
+                        "country":"Vietnam"
+                    },
+                    {
+                        "airportLocation":"Ho Chi Minh City",
+                        "iata":"SGN",
+                        "country":"Vietnam"
+                    }
+                ]
+            },
+            {
+                "continent":"Australia",
+                "airports":[
+                    {
+                        "airportLocation":"Melbourne",
+                        "iata":"MEL",
+                        "country":"Australia"
+                    },
+                    {
+                        "airportLocation":"Perth",
+                        "iata":"PER",
+                        "country":"Australia"
+                    },
+                    {
+                        "airportLocation":"Sydney",
+                        "iata":"SYD",
+                        "country":"Australia"
+                    }
+                ]
+            },
+            {
+                "continent":"Europe",
+                "airports":[
+                    {
+                        "airportLocation":"Paris Charles de Gaulle",
+                        "iata":"CDG",
+                        "country":"France"
+                    },
+                    {
+                        "airportLocation":"Lisbon",
+                        "iata":"LIS",
+                        "country":"Portugal"
+                    },
+                    {
+                        "airportLocation":"Madrid",
+                        "iata":"MAD",
+                        "country":"Spain"
+                    }
+                ]
+            },
+            {
+                "continent":"North America",
+                "airports":[
+                    {
+                        "airportLocation":"Cancun",
+                        "iata":"CUN",
+                        "country":"Mexico"
+                    },
+                    {
+                        "airportLocation":"Mexico City",
+                        "iata":"MEX",
+                        "country":"Mexico"
+                    },
+                    {
+                        "airportLocation":"San Francisco",
+                        "iata":"SFO",
+                        "state":"California",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Miami",
+                        "iata":"MIA",
+                        "state":"Florida",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"New York City",
+                        "iata":"JFK",
+                        "state":"New York",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Portland",
+                        "iata":"PDX",
+                        "state":"Oregon",
+                        "country":"United States"
+                    }
+                ]
+            },
+            {
+                "continent":"South America",
+                "airports":[
+                    {
+                        "airportLocation":"Rio Gallegos",
+                        "iata":"RGL",
+                        "country":"Argentina"
+                    },
+                    {
+                        "airportLocation":"San Miguel de Tucuman",
+                        "iata":"TUC",
+                        "country":"Argentina"
+                    },
+                    {
+                        "airportLocation":"Bridgetown",
+                        "iata":"BGI",
+                        "country":"Barbados"
+                    },
+                    {
+                        "airportLocation":"Brasilia",
+                        "iata":"BSB",
+                        "country":"Brazil"
+                    },
+                    {
+                        "airportLocation":"Rio de Janeiro",
+                        "iata":"GIG",
+                        "country":"Brazil"
+                    },
+                    {
+                        "airportLocation":"Santa Cruz Viru Viru",
+                        "iata":"VVI",
+                        "country":"Bolivia"
+                    },
+                    {
+                        "airportLocation":"Bogota",
+                        "iata":"BOG",
+                        "country":"Colombia"
+                    },
+                    {
+                        "airportLocation":"Santo Domingo",
+                        "iata":"SDQ",
+                        "country":"Dominican Republic"
+                    },
+                    {
+                        "airportLocation":"Lima",
+                        "iata":"LIM",
+                        "country":"Peru"
+                    },
+                    {
+                        "airportLocation":"Caracas",
+                        "iata":"CCS",
+                        "country":"Venezuela"
+                    }
+                ]
+            }
+        ]
+    },
+    "fleet":[
+        {
+            "registration":"N-001E",
+            "configuration":"175/41/70",
+            "priceUSD":122022727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-15",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-900 CEB-MIA 15,219km"
+            ]
+        },
+        {
+            "registration":"N-002E",
+            "configuration":"249/60/32",
+            "priceUSD":121717727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-15",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-902 CEB-BOG 17,406km"
+            ]
+        },
+        {
+            "registration":"N-003E",
+            "configuration":"151/112/30",
+            "priceUSD":121957727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-15",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-901 CEB-BSB 18,946km"
+            ]
+        },
+        {
+            "registration":"N-004E",
+            "configuration":"288/89/0",
+            "priceUSD":121542727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-15",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-903 CEB-GIG 18,147km"
+            ]
+        },
+        {
+            "registration":"N-005E",
+            "configuration":"250/78/20",
+            "priceUSD":121687727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-15",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-904 CEB-VVI 18,896km"
+            ]
+        },
+
+        {
+            "registration":"N-006E",
+            "configuration":"0/112/81",
+            "priceUSD":122467727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-22",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-906 CEB-SFO 11,313km"
+            ]
+        },
+        {
+            "registration":"N-007E",
+            "configuration":"249/60/32",
+            "priceUSD":122122727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-22",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-908 CEB-PDX 10,941km",
+                "HO-908 CEB-BOG 17,406km"
+            ]
+        },{
+            "registration":"N-008E",
+            "configuration":"130/56/75",
+            "priceUSD":122127727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-22",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-910 CEB-JFK 14,604km"
+            ]
+        },
+        {
+            "registration":"N-009E",
+            "configuration":"151/112/30",
+            "priceUSD":122257727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-22",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-912 CEB-CUN 15,167km",
+                "HO-905 CEB-BSB 18,946km"
+            ]
+        },
+        {
+            "registration":"N-010E",
+            "configuration":"229/63/37",
+            "priceUSD":121782727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-22",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-914 CEB-LIM 17,749km"
+            ]
+        },
+        {
+            "registration":"N-011E",
+            "configuration":"175/41/69",
+            "priceUSD":122137727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-06",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-905 CEB-RGL 15,268km",
+                "HO-926 CEB-MIA 15,219km"
+            ]
+        },
+        {
+            "registration":"N-012E",
+            "configuration":"0/109/83",
+            "priceUSD":122472727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-06",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-907 CEB-MAD 12,218km"
+            ]
+        },
+        {
+            "registration":"N-013E",
+            "configuration":"229/63/37",
+            "priceUSD":122172727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-06",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-909 CEB-CPT 12,059km",
+                "HO-928 CEB-LIM 17,749km"
+            ]
+        },
+        {
+            "registration":"N-014E",
+            "configuration":"35/153/42",
+            "priceUSD":122282727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-06",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-911 CEB-CDG 11,300km"
+            ]
+        },
+        {
+            "registration":"N-015E",
+            "configuration":"148/107/35",
+            "priceUSD":121982727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-06",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-916 CEB-MEX 14,256km"
+            ]
+        },
+        {
+            "registration":"N-016E",
+            "configuration":"148/107/35",
+            "priceUSD":121672727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-15",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-918 CEB-TUC 17,945km",
+                "HO-918 CEB-MEX 14,256km"
+            ]
+        },
+        {
+            "registration":"N-017E",
+            "configuration":"279/74/13",
+            "priceUSD":121597727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-15",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-920 CEB-SDQ 16,487km"
+            ]
+        },
+        {
+            "registration":"N-018E",
+            "configuration":"229/102/11",
+            "priceUSD":121717727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-15",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-922 CEB-CCS 17,394km"
+            ]
+        },
+        {
+            "registration":"N-019E",
+            "configuration":"210/1113/10",
+            "priceUSD":121762727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-15",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-924 CEB-BGI 17,392km"
+            ]
+        },
+        {
+            "registration":"N-020E",
+            "configuration":"0/154/53",
+            "priceUSD":122397727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-15",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-913 CEB-LIS 12,714km"
+            ]
+        },
+        {
+            "registration":"N-021E",
+            "configuration":"227/120/0",
+            "priceUSD":121697727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-158 LAX-CPT 16,079km"
+            ]
+        },
+        {
+            "registration":"N-022E",
+            "configuration":"281/93/0",
+            "priceUSD":121562727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-124 LAX-JNB 10,706km"
+            ]
+        },
+        {
+            "registration":"N-023E",
+            "configuration":"147/85/50",
+            "priceUSD":122022727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-101 LAX-MLE 15,593km"
+            ]
+        },
+        {
+            "registration":"N-024E",
+            "configuration":"25/140/54",
+            "priceUSD":122337727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-103 LAX-CMB 15,052km"
+            ]
+        },
+        {
+            "registration":"N-025E",
+            "configuration":"54/112/62",
+            "priceUSD":122277727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-105 LAX-SGN 13,130km"
+            ]
+        },
+        {
+            "registration":"N-026E",
+            "configuration":"303/37/30",
+            "priceUSD":121582727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-107 LAX-MEL 13,757km"
+            ]
+        },
+        {
+            "registration":"N-027E",
+            "configuration":"82/110/55",
+            "priceUSD":122197727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-109 LAX-CGK 14,450km"
+            ]
+        },
+        {
+            "registration":"N-028E",
+            "configuration":"222/64/39",
+            "priceUSD":121807727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-111 LAX-BLR 14,502km"
+            ]
+        },
+        {
+            "registration":"N-029E",
+            "configuration":"1/164/46",
+            "priceUSD":122377727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-126 LAX-DIA 13,347km"
+            ]
+        },
+        {
+            "registration":"N-030E",
+            "configuration":"149/96/42",
+            "priceUSD":121997727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-113 LAX-DMK 13,281km"
+            ]
+        },
+        {
+            "registration":"N-031E",
+            "configuration":"113/90/58",
+            "priceUSD":122047727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-07",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-41 ORD-SIN 15,052km",
+                "HO-41 ORD-HND 10,124km"
+            ]
+        },
+        {
+            "registration":"N-032E",
+            "configuration":"118/68/71",
+            "priceUSD":122147727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-07",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-43 ORD-JHB 15,027km"
+            ]
+        },
+        {
+            "registration":"N-033E",
+            "configuration":"154/137/13",
+            "priceUSD":121912727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-07",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-45 ORD-SYD 14,863km"
+            ]
+        },
+        {
+            "registration":"N-034E",
+            "configuration":"154/137/13",
+            "priceUSD":121912727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-07",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-47 ORD-SYD 14,863km"
+            ]
+        },
+        {
+            "registration":"N-035E",
+            "configuration":"164/35/77",
+            "priceUSD":122042727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-07",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-4 ORD-CMB 14,410km"
+            ]
+        },
+        {
+            "registration":"N-036E",
+            "configuration":"164/35/77",
+            "priceUSD":122042727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-07",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-6 ORD-CMB 14,410km"
+            ]
+        },
+        {
+            "registration":"N-037E",
+            "configuration":"148/41/79",
+            "priceUSD":122092727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-07",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-49 ORD-MEL 15,559km"
+            ]
+        },
+        {
+            "registration":"N-038E",
+            "configuration":"233/101/10",
+            "priceUSD":121702727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-07",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-51 ORD-PER 17,646km"
+            ]
+        },
+        {
+            "registration":"N-039E",
+            "configuration":"49/86/82",
+            "priceUSD":122347727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-08",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-8 ORD-JNB 14,019km"
+            ]
+        },
+        {
+            "registration":"N-040E",
+            "configuration":"220/101/15",
+            "priceUSD":122107727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-08",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-53 ORD-SGN 13,959km",
+                "HO-53 ORD-BWN 14,309km"
+            ]
+        },
+        {
+            "registration":"N-041E",
+            "configuration":"113/90/58",
+            "priceUSD":121837727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-08",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-10 ORD-CPT 13,710km",
+                "HO-63 ORD-HND 10,124km"
+            ]
+        },
+        {
+            "registration":"N-042E",
+            "configuration":"188/59/47",
+            "priceUSD":121912727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-08",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-55 ORD-DMK 13,740km"
+            ]
+        },
+        {
+            "registration":"N-043E",
+            "configuration":"174/91/37",
+            "priceUSD":121922727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-08",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-57 ORD-HAN 12,848km"
+            ]
+        },
+        {
+            "registration":"N-044E",
+            "configuration":"135/109/38",
+            "priceUSD":122022727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-08",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-59 ORD-MNL 13,070km"
+            ]
+        },
+        {
+            "registration":"N-045E",
+            "configuration":"125/126/30",
+            "priceUSD":122027727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-09",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-12 ORD-GAN 15,049km"
+            ]
+        },
+        {
+            "registration":"N-046E",
+            "configuration":"124/104/45",
+            "priceUSD":122067727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-01-09",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-61 ORD-KNO 14,897km"
+            ]
+        },
+        {
+            "registration":"N-047E",
+            "configuration":"210/113/10",
+            "priceUSD":121792727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-03",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-930 CEB-BGI 17,388km"
+            ]
+        },
+        {
+            "registration":"N-048E",
+            "configuration":"279/74/13",
+            "priceUSD":121597727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-03",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-932 CEB-SDQ 16,487km"
+            ]
+        },
+        {
+            "registration":"N-049E",
+            "configuration":"227/120/0",
+            "priceUSD":121697727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-03",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-154 LAX-CPT 16,081km"
+            ]
+        },
+        {
+            "registration":"N-050E",
+            "configuration":"281/93/0",
+            "priceUSD":121562727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-03",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-156 LAX-JNB 16,709km"
+            ]
+        },
+        {
+            "registration":"N-051E",
+            "configuration":"147/52/71",
+            "priceUSD":122067727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-03",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-131 LAX-MLE 15,594km"
+            ]
+        },
+        {
+            "registration":"N-052E",
+            "configuration":"25/140/54",
+            "priceUSD":122337727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-115 LAX-CMB 15,053km"
+            ]
+        },
+        {
+            "registration":"N-053E",
+            "configuration":"54/112/62",
+            "priceUSD":122277727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-117 LAX-SGN 13,131km"
+            ]
+        },
+        {
+            "registration":"N-054E",
+            "configuration":"303/37/30",
+            "priceUSD":121582727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-119 LAX-MEL 12,758km"
+            ]
+        },
+        {
+            "registration":"N-055E",
+            "configuration":"82/110/55",
+            "priceUSD":122197727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-121 LAX-CGK 14,451km"
+            ]
+        },
+        {
+            "registration":"N-056E",
+            "configuration":"222/64/39",
+            "priceUSD":121807727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-123 LAX-BLR 14,503km"
+            ]
+        },
+        {
+            "registration":"N-057E",
+            "configuration":"1/164/46",
+            "priceUSD":122377727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-152 LAX-DIA 13,348km"
+            ]
+        },
+        {
+            "registration":"N-058E",
+            "configuration":"149/96/42",
+            "priceUSD":121997727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-125 LAX-DMK 13,281km"
+            ]
+        },
+        {
+            "registration":"N-059E",
+            "configuration":"210/73/37",
+            "priceUSD":121832727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-127 LAX-SYD 12,062km"
+            ]
+        },
+        {
+            "registration":"N-060E",
+            "configuration":"210/73/37",
+            "priceUSD":121832727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-129 LAX-SYD 12,062km"
+            ]
+        },
+        {
+            "registration":"N-061E",
+            "configuration":"118/68/71",
+            "priceUSD":122147727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-65 ORD-JHB 15,027km"
+            ]
+        },
+        {
+            "registration":"N-062E",
+            "configuration":"148/41/79",
+            "priceUSD":122092727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-67 ORD-MEL 15,559km"
+            ]
+        },
+        {
+            "registration":"N-063E",
+            "configuration":"233/101/10",
+            "priceUSD":121702727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-69 ORD-PER 17,646km"
+            ]
+        },
+        {
+            "registration":"N-064E",
+            "configuration":"49/85/82",
+            "priceUSD":122347727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-10 ORD-JNB 14,019km"
+            ]
+        },
+        {
+            "registration":"N-065E",
+            "configuration":"220/101/15",
+            "priceUSD":122107727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-71 ORD-SGN 13,959km",
+                "HO-71 ORD-BWN 14,309km"
+            ]
+        },
+        {
+            "registration":"N-066E",
+            "configuration":"188/69/47",
+            "priceUSD":121912727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-73 ORD-DMK 13,740km"
+            ]
+        },
+        {
+            "registration":"N-067E",
+            "configuration":"174/91/37",
+            "priceUSD":121922727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-75 ORD-HAN 13,848km"
+            ]
+        },
+        {
+            "registration":"N-068E",
+            "configuration":"135/109/38",
+            "priceUSD":122022727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-77 ORD-MNL 13,070km"
+            ]
+        },
+        {
+            "registration":"N-069E",
+            "configuration":"125/126/30",
+            "priceUSD":122027727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-22 ORD-GAN 15,339km"
+            ]
+        },
+        {
+            "registration":"N-070E",
+            "configuration":"124/104/45",
+            "priceUSD":122067727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-05",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-79 ORD-KNO 14,897km"
+            ]
+        },
+        {
+            "registration":"N-071E",
+            "configuration":"130/56/75",
+            "priceUSD":122127727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-20",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-934 CEB-JFK 14,064km"
+            ]
+        },
+        {
+            "registration":"N-072E",
+            "configuration":"229/102/11",
+            "priceUSD":121717727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-20",
+            "sold":"N/A",
+            "location":"Cebu (CEB)",
+            "route":[
+                "HO-936 CEB-CCS 17,393km"
+            ]
+        },
+        {
+            "registration":"N-073E",
+            "configuration":"278/69/17",
+            "priceUSD":121612727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-20",
+            "sold":"N/A",
+            "location":"Buenos Aires (EZE)",
+            "route":[
+                "HO-201 EZE-ICN 19,487km"
+            ]
+        },
+        {
+            "registration":"N-074E",
+            "configuration":"278/69/17",
+            "priceUSD":121612727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-20",
+            "sold":"N/A",
+            "location":"Buenos Aires (EZE)",
+            "route":[
+                "HO-203 EZE-ICN 19,487km"
+            ]
+        },
+        {
+            "registration":"N-075E",
+            "configuration":"107/128/34",
+            "priceUSD":121322727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-20",
+            "sold":"N/A",
+            "location":"Buenos Aires (EZE)",
+            "route":[
+                "HO-205 EZE-HND 18,357km"
+            ]
+        },
+        {
+            "registration":"N-076E",
+            "configuration":"107/128/34",
+            "priceUSD":121322727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-20",
+            "sold":"N/A",
+            "location":"Buenos Aires (EZE)",
+            "route":[
+                "HO-207 EZE-HND 18,357km"
+            ]
+        },
+        {
+            "registration":"N-077E",
+            "configuration":"246/68/28",
+            "priceUSD":121717727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-28",
+            "sold":"N/A",
+            "location":"Buenos Aires (EZE)",
+            "route":[
+                "HO-209 EZE-MNL 17,762km"
+            ]
+        },
+        {
+            "registration":"N-078E",
+            "configuration":"246/68/28",
+            "priceUSD":121717727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-28",
+            "sold":"N/A",
+            "location":"Buenos Aires (EZE)",
+            "route":[
+                "HO-211 EZE-MNL 17,762km"
+            ]
+        },
+        {
+            "registration":"N-079E",
+            "configuration":"150/136/15",
+            "priceUSD":121927727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-28",
+            "sold":"N/A",
+            "location":"Buenos Aires (EZE)",
+            "route":[
+                "HO-213 EZE-TPE 18,934km"
+            ]
+        },
+        {
+            "registration":"N-080E",
+            "configuration":"150/136/15",
+            "priceUSD":121927727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-28",
+            "sold":"N/A",
+            "location":"Buenos Aires (EZE)",
+            "route":[
+                "HO-215 EZE-TPE 18,934km"
+            ]
+        },
+        {
+            "registration":"N-081E",
+            "configuration":"85/53/92",
+            "priceUSD":121927727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-28",
+            "sold":"N/A",
+            "location":"Buenos Aires (EZE)",
+            "route":[
+                "HO-200 EZE-CDG 11,001km"
+            ]
+        },
+        {
+            "registration":"N-082E",
+            "configuration":"85/53/92",
+            "priceUSD":121927727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-28",
+            "sold":"N/A",
+            "location":"Buenos Aires (EZE)",
+            "route":[
+                "HO-202 EZE-CDG 11,001km"
+            ]
+        },
+        {
+            "registration":"N-083E",
+            "configuration":"28/134/57",
+            "priceUSD":122337727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-28",
+            "sold":"N/A",
+            "location":"Buenos Aires (EZE)",
+            "route":[
+                "HO-204 EZE-FRA 11,503km"
+            ]
+        },
+        {
+            "registration":"N-084E",
+            "configuration":"28/134/57",
+            "priceUSD":122337727,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-05-28",
+            "sold":"N/A",
+            "location":"Buenos Aires (EZE)",
+            "route":[
+                "HO-206 EZE-FRA 11,503km"
+            ]
+        }
+    ]
+}

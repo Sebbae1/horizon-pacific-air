@@ -1,0 +1,1692 @@
+{
+    "aircraft":{
+        "name":"Boeing 777-300ER",
+        "image":"",
+        "shortName":"B777-300ER",
+        "fleetSize":100,
+        "serviceStatus":"In Service",
+        "roiStatus":"Positive",
+        "description":{
+            "purpose":"Establish premium long-haul wide-body international routes focused on high-density service to major global airports.",
+            "configurations":[
+                "Economy Class",
+                "Business Class",
+                "First Class"
+            ],
+            "operationalFocus":[
+                "High-density international operations",
+                "Premium passenger experience",
+                "Global hub-to-hub connectivity",
+                "In-flight catering capability"
+            ],
+            "advantages":[
+                "Capable of handling 350 passengers in a standard three-class configuration",
+                "Efficient fuel usage for aircraft size at 19 lbs/km",
+                "Powered by two GE90-115B engines",
+                "Wide-body aircraft",
+                "Maximum cruise speed of 1,036 kph",
+                "Long operational range of 14,685 km",
+                "Low maintenance requirements",
+                "460 flight hours before A-Check"
+            ],
+            "disadvantages":[
+                "Requires long 11,000 ft runway due to aircraft size and weight for a twin engine",
+                "Limited airport compatibility compared to a smaller aircraft",
+                "High operational cost due to GE90-115B engines and aircraft size",
+                "Estimated aircraft cost of approximately $69,000,000",
+                "High A-Check maintenance cost of approximately $5,000,000",
+                "Slow turnaround times"
+            ]
+        },
+
+        "performance":{
+            "fuelConsumption":"19 lbs/km",
+            "speed":"1,036 kph",
+            "range":"14,685 km",
+            "maintenanceInterval":"460 flight hours"
+        },
+
+        "financials":{
+            "averageAircraftPriceUSD":69000000,
+            "estimatedFleetInvestmentUSD":6900000000
+        },
+
+        "hubs":[
+            {
+                "airportLocation":"Beijing",
+                "iata":"PEK",
+                "country":"China"
+            },
+            {
+                "airportLocation":"Hong Kong",
+                "iata":"HKG",
+                "country":"Hong Kong"
+            },
+            {
+                "airportLocation":"Singapore",
+                "iata":"SIN",
+                "country":"Singapore"
+            },
+            {
+                "airportLocation":"Dubai",
+                "iata":"DXB",
+                "country":"United Arab Emirates"
+            },
+            {
+                "airportLocation":"Hounslow",
+                "iata":"LHR",
+                "country":"United Kingdom"
+            },
+            {
+                "airportLocation":"Los Angeles",
+                "iata":"LAX",
+                "country":"United States"
+            },
+            {
+                "airportLocation":"Chicago",
+                "iata":"ORD",
+                "country":"United States"
+            }
+        ],
+        "destinations":[
+            {
+                "continent":"Africa",
+                "airports":[
+                    {
+                        "airportLocation":"Johannesburg",
+                        "iata":"JNB",
+                        "country":"South Africa"
+                    }
+                ]
+            },
+            {
+                "continent":"Asia",
+                "airports":[
+                    {
+                        "airportLocation":"Tokyo Narita",
+                        "iata":"NRT",
+                        "country":"Japan"
+                    },
+                    {
+                        "airportLocation":"Manila",
+                        "iata":"MNL",
+                        "country":"Philippines"
+                    },
+                    {
+                        "airportLocation":"Incheon",
+                        "iata":"ICN",
+                        "country":"South Korea"
+                    },
+                    {
+                        "airportLocation":"Taipei",
+                        "iata":"TPE",
+                        "country":"Taiwan"
+                    },
+                    {
+                        "airportLocation":"Ho Chi Minh City",
+                        "iata":"SGN",
+                        "country":"Vietnam"
+                    }
+                ]
+            },
+            {
+                "continent":"Australia",
+                "airports":[
+                    {
+                        "airportLocation":"Melbourne",
+                        "iata":"MEL",
+                        "country":"Australia"
+                    },
+                    {
+                        "airportLocation":"Sydney",
+                        "iata":"SYD",
+                        "country":"Australia"
+                    }
+                ]
+            },
+            {
+                "continent":"Europe",
+                "airports":[
+                    {
+                        "airportLocation":"Paris Charles de Gaulle",
+                        "iata":"CDG",
+                        "country":"France"
+                    },
+                    {
+                        "airportLocation":"Athens",
+                        "iata":"ATH",
+                        "country":"Greece"
+                    },
+                    {
+                        "airportLocation":"Frankfurt",
+                        "iata":"FRA",
+                        "country":"Germany"
+                    },
+                    {
+                        "airportLocation":"Rome",
+                        "iata":"FCO",
+                        "country":"Italy"
+                    },
+                    {
+                        "airportLocation":"Lisbon",
+                        "iata":"LIS",
+                        "country":"Portugal"
+                    },
+                    {
+                        "airportLocation":"Madrid",
+                        "iata":"MAD",
+                        "country":"Spain"
+                    }
+                ]
+            },
+            {
+                "continent":"North America",
+                "airports":[
+                    {
+                        "airportLocation":"Cancun",
+                        "iata":"CUN",
+                        "country":"Mexico"
+                    },
+                    {
+                        "airportLocation":"Mexico City",
+                        "iata":"MEX",
+                        "country":"Mexico"
+                    },
+                    {
+                        "airportLocation":"San Francisco",
+                        "iata":"SFO",
+                        "state":"California",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Miami",
+                        "iata":"MIA",
+                        "state":"Florida",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Atlanta",
+                        "iata":"ATL",
+                        "state":"Georgia",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Honolulu",
+                        "iata":"HNL",
+                        "state":"Hawaii",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"New York City",
+                        "iata":"JFK",
+                        "state":"New York",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Dallas Fort-Worth",
+                        "iata":"DFW",
+                        "state":"Texas",
+                        "country":"United States"
+                    }
+                ]   
+            },
+            {
+                "continent":"South America",
+                "airports":[
+                    {
+                        "airportLocation":"Rio Gallegos",
+                        "iata":"RGL",
+                        "country":"Argentina"
+                    },
+                    {
+                        "airportLocation":"Cochabamba",
+                        "iata":"CBB",
+                        "country":"Bolivia"
+                    },
+                    {
+                        "airportLocation":"Santa Cruz Viru Viru",
+                        "iata":"VVI",
+                        "country":"Bolivia"
+                    },
+                    {
+                        "airportLocation":"Rio de Janeiro",
+                        "iata":"GIG",
+                        "country":"Brazil"
+                    },
+                    {
+                        "airportLocation":"Santiago",
+                        "iata":"SCL",
+                        "country":"Chile"
+                    },
+                    {
+                        "airportLocation":"Santo Domingo",
+                        "iata":"SDQ",
+                        "country":"Dominican Republic"
+                    },
+                    {
+                        "airportLocation":"Lima",
+                        "iata":"LIM",
+                        "country":"Peru"
+                    },
+                    {
+                        "airportLocation":"Caracas",
+                        "iata":"CCS",
+                        "country":"Venezuela"
+                    }
+                ]
+            }
+        ]
+    },
+    "fleet":[
+        {
+            "registration":"N-001D",
+            "configuration":"30/100/40",
+            "priceUSD":69143786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-14",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-23 ORD-TPE 11,980km"
+            ]
+        },
+        {
+            "registration":"N-002D",
+            "configuration":"94/32/64",
+            "priceUSD":69043786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-14",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-27 ORD-ICN 10,520km"
+            ]
+        },
+        {
+            "registration":"N-003D",
+            "configuration":"60/73/48",
+            "priceUSD":69088786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-14",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-31 ORD-NRT 10,074km"
+            ]
+        },
+        {
+            "registration":"N-004D",
+            "configuration":"129/79/21",
+            "priceUSD":68858786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-14",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-35 ORD-SGN 13,959km"
+            ]
+        },
+        {
+            "registration":"N-005D",
+            "configuration":"129/79/21",
+            "priceUSD":68858786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-14",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-37 ORD-SGN 13,959km"
+            ]
+        },
+        {
+            "registration":"N-006D",
+            "configuration":"129/73/25",
+            "priceUSD":68243786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-14",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-39 ORD-MNL 13,070km"
+            ]
+        },
+        {
+            "registration":"N-007D",
+            "configuration":"167/69/15",
+            "priceUSD":68738786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-25",
+            "sold":"N/A",
+            "location":"Dubai (DXB)",
+            "route":[
+                "HO-401 DXB-SFO 13,021km"
+            ]
+        },
+        {
+            "registration":"N-008D",
+            "configuration":"167/69/15",
+            "priceUSD":68738786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-25",
+            "sold":"N/A",
+            "location":"Dubai (DXB)",
+            "route":[
+                "HO-403 DXB-SFO 13,021km"
+            ]
+        },
+        {
+            "registration":"N-009D",
+            "configuration":"97/59/45",
+            "priceUSD":68988786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-25",
+            "sold":"N/A",
+            "location":"Dubai (DXB)",
+            "route":[
+                "HO-405 DXB-DFW 12,920km"
+            ]
+        },
+        {
+            "registration":"N-010D",
+            "configuration":"97/59/45",
+            "priceUSD":68988786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-25",
+            "sold":"N/A",
+            "location":"Dubai (DXB)",
+            "route":[
+                "HO-407 DXB-DFW 12,920km"
+            ]
+        },
+        {
+            "registration":"N-011D",
+            "configuration":"134/78/20",
+            "priceUSD":68243786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-25",
+            "sold":"N/A",
+            "location":"Dubai (DXB)",
+            "route":[
+                "HO-409 DXB-MEL 11,646km"
+            ]
+        },
+        {
+            "registration":"N-012D",
+            "configuration":"134/78/20",
+            "priceUSD":68243786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-25",
+            "sold":"N/A",
+            "location":"Dubai (DXB)",
+            "route":[
+                "HO-411 DXB-MEL 11,646km"
+            ]
+        },
+        {
+            "registration":"N-013D",
+            "configuration":"83/90/29",
+            "priceUSD":68983786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-25",
+            "sold":"N/A",
+            "location":"Dubai (DXB)",
+            "route":[
+                "HO-413 DXB-SYD 12,044km"
+            ]
+        },
+        {
+            "registration":"N-014D",
+            "configuration":"83/90/29",
+            "priceUSD":68983786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-25",
+            "sold":"N/A",
+            "location":"Dubai (DXB)",
+            "route":[
+                "HO-415 DXB-SYD 12,044km"
+            ]
+        },
+        {
+            "registration":"N-015D",
+            "configuration":"110/30/60",
+            "priceUSD":68993786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-02",
+            "sold":"N/A",
+            "location":"Dubai (DXB)",
+            "route":[
+                "HO-417 DXB-MIA 12,607km"
+            ]
+        },
+        {
+            "registration":"N-016D",
+            "configuration":"110/30/60",
+            "priceUSD":68993786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-02",
+            "sold":"N/A",
+            "location":"Dubai (DXB)",
+            "route":[
+                "HO-419 DXB-MIA 12,607km"
+            ]
+        },
+        {
+            "registration":"N-017D",
+            "configuration":"7/86/57",
+            "priceUSD":68888786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-03",
+            "sold":"N/A",
+            "location":"Dubai (DXB)",
+            "route":[
+                "HO-421 DXB-ORD 11,641km",
+                "HO-400 DXB-ICN 6,729km"
+            ]
+        },
+        {
+            "registration":"N-018D",
+            "configuration":"7/86/57",
+            "priceUSD":68888786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-03",
+            "sold":"N/A",
+            "location":"Dubai (DXB)",
+            "route":[
+                "HO-423 DXB-LAX 13,400km",
+                "HO-402 DXB-ICN 6,729km"
+            ]
+        },
+        {
+            "registration":"N-019D",
+            "configuration":"207/32/26",
+            "priceUSD":68663786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-05",
+            "sold":"N/A",
+            "location":"Hounslow (LHR)",
+            "route":[
+                "HO-501 LHR-SYD 17,021km"
+            ]
+        },
+        {
+            "registration":"N-020D",
+            "configuration":"207/32/26",
+            "priceUSD":68663786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-05",
+            "sold":"N/A",
+            "location":"Hounslow (LHR)",
+            "route":[
+                "HO-503 LHR-MEL 16,909km"
+            ]
+        },
+        {
+            "registration":"N-021D",
+            "configuration":"143/72/21",
+            "priceUSD":68813786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-07",
+            "sold":"N/A",
+            "location":"Hounslow (LHR)",
+            "route":[
+                "HO-505 LHR-HNL 11,628km"
+            ]
+        },
+        {
+            "registration":"N-022D",
+            "configuration":"64/110/22",
+            "priceUSD":69013786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-07",
+            "sold":"N/A",
+            "location":"Hounslow (LHR)",
+            "route":[
+                "HO-507 LHR-SGN 10,220km"
+            ]
+        },
+        {
+            "registration":"N-023D",
+            "configuration":"121/29/57",
+            "priceUSD":68958786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-09-07",
+            "sold":"N/A",
+            "location":"Hounslow (LHR)",
+            "route":[
+                "HO-500 LHR-TPE 9,784km"
+            ]
+        },
+        {
+            "registration":"N-024D",
+            "configuration":"130/56/36",
+            "priceUSD":68883786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-09",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-708 SIN-MIA 16,963km"
+            ]
+        },
+        {
+            "registration":"N-025D",
+            "configuration":"61/125/13",
+            "priceUSD":68998786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-09",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-713 DXB-RGL 12,218km",
+                "HO-700 SIN-JFK 15,342km"
+            ]
+        },
+        {
+            "registration":"N-026D",
+            "configuration":"134/56/36",
+            "priceUSD":68808786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-09",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-710 SIN-JFK 15,342km"
+            ]
+        },
+        {
+            "registration":"N-027D",
+            "configuration":"79/92/29",
+            "priceUSD":68993786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-09",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-715 SIN-LIM 18,850km"
+            ]
+        },
+        {
+            "registration":"N-028D",
+            "configuration":"75/94/29",
+            "priceUSD":69003786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-09",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-717 SIN-MAD 11,383km"
+            ]
+        },
+        {
+            "registration":"N-029D",
+            "configuration":"61/104/27",
+            "priceUSD":69033786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-09",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-712 SIN-DFW 15,614km"
+            ]
+        },
+        {
+            "registration":"N-030D",
+            "configuration":"186/43/26",
+            "priceUSD":68718786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-10-09",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-719 SIN-GIG 15,770km"
+            ]
+        },
+        {
+            "registration":"N-031D",
+            "configuration":"163/38/37",
+            "priceUSD":68728786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Hong Kong (HKG)",
+            "route":[
+                "HO-301 HKG-VVI 19,412km",
+                "HO-316 HKG-JFK 12,971km"
+            ]
+        },
+        {
+            "registration":"N-032D",
+            "configuration":"64/103/16",
+            "priceUSD":69018786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Hong Kong (HKG)",
+            "route":[
+                "HO-300 HKG-SCL 18,699km"
+            ]
+        },
+        {
+            "registration":"N-033D",
+            "configuration":"135/47/40",
+            "priceUSD":68878786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Hong Kong (HKG)",
+            "route":[
+                "HO-302 HKG-LIM 18,739km"
+            ]
+        },
+        {
+            "registration":"N-034D",
+            "configuration":"99/86/26",
+            "priceUSD":68933786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Hong Kong (HKG)",
+            "route":[
+                "HO-303 HKG-GIG 17,672km"
+            ]
+        },
+        {
+            "registration":"N-035D",
+            "configuration":"141/84/13",
+            "priceUSD":68793786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Hong Kong (HKG)",
+            "route":[
+                "HO-304 HKG-RGL 16,745km"
+            ]
+        },
+        {
+            "registration":"N-036D",
+            "configuration":"75/91/31",
+            "priceUSD":69008786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Hong Kong (HKG)",
+            "route":[
+                "HO-306 HKG-CUN 14,694km"
+            ]
+        },
+        {
+            "registration":"N-037D",
+            "configuration":"56/108/26",
+            "priceUSD":69043786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Hong Kong (HKG)",
+            "route":[
+                "HO-308 HKG-MIA 14,452km"
+            ]
+        },
+        {
+            "registration":"N-038D",
+            "configuration":"141/84/13",
+            "priceUSD":68783786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Hong Kong (HKG)",
+            "route":[
+                "HO-310 HKG-ATL 13,498km",
+                "HO-310 HKG-RGL 16,745km"
+            ]
+        },
+        {
+            "registration":"N-039D",
+            "configuration":"135/47/40",
+            "priceUSD":68828786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Hong Kong (HKG)",
+            "route":[
+                "HO-312 HKG-CCS 16,354km",
+                "HO-312 HKG-LIM 18,376km"
+            ]
+        },
+        {
+            "registration":"N-040D",
+            "configuration":"64/103/26",
+            "priceUSD":68778786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Hong Kong (HKG)",
+            "route":[
+                "HO-314 HKG-CBB 19,472km",
+                "HO-314 HKG-SCL 18,699km"
+            ]
+        },
+        {
+            "registration":"N-041D",
+            "configuration":"141/57/31",
+            "priceUSD":68838786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-826 PEK-GIG 17,318km"
+            ]
+        },
+        {
+            "registration":"N-042D",
+            "configuration":"242/30/16",
+            "priceUSD":68883786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-824 PEK-LIM 16,918km"
+            ]
+        },
+        {
+            "registration":"N-043D",
+            "configuration":"144/84/12",
+            "priceUSD":68783786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-818 PEK-SCL 19,024km"
+            ]
+        },
+        {
+            "registration":"N-044D",
+            "configuration":"163/32/41",
+            "priceUSD":68813786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-820 PEK-RGL 18,655km"
+            ]
+        },
+        {
+            "registration":"N-045D",
+            "configuration":"183/43/27",
+            "priceUSD":68728786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-803 PEK-VVI 17,520km"
+            ]
+        },
+        {
+            "registration":"N-046D",
+            "configuration":"112/83/24",
+            "priceUSD":68898786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-828 PEK-MIA 12,485km"
+            ]
+        },
+        {
+            "registration":"N-047D",
+            "configuration":"75/97/27",
+            "priceUSD":68998786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-830 PEK-MEX 12,436km"
+            ]
+        },
+        {
+            "registration":"N-048D",
+            "configuration":"112/83/24",
+            "priceUSD":68983786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-803 PEK-JNB 11,708km",
+                "HO-802 PEK-MIA 12,485km"
+            ]
+        },
+        {
+            "registration":"N-049D",
+            "configuration":"141/57/31",
+            "priceUSD":69093786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-834 PEK-ATL 11,539km",
+                "HO-805 PEK-GIG 17,318km"
+            ]
+        },
+        {
+            "registration":"N-050D",
+            "configuration":"183/43/27",
+            "priceUSD":68948786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-11-29",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-836 PEK-SDQ 13,477km",
+                "HO-809 PEK-VVI 17,520km"
+            ]
+        },
+        {
+            "registration":"N-051D",
+            "configuration":"94/32/64",
+            "priceUSD":69043786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-29 ORD-ICN 10,520km"
+            ]
+        },
+        {
+            "registration":"N-052D",
+            "configuration":"60/73/48",
+            "priceUSD":69088786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-33 ORD-NRT 10,074km"
+            ]
+        },
+        {
+            "registration":"N-053D",
+            "configuration":"30/100/40",
+            "priceUSD":69143786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-25 ORD-TPE 11,980km"
+            ]
+        },
+        {
+            "registration":"N-054D",
+            "configuration":"129/73/25",
+            "priceUSD":68243786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-41 ORD-MNL 13,070km"
+            ]
+        },
+        {
+            "registration":"N-055D",
+            "configuration":"231/36/15",
+            "priceUSD":68573786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Hounslow (LHR)",
+            "route":[
+                "HO-509 LHR-MEL 16,909km"
+            ]
+        },
+        {
+            "registration":"N-056D",
+            "configuration":"207/32/26",
+            "priceUSD":68663786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Hounslow (LHR)",
+            "route":[
+                "HO-511 LHR-SYD 17,021km"
+            ]
+        },
+        {
+            "registration":"N-057D",
+            "configuration":"64/110/22",
+            "priceUSD":69013786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Hounslow (LHR)",
+            "route":[
+                "HO-513 LHR-SGN 10,220km"
+            ]
+        },
+        {
+            "registration":"N-058D",
+            "configuration":"143/72/21",
+            "priceUSD":68813786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Hounslow (LHR)",
+            "route":[
+                "HO-515 LHR-HNL 11,628km"
+            ]
+        },
+        {
+            "registration":"N-059D",
+            "configuration":"73/110/19",
+            "priceUSD":68983786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Hounslow (LHR)",
+            "route":[
+                "HO-504 LHR-ICN 8,862km"
+            ]
+        },
+        {
+            "registration":"N-060D",
+            "configuration":"73/110/19",
+            "priceUSD":68983786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Hounslow (LHR)",
+            "route":[
+                "HO-506 LHR-ICN 8,862km"
+            ]
+        },
+        {
+            "registration":"N-061D",
+            "configuration":"121/29/57",
+            "priceUSD":68958786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Hounslow (LHR)",
+            "route":[
+                "HO-502 LHR-TPE 9,784km"
+            ]
+        },
+        {
+            "registration":"N-062D",
+            "configuration":"225/31/21",
+            "priceUSD":68608786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Hounslow (LHR)",
+            "route":[
+                "HO-508 LHR-NRT 9,592km"
+            ]
+        },
+        {
+            "registration":"N-063D",
+            "configuration":"225/31/21",
+            "priceUSD":68608786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Hounslow (LHR)",
+            "route":[
+                "HO-510 LHR-NRT 9,592km"
+            ]
+        },
+        {
+            "registration":"N-064D",
+            "configuration":"130/56/36",
+            "priceUSD":68883786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-702 SIN-MIA 16,963km"
+            ]
+        },
+        {
+            "registration":"N-065D",
+            "configuration":"79/92/29",
+            "priceUSD":68993786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-701 SIN-LIM 18,850km"
+            ]
+        },
+        {
+            "registration":"N-066D",
+            "configuration":"79/92/29",
+            "priceUSD":68993786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-703 SIN-LIM 18,850km"
+            ]
+        },
+        {
+            "registration":"N-067D",
+            "configuration":"75/94/29",
+            "priceUSD":69003786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-705 SIN-MAD 11,383km"
+            ]
+        },
+        {
+            "registration":"N-068D",
+            "configuration":"61/104/27",
+            "priceUSD":69033786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-704 SIN-DFW 15,614km"
+            ]
+        },
+        {
+            "registration":"N-069D",
+            "configuration":"186/43/26",
+            "priceUSD":68718786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-707 SIN-GIG 15,770km"
+            ]
+        },
+        {
+            "registration":"N-070D",
+            "configuration":"186/43/26",
+            "priceUSD":68718786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-709 SIN-GIG 15,770km"
+            ]
+        },
+        {
+            "registration":"N-071D",
+            "configuration":"242/30/16",
+            "priceUSD":68553786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-800 PEK-LIM 16,619km"
+            ]
+        },
+        {
+            "registration":"N-072D",
+            "configuration":"144/84/12",
+            "priceUSD":68783786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-804 PEK-SCL 19,025km"
+            ]
+        },
+        {
+            "registration":"N-073D",
+            "configuration":"163/32/41",
+            "priceUSD":68813786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-806 PEK-RGL 18,656km"
+            ]
+        },
+        {
+            "registration":"N-074D",
+            "configuration":"183/43/27",
+            "priceUSD":68728786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-807 PEK-VVI 17,522km"
+            ]
+        },
+        {
+            "registration":"N-075D",
+            "configuration":"75/97/27",
+            "priceUSD":68998786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Beijing (PEK)",
+            "route":[
+                "HO-808 PEK-MEX 12,437km"
+            ]
+        },
+        {
+            "registration":"N-076D",
+            "configuration":"99/86/26",
+            "priceUSD":68933786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Hong Kong (HKG)",
+            "route":[
+                "HO-301 HKG-GIG 18,448km"
+            ]
+        },
+        {
+            "registration":"N-077D",
+            "configuration":"75/91/31",
+            "priceUSD":69008786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Hong Kong (HKG)",
+            "route":[
+                "HO-318 HKG-CUN 14,695km"
+            ]
+        },
+        {
+            "registration":"N-078D",
+            "configuration":"56/108/26",
+            "priceUSD":69043786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Hong Kong (HKG)",
+            "route":[
+                "HO-320 HKG-MIA 14,452km"
+            ]
+        },
+        {
+            "registration":"N-079D",
+            "configuration":"163/38/37",
+            "priceUSD":68803786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-03-19",
+            "sold":"N/A",
+            "location":"Hong Kong (HKG)",
+            "route":[
+                "HO-322 HKG-JFK 12,971km"
+            ]
+        },
+        {
+            "registration":"N-080D",
+            "configuration":"61/122/15",
+            "priceUSD":68243786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-14 ORD-FCO 7,742km"
+            ]
+        },
+        {
+            "registration":"N-081D",
+            "configuration":"61/122/15",
+            "priceUSD":68243786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-16 ORD-FCO 7,742km"
+            ]
+        },
+        {
+            "registration":"N-082D",
+            "configuration":"71/90/33",
+            "priceUSD":69023786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-18 ORD-MAD 6,746km"
+            ]
+        },
+        {
+            "registration":"N-083D",
+            "configuration":"71/90/33",
+            "priceUSD":69023786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-20 ORD-MAD 6,746km"
+            ]
+        },
+        {
+            "registration":"N-084D",
+            "configuration":"110/93/18",
+            "priceUSD":68888786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-128 LAX-FCO 10,204km"
+            ]
+        },
+        {
+            "registration":"N-085D",
+            "configuration":"110/93/18",
+            "priceUSD":68888786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-130 LAX-FCO 10,204km"
+            ]
+        },
+        {
+            "registration":"N-086D",
+            "configuration":"73/71/45",
+            "priceUSD":69048786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-132 LAX-MAD 9,387km"
+            ]
+        },
+        {
+            "registration":"N-087D",
+            "configuration":"73/71/45",
+            "priceUSD":69048786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-134 LAX-MAD 9,387km"
+            ]
+        },
+        {
+            "registration":"N-088D",
+            "configuration":"87/49/55",
+            "priceUSD":69038786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-136 LAX-LIS 9,137km"
+            ]
+        },
+        {
+            "registration":"N-089D",
+            "configuration":"87/49/55",
+            "priceUSD":69038786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-138 LAX-LIS 9,137km"
+            ]
+        },
+        {
+            "registration":"N-090D",
+            "configuration":"120/97/11",
+            "priceUSD":68838786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-140 LAX-ATH 11,127km"
+            ]
+        },
+        {
+            "registration":"N-091D",
+            "configuration":"120/97/11",
+            "priceUSD":68838786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-142 LAX-ATH 11,127km"
+            ]
+        },
+        {
+            "registration":"N-092D",
+            "configuration":"208/38/22",
+            "priceUSD":68653786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-144 LAX-CDG 9,103km"
+            ]
+        },
+        {
+            "registration":"N-093D",
+            "configuration":"208/38/22",
+            "priceUSD":68653786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-146 LAX-CDG 9,103km"
+            ]
+        },
+        {
+            "registration":"N-094D",
+            "configuration":"166/41/33",
+            "priceUSD":68778786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-148 LAX-FRA 9,322km"
+            ]
+        },
+        {
+            "registration":"N-095D",
+            "configuration":"166/41/33",
+            "priceUSD":68778786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-12",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-150 LAX-FRA 9,322km"
+            ]
+        },
+        {
+            "registration":"N-096D",
+            "configuration":"103/98/17",
+            "priceUSD":68903786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-18",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-721 SIN-FRA 10,280km"
+            ]
+        },
+        {
+            "registration":"N-097D",
+            "configuration":"103/98/17",
+            "priceUSD":68903786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-18",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-723 SIN-FRA 10,280km"
+            ]
+        },
+        {
+            "registration":"N-098D",
+            "configuration":"103/98/17",
+            "priceUSD":68903786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-18",
+            "sold":"N/A",
+            "location":"Singapore (SIN)",
+            "route":[
+                "HO-725 SIN-FRA 10,280km"
+            ]
+        },
+        {
+            "registration":"N-099D",
+            "configuration":"105/97/17",
+            "priceUSD":68898786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-18",
+            "sold":"N/A",
+            "location":"Mumbai (BOM)",
+            "route":[
+                "HO-611 BOM-JFK 12,533km"
+            ]
+        },
+        {
+            "registration":"N-100D",
+            "configuration":"105/97/17",
+            "priceUSD":68898786,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2026-04-18",
+            "sold":"N/A",
+            "location":"Mumbai (BOM)",
+            "route":[
+                "HO-613 BOM-JFK 12,533km"
+            ]
+        }
+    ]
+}

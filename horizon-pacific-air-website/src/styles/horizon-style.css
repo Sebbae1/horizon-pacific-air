@@ -1,0 +1,106 @@
+/* 
+    Creator: Sebastian Jaculbe
+    Created: June 10th, 2026
+    Updated: June 10th, 2026
+    Version 0.3
+*/
+
+/* Main Header */
+header {
+    width: 100%;
+    border-bottom: 3px solid;
+    border-color: #2d82b0;
+}
+
+/* Headings */
+h1 {
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+/* Alliance Logo */
+.alliance {
+    float: right;
+    border-radius: 30%;
+}
+
+/* Table Design */
+table, th, td {
+    border: 2px solid;
+    padding: 8px 15px;
+    font-size: 15px;
+    border-collapse: collapse;
+    overflow-x: auto;
+    margin: auto;
+}
+
+tr:nth-child(even){
+    background-color:beige;
+}
+
+/* NOTE: The table row hover psuedo class must be in between nth-child(even)
+and nth-child(odd) to make sure the table header row is not highlighted when hovered
+UPDATE: NOTE IN USE
+tr:hover{
+    background-color: lightgrey;
+}
+*/
+
+tr:nth-child(odd){
+    background-color: #FACE47;
+    /*background-color: #FFD166;*/
+    /*background-color:rgb(241, 241, 241);*/
+}
+
+/* Red Asterisk */
+.asterisk {
+    color: red;
+} 
+
+/* Configuration Line and Update Statement */
+.config, .update {
+    margin-left: 20%;
+}
+
+.routes {
+    position: relative;
+}
+
+.routes-list {
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transition: max-height 0.35s ease, opacity 0.25s ease;
+    margin-top: 8px;
+    
+}
+
+.routes-list:not(.routes-collapsed){
+    max-height: 200px;
+    opacity: 1;
+}
+
+.routes-collapsed {
+    max-height: 0;
+    opacity: 0;
+}
+
+.routes-ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 6px 0 0 0;
+}
+
+.dropdown {
+    cursor: pointer;
+    padding: 4px 8px;
+    font-size: 16px;
+    width: 28px;
+    text-align: center;
+    transition: transform 0.7s ease;
+}
+
+button {
+    background-color: beige;
+}

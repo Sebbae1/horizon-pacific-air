@@ -1,7 +1,7 @@
 /*
     Creator: Sebastian Jaculbe
     Created: August 19th, 2025
-    Updated: August 19th, 2025
+    Updated: February 23rd, 2026
     Version 0.2
 */
 
@@ -58,4 +58,12 @@ h3 {
     border-radius: 15px;
     padding: 1%;
     max-width: 30%;
+}
+
+.green {
+    color: rgb(17, 137, 17);
+}
+
+.red {
+    color: red;
 }

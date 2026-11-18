@@ -1,0 +1,527 @@
+{
+    "aircraft":{
+        "name":"Airbus 320-NEO",
+        "image":"",
+        "shortName":"A320-NEO",
+        "fleetSize":25,
+        "serviceStatus":"In Service",
+        "roiStatus":"Positive",
+        "description":{
+            "purpose":"Establish premium short-haul flights within the United States",
+            "configurations":[
+                "Economy Class",
+                "Business Class",
+                "First Class"
+            ],
+            "operationalFocus":[
+                "Focus on high-demand destinations",
+                "Premium passenger experience",
+                "Primary emphasis on two-class configurations for some destinations",
+                "In-flight catering capability"
+            ],
+            "advantages":[
+                "Capable of handling 164 passengers in a standard three-class configuration",
+                "Fuel-efficient New Engine Option (NEO) engines with a usage of 7 lbs/km",
+                "Maximum operational range of 7,000km",
+                "Maximum cruise speed of 884 kph",
+                "Higher passenger capacity than the DC-9-10 for similar routes",
+                "Low maintenance requirements",
+                "540 flight hours before A-Check",
+                "Low A-Check cost of approximately $500,000",
+                "Flexible for relocation",
+                "Quick turnaround times"
+            ],
+            "disadvantages":[
+                "Estimated aircraft cost of approximatley $15,000,000",
+                "Slow return on investment (ROI) on short-haul routes",
+                "The aicraft's NEO engines primarily drive the cost of the aircraft because of its fuel efficiency"
+            ]
+        },
+
+        "performance":{
+            "fuelConsumption":"7 lbs/km",
+            "speed":"884 kph",
+            "range":"7,000 km",
+            "maintenanceInterval":"540 flight hours"
+        },
+
+        "financials":{
+            "averageAircraftPriceUSD":15000000,
+            "estimatedFleetInvestmentUSD":375000000
+        },
+
+        "hubs":[
+            {
+                "airportLocation":"Los Angeles",
+                "iata":"LAX",
+                "state":"California",
+                "country":"United States"
+            },
+            {
+                "airportLocation":"Chicago",
+                "iata":"ORD",
+                "state":"Illinois",
+                "country":"United States"
+            }
+        ],
+
+        "destinations":[
+            {
+                "continent":"North America",
+                "airports":[
+                    {
+                        "airportLocation":"Vancouver",
+                        "iata":"YVR",
+                        "state":"British Columbia",
+                        "country":"Canada"
+                    },
+                    {
+                        "airportLocation":"Toronto",
+                        "iata":"YYZ",
+                        "state":"Ontario",
+                        "country":"Canada"
+                    },
+                    {
+                        "airportLocation":"Anchorage",
+                        "iata":"ANC",
+                        "state":"Alaska",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"San Diego",
+                        "iata":"SAN",
+                        "state":"California",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"San Francisco",
+                        "iata":"SFO",
+                        "state":"California",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Miami",
+                        "iata":"MIA",
+                        "state":"Florida",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Tampa",
+                        "iata":"TPA",
+                        "state":"Florida",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Atlanta",
+                        "iata":"ATL",
+                        "state":"Georiga",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Boston",
+                        "iata":"BOS",
+                        "state":"Massachusetts",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Las Vegaas",
+                        "iata":"LAS",
+                        "state":"Nevada",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"New York City",
+                        "iata":"JFK",
+                        "state":"New York",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Portland",
+                        "iata":"PDX",
+                        "state":"Oregon",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Dallas Fort-Worth",
+                        "iata":"DFW",
+                        "state":"Texas",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Houston",
+                        "iata":"HOU",
+                        "state":"Texas",
+                        "country":"United States"
+                    },
+                    {
+                        "airportLocation":"Seattle",
+                        "iata":"SEA",
+                        "state":"Washington",
+                        "country":"United States"
+                    }
+                ]
+            }
+        ]
+        
+    },
+    "fleet":[
+        {
+            "registration":"N-001C",
+            "configuration":"0/1/54",
+            "priceUSD":15225196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-08",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-100 LAX-JFK 3,975km"
+            ]
+        },
+        {
+            "registration":"N-002C",
+            "configuration":"4/47/22",
+            "priceUSD":15225196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-08",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-102 LAX-MIA 3,763km"
+            ]
+        },
+        {
+            "registration":"N-003C",
+            "configuration":"4/47/22",
+            "priceUSD":15265196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-08",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-104 LAX-TPA 3,467km",
+                "HO-104 LAX-MIA 3,763km"
+            ]
+        },
+        {
+            "registration":"N-004C",
+            "configuration":"18/52/14",
+            "priceUSD":15170196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-08",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-106 LAX-ATL 3,126km"
+            ]
+        },
+        {
+            "registration":"N-005C",
+            "configuration":"16/53/14",
+            "priceUSD":15170196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-08",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "LAX-BOS HO-108 4,194km"
+            ]
+        },
+        {
+            "registration":"N-006C",
+            "configuration":"0/40/28",
+            "priceUSD":14990196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-08",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-110 LAX-SFO 544km",
+                "HO-110 LAX-YYZ 3,494km"
+            ]
+        },
+        {
+            "registration":"N-007C",
+            "configuration":"12/46/20",
+            "priceUSD":15100196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-08",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-112 LAX-HOU 2,233km",
+                "HO-112 LAX-DFW 1,984km"
+            ]
+        },
+        {
+            "registration":"N-008C",
+            "configuration":"12/46/20",
+            "priceUSD":15200196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-08",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-114 LAX-DFW 1,984km"
+            ]
+        },
+        {
+            "registration":"N-009C",
+            "configuration":"34/38/18",
+            "priceUSD":14905196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-08",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-116 LAX-PDX 1,344km",
+                "HO-116 LAX-SEA 1,537km"
+            ]
+        },
+        {
+            "registration":"N-010C",
+            "configuration":"34/38/18",
+            "priceUSD":15140196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-08",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-122 LAX-SEA 1,537km"
+            ]
+        },
+        {
+            "registration":"N-011C",
+            "configuration":"54/40/10",
+            "priceUSD":15070196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-17",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-2 ORD-JFK 1.188km"
+            ]
+        },
+        {
+            "registration":"N-012C",
+            "configuration":"0/49/22",
+            "priceUSD":15235196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-17",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-1 ORD-MIA 1,931km"
+            ]
+        },
+        {
+            "registration":"N-013C",
+            "configuration":"10/35/28",
+            "priceUSD":15225196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-17",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-7 ORD-SFO 2,964km"
+            ]
+        },
+        {
+            "registration":"N-014C",
+            "configuration":"87/22/11",
+            "priceUSD":14990196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-17",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-24 ORD-BOS 1,392km"
+            ]
+        },
+        {
+            "registration":"N-015C",
+            "configuration":"0/49/22",
+            "priceUSD":15075196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-18",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-3 ORD-TPA 1,632km",
+                "HO-3 ORD-MIA 1,931km"
+            ]
+        },
+        {
+            "registration":"N-016C",
+            "configuration":"86/30/6",
+            "priceUSD":14980196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-18",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-5 ORD-ATL 977km"
+            ]
+        },
+        {
+            "registration":"N-017C",
+            "configuration":"72/13/22",
+            "priceUSD":15145196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-18",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-9 ORD-HOU 1,523km",
+                "HO-9 ORD-DFW 1,291km"
+            ]
+        },
+        {
+            "registration":"N-018C",
+            "configuration":"72/13/22",
+            "priceUSD":15055196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-18",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-11 ORD-DFW 1,291km"
+            ]
+        },
+        {
+            "registration":"N-019C",
+            "configuration":"1/38/29",
+            "priceUSD":15215196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-19",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-13 ORD-PDX 2,792km",
+                "HO-13 ORD-SEA 2,762km"
+            ]
+        },
+        {
+            "registration":"N-020C",
+            "configuration":"8/39/26",
+            "priceUSD":15225196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-19",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-15 ORD-SAN 2,769km"
+            ]
+        },
+        {
+            "registration":"N-021C",
+            "configuration":"1/38/29",
+            "priceUSD":15250196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-19",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-17 ORD-LAS 2,432km"
+            ]
+        },
+        {
+            "registration":"N-022C",
+            "configuration":"1/38/29",
+            "priceUSD":15250196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-19",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-19 ORD-SEA 2,762km"
+            ]
+        },
+        {
+            "registration":"N-023C",
+            "configuration":"17/48/47",
+            "priceUSD":15180196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-19",
+            "sold":"N/A",
+            "location":"Chicago (ORD)",
+            "route":[
+                "HO-21 ORD-ANC 4,569km"
+            ]
+        },
+        {
+            "registration":"N-024C",
+            "configuration":"50/51/4",
+            "priceUSD":14970196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-19",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-118 LAX-LAS 380km",
+                "HO-118 LAX-YVR 1,741km"
+            ]
+        },
+        {
+            "registration":"N-025C",
+            "configuration":"3/40/27",
+            "priceUSD":15240196,
+            "status":"In Service",
+            "flightHours":0,
+            "cycles":0,
+            "delivered":"2025-08-19",
+            "sold":"N/A",
+            "location":"Los Angeles (LAX)",
+            "route":[
+                "HO-120 LAX-ANC 3,771km"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,502 @@
+[
+    {
+        "aircraft":"N-001D",
+        "configuration":"30/100/40",
+        "price":"$69,143,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"August 14 2025",
+        "sold":"N/A",
+        "routes":["HO-23 TPE 11,980km"]
+    },
+    {
+        "aircraft":"N-002D",
+        "configuration":"94/32/64",
+        "price":"$69,043,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"August 14 2025",
+        "sold":"N/A",
+        "routes":["HO-27 ICN 10,520km"]
+    },
+    {
+        "aircraft":"N-003D",
+        "configuration":"60/73/48",
+        "price":"$69,088,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"August 14 2025",
+        "sold":"N/A",
+        "routes":["HO-31 NRT 10,074km"]
+    },
+    {
+        "aircraft":"N-004D",
+        "configuration":"129/79/21",
+        "price":"$68,858,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"August 14 2025",
+        "sold":"N/A",
+        "routes":["HO-35 SGN 13,959km"]
+    },
+    {
+        "aircraft":"N-005D",
+        "configuration":"129/79/21",
+        "price":"$68,858,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"August 14 2025",
+        "sold":"N/A",
+        "routes":["HO-35 SGN 13,959km"]
+    },
+    {
+        "aircraft":"N-006D",
+        "configuration":"129/73/25",
+        "price":"$68,243,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"August 25 2025",
+        "sold":"N/A",
+        "routes":["HO-39 MNL 13,070km"]
+    },
+    {
+        "aircraft":"N-007D",
+        "configuration":"167/69/15",
+        "price":"$68,738,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"August 25 2025",
+        "sold":"N/A",
+        "routes":["HO-401 SFO 13,021km"]
+    },
+    {
+        "aircraft":"N-008D",
+        "configuration":"167/69/15",
+        "price":"$68,738,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"August 25 2025",
+        "sold":"N/A",
+        "routes":["HO-403 SFO 13,021km"]
+    },
+    {
+        "aircraft":"N-009D",
+        "configuration":"97/59/45",
+        "price":"$68,988,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"August 25 2025",
+        "sold":"N/A",
+        "routes":["HO-405 DFW 12,920km"]
+    },
+    {
+        "aircraft":"N-010D",
+        "configuration":"97/59/45",
+        "price":"$68,988,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"August 25 2025",
+        "sold":"N/A",
+        "routes":["HO-407 DFW 12,920km"]
+    },
+    {
+        "aircraft":"N-011D",
+        "configuration":"134/78/20",
+        "price":"$68,243,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"August 25 2025",
+        "sold":"N/A",
+        "routes":["HO-409 MEL 11,646km"]
+    },
+    {
+        "aircraft":"N-012D",
+        "configuration":"134/78/20",
+        "price":"$68,243,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"August 25 2025",
+        "sold":"N/A",
+        "routes":["HO-411 MEL 11,656km"]
+    },
+    {
+        "aircraft":"N-013D",
+        "configuration":"83/90/29",
+        "price":"$68,983,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"August 25 2025",
+        "sold":"N/A",
+        "routes":["HO-413 SYD 12,044km"]
+    },
+    {
+        "aircraft":"N-014D",
+        "configuration":"83/90/29",
+        "price":"$68,983,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"August 25 2025",
+        "sold":"N/A",
+        "routes":["HO-415 SYD 12,044km"]
+    },
+    {
+        "aircraft":"N-015D",
+        "configuration":"83/90/29",
+        "price":"$68,993,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"September 2 2025",
+        "sold":"N/A",
+        "routes":["HO-417 MIA 12,607km"]
+    },
+    {
+        "aircraft":"N-016D",
+        "configuration":"110/30/60",
+        "price":"$68,993,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"September 2 2025",
+        "sold":"N/A",
+        "routes":["HO-419 MIA 12,607km"]
+    },
+    {
+        "aircraft":"N-017D",
+        "configuration":"7/86/57",
+        "price":"$68,888,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"September 3 2025",
+        "sold":"N/A",
+        "routes":["HO-421 ORD 11,641km", "HO-400 ICN 6,729km"]
+    },
+    {
+        "aircraft":"N-018D",
+        "configuration":"7/86/57",
+        "price":"$69,028,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"September 3 2025",
+        "sold":"N/A",
+        "routes":["HO-423 LAX 13,400km", "HO-402 ICN 6,729km"]
+    },
+    {
+        "aircraft":"N-019D",
+        "configuration":"207/32/26",
+        "price":"$68,663,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"September 5 2025",
+        "sold":"N/A",
+        "routes":["HO-501 SYD 17,021km"]
+    },
+    {
+        "aircraft":"N-020D",
+        "configuration":"231/36/15",
+        "price":"$68,573,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"September 5 2025",
+        "sold":"N/A",
+        "routes":["HO-503 MEL 16,909km"]
+    },
+    {
+        "aircraft":"N-021D",
+        "configuration":"143/72/21",
+        "price":"$68,813,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"September 7 2025",
+        "sold":"N/A",
+        "routes":["HO-505 HNL 11,628km"]
+    },
+    {
+        "aircraft":"N-022D",
+        "configuration":"64/110/22",
+        "price":"$69,013,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"September 7 2025",
+        "sold":"N/A",
+        "routes":["HO-507 SGN 10,220km"]
+    },
+    {
+        "aircraft":"N-023D",
+        "configuration":"121/29/57",
+        "price":"$68,958,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"September 7 2025",
+        "sold":"N/A",
+        "routes":["HO-500 TPE 9,784km"]
+    },
+    {
+        "aircraft":"N-024D",
+        "configuration":"130/56/36",
+        "price":"$68,883,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"October 9 2025",
+        "sold":"N/A",
+        "routes":["HO-708 MIA 16,963km"]
+    },
+    {
+        "aircraft":"N-025D",
+        "configuration":"61/125/13",
+        "price":"$68,998,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"October 9 2025",
+        "sold":"N/A",
+        "routes":["HO-713 RGL 12,218km"]
+    },
+    {
+        "aircraft":"N-026D",
+        "configuration":"134/56/36",
+        "price":"$68,808,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"October 9 2025",
+        "sold":"N/A",
+        "routes":["HO-710 JFK 15,342km"]
+    },
+    {
+        "aircraft":"N-027D",
+        "configuration":"79/92/29",
+        "price":"$68,993,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"October 9 2025",
+        "sold":"N/A",
+        "routes":["HO-715 LIM 18,850km"]
+    },
+    {
+        "aircraft":"N-028D",
+        "configuration":"75/94/29",
+        "price":"$69,003,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"October 9 2025",
+        "sold":"N/A",
+        "routes":["HO-717 MAD 11,383km"]
+    },
+    {
+        "aircraft":"N-029D",
+        "configuration":"61/104/27",
+        "price":"$69,033,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"October 9 2025",
+        "sold":"N/A",
+        "routes":["HO-712 DFW 15,614km"]
+    },
+    {
+        "aircraft":"N-030D",
+        "configuration":"186/43/26",
+        "price":"$68,718,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"October 9 2025",
+        "sold":"N/A",
+        "routes":["HO-719 GIG 15,770km"]
+    },
+    {
+        "aircraft":"N-031D",
+        "configuration":"163/38/37",
+        "price":"$68,728,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-301 VVI 19,412km","HO-316 JFK 12,971km"]
+    },
+    {
+        "aircraft":"N-032D",
+        "configuration":"64/103/16",
+        "price":"$69,018,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-300 SCL 18,699km"]
+    },
+    {
+        "aircraft":"N-033D",
+        "configuration":"135/47/40",
+        "price":"$68,878,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-302 LIM 18,379km"]
+    },
+    {
+        "aircraft":"N-034D",
+        "configuration":"141/84/13",
+        "price":"$68,793,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-303 GIG 17,672km"]
+    },
+    {
+        "aircraft":"N-035D",
+        "configuration":"141/84/13",
+        "price":"$68,793,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-304 RGL 16,745km"]
+    },
+    {
+        "aircraft":"N-036D",
+        "configuration":"75/91/31",
+        "price":"$69,008,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-306 CUN 14,694km"]
+    },
+    {
+        "aircraft":"N-037D",
+        "configuration":"56/108/26",
+        "price":"$69,043,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-308 MIA 14,452km"]
+    },
+    {
+        "aircraft":"N-038D",
+        "configuration":"141/84/13",
+        "price":"$68,783,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-310 ATL 13,498km","HO-310 RGL 16,745km"]
+    },
+    {
+        "aircraft":"N-039D",
+        "configuration":"135/47/40",
+        "price":"$68,828,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-312 CCS 16,354km","HO-312 LIM 18,376km"]
+    },
+    {
+        "aircraft":"N-040D",
+        "configuration":"64/103/26",
+        "price":"$68,778,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-314 CBB 19,472km","HO-314 SCL 18,699km"]
+    },
+    {
+        "aircraft":"N-041D",
+        "configuration":"141/57/31",
+        "price":"$68,838,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-826 GIG 17,318km"]
+    },
+    {
+        "aircraft":"N-042D",
+        "configuration":"242/30/16",
+        "price":"$68,883,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-824 LIM 16,918km"]
+    },
+    {
+        "aircraft":"N-043D",
+        "configuration":"144/84/12",
+        "price":"$68,783,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-818 SCL 19,024km"]
+    },
+    {
+        "aircraft":"N-044D",
+        "configuration":"163/32/41",
+        "price":"$68,813,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-820 RGL 18,655km"]
+    },
+    {
+        "aircraft":"N-045D",
+        "configuration":"183/43/27",
+        "price":"$68,728,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-822 VVI 17,520km"]
+    },
+    {
+        "aircraft":"N-046D",
+        "configuration":"112/83/24",
+        "price":"$68,898,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-828 MIA 12,485km"]
+    },
+    {
+        "aircraft":"N-047D",
+        "configuration":"75/97/27",
+        "price":"$68,998,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-830 MEX 12,436km"]
+    },
+    {
+        "aircraft":"N-048D",
+        "configuration":"112/83/24",
+        "price":"$68,983,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-803 JNB 11,708km","HO-802 MIA 12,485km"]
+    },
+    {
+        "aircraft":"N-049D",
+        "configuration":"141/57/31",
+        "price":"$69,093,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-834 ATL 11,539km","HO-805 GIG 17,318km"]
+    },
+    {
+        "aircraft":"N-050D",
+        "configuration":"183/43/27",
+        "price":"$68,948,786",
+        "status":"In Service",
+        "hours":"",
+        "delivered":"November 29 2025",
+        "sold":"N/A",
+        "routes":["HO-836 SDQ 13,477km","HO-805 VVI 17,520km"]
+    }
+]

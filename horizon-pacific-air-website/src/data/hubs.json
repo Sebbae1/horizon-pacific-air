@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "airport": "LAX",
+    "hubName": "Los Angeles Hub",
+    "hubType": "Primary",
+    "headquarters": false,
+    "opened": null,
+    "terminal": "Terminal TBD",
+    "images": {
+      "hero": null,
+      "terminalMap": null,
+      "lounge": null,
+      "gallery": []
+    },
+    "overview": null,
+    "branding": {
+      "themeColor": null,
+      "logoVariant": null
+    },
+    "facilities": {
+      "lounges": [
+        {
+          "name": "Horizon Pacific First Lounge",
+          "type": "First",
+          "active": true
+        },
+        {
+          "name": "Horizon Pacific Business Lounge",
+          "type": "Business",
+          "active": true
+        }
+      ],
+      "maintenanceBase": true,
+      "crewBase": true,
+      "cargoFacility": true,
+      "trainingCenter": false,
+      "cateringFacility": false
+    },
+    "operations": {
+      "primaryHub": true,
+      "curfew": null,
+      "notes": null
+    },
+    "statistics": {
+      "basedAircraft": null,
+      "activeRoutes": null,
+      "destinationsServed": null,
+      "weeklyDepartures": null
+    },
+    "futureExpansion": {
+      "plannedTerminal": null,
+      "plannedLounges": null,
+      "plannedFacilities": []
+    },
+    "active": true
+  },
+  {
+    "id": 2,
+    "airport": "ORD",
+    "hubName": "Chicago Hub",
+    "hubType": "Primary",
+    "headquarters": true,
+    "opened": null,
+    "terminal": "Terminal TBD",
+    "images": {
+      "hero": null,
+      "terminalMap": null,
+      "lounge": null,
+      "gallery": []
+    },
+    "overview": null,
+    "branding": {
+      "themeColor": null,
+      "logoVariant": null
+    },
+    "facilities": {
+      "lounges": [
+        {
+          "name": "Horizon Pacific First Lounge",
+          "type": "First",
+          "active": true
+        },
+        {
+          "name": "Horizon Pacific Business Lounge",
+          "type": "Business",
+          "active": true
+        }
+      ],
+      "maintenanceBase": true,
+      "crewBase": true,
+      "cargoFacility": true,
+      "trainingCenter": false,
+      "cateringFacility": false
+    },
+    "operations": {
+      "primaryHub": true,
+      "curfew": null,
+      "notes": null
+    },
+    "statistics": {
+      "basedAircraft": null,
+      "activeRoutes": null,
+      "destinationsServed": null,
+      "weeklyDepartures": null
+    },
+    "futureExpansion": {
+      "plannedTerminal": null,
+      "plannedLounges": null,
+      "plannedFacilities": []
+    },
+    "active": true
+  },
+  {
+    "id": 3,
+    "airport": "LHR",
+    "hubName": "London Hub",
+    "hubType": "Primary",
+    "headquarters": false,
+    "opened": null,
+    "terminal": "Terminal TBD",
+    "images": {
+      "hero": null,
+      "terminalMap": null,
+      "lounge": null,
+      "gallery": []
+    },
+    "overview": null,
+    "branding": {
+      "themeColor": null,
+      "logoVariant": null
+    },
+    "facilities": {
+      "lounges": [
+        {
+          "name": "Horizon Pacific First Lounge",
+          "type": "First",
+          "active": true
+        },
+        {
+          "name": "Horizon Pacific Business Lounge",
+          "type": "Business",
+          "active": true
+        }
+      ],
+      "maintenanceBase": true,
+      "crewBase": true,
+      "cargoFacility": true,
+      "trainingCenter": false,
+      "cateringFacility": false
+    },
+    "operations": {
+      "primaryHub": true,
+      "curfew": null,
+      "notes": null
+    },
+    "statistics": {
+      "basedAircraft": null,
+      "activeRoutes": null,
+      "destinationsServed": null,
+      "weeklyDepartures": null
+    },
+    "futureExpansion": {
+      "plannedTerminal": null,
+      "plannedLounges": null,
+      "plannedFacilities": []
+    },
+    "active": true
+  },
+  {
+    "id": 4,
+    "airport": "EZE",
+    "hubName": "Buenos Aires Hub",
+    "hubType": "Primary",
+    "headquarters": false,
+    "opened": null,
+    "terminal": "Terminal TBD",
+    "images": {
+      "hero": null,
+      "terminalMap": null,
+      "lounge": null,
+      "gallery": []
+    },
+    "overview": null,
+    "branding": {
+      "themeColor": null,
+      "logoVariant": null
+    },
+    "facilities": {
+      "lounges": [
+        {
+          "name": "Horizon Pacific First Lounge",
+          "type": "First",
+          "active": true
+        },
+        {
+          "name": "Horizon Pacific Business Lounge",
+          "type": "Business",
+          "active": true
+        }
+      ],
+      "maintenanceBase": true,
+      "crewBase": true,
+      "cargoFacility": true,
+      "trainingCenter": false,
+      "cateringFacility": false
+    },
+    "operations": {
+      "primaryHub": true,
+      "curfew": null,
+      "notes": null
+    },
+    "statistics": {
+      "basedAircraft": null,
+      "activeRoutes": null,
+      "destinationsServed": null,
+      "weeklyDepartures": null
+    },
+    "futureExpansion": {
+      "plannedTerminal": null,
+      "plannedLounges": null,
+      "plannedFacilities": []
+    },
+    "active": true
+  },
+  {
+    "id": 5,
+    "airport": "DXB",
+    "hubName": "Dubai Hub",
+    "hubType": "Primary",
+    "headquarters": false,
+    "opened": null,
+    "terminal": "Terminal TBD",
+    "images": {
+      "hero": null,
+      "terminalMap": null,
+      "lounge": null,
+      "gallery": []
+    },
+    "overview": null,
+    "branding": {
+      "themeColor": null,
+      "logoVariant": null
+    },
+    "facilities": {
+      "lounges": [
+        {
+          "name": "Horizon Pacific First Lounge",
+          "type": "First",
+          "active": true
+        },
+        {
+          "name": "Horizon Pacific Business Lounge",
+          "type": "Business",
+          "active": true
+        }
+      ],
+      "maintenanceBase": true,
+      "crewBase": true,
+      "cargoFacility": true,
+      "trainingCenter": false,
+      "cateringFacility": false
+    },
+    "operations": {
+      "primaryHub": true,
+      "curfew": null,
+      "notes": null
+    },
+    "statistics": {
+      "basedAircraft": null,
+      "activeRoutes": null,
+      "destinationsServed": null,
+      "weeklyDepartures": null
+    },
+    "futureExpansion": {
+      "plannedTerminal": null,
+      "plannedLounges": null,
+      "plannedFacilities": []
+    },
+    "active": true
+  },
+  {
+    "id": 6,
+    "airport": "HKG",
+    "hubName": "Hong Kong Hub",
+    "hubType": "Primary",
+    "headquarters": false,
+    "opened": null,
+    "terminal": "Terminal TBD",
+    "images": {
+      "hero": null,
+      "terminalMap": null,
+      "lounge": null,
+      "gallery": []
+    },
+    "overview": null,
+    "branding": {
+      "themeColor": null,
+      "logoVariant": null
+    },
+    "facilities": {
+      "lounges": [
+        {
+          "name": "Horizon Pacific First Lounge",
+          "type": "First",
+          "active": true
+        },
+        {
+          "name": "Horizon Pacific Business Lounge",
+          "type": "Business",
+          "active": true
+        }
+      ],
+      "maintenanceBase": true,
+      "crewBase": true,
+      "cargoFacility": true,
+      "trainingCenter": false,
+      "cateringFacility": false
+    },
+    "operations": {
+      "primaryHub": true,
+      "curfew": null,
+      "notes": null
+    },
+    "statistics": {
+      "basedAircraft": null,
+      "activeRoutes": null,
+      "destinationsServed": null,
+      "weeklyDepartures": null
+    },
+    "futureExpansion": {
+      "plannedTerminal": null,
+      "plannedLounges": null,
+      "plannedFacilities": []
+    },
+    "active": true
+  },
+  {
+    "id": 7,
+    "airport": "PEK",
+    "hubName": "Beijing Hub",
+    "hubType": "Primary",
+    "headquarters": false,
+    "opened": null,
+    "terminal": "Terminal TBD",
+    "images": {
+      "hero": null,
+      "terminalMap": null,
+      "lounge": null,
+      "gallery": []
+    },
+    "overview": null,
+    "branding": {
+      "themeColor": null,
+      "logoVariant": null
+    },
+    "facilities": {
+      "lounges": [
+        {
+          "name": "Horizon Pacific First Lounge",
+          "type": "First",
+          "active": true
+        },
+        {
+          "name": "Horizon Pacific Business Lounge",
+          "type": "Business",
+          "active": true
+        }
+      ],
+      "maintenanceBase": true,
+      "crewBase": true,
+      "cargoFacility": true,
+      "trainingCenter": false,
+      "cateringFacility": false
+    },
+    "operations": {
+      "primaryHub": true,
+      "curfew": null,
+      "notes": null
+    },
+    "statistics": {
+      "basedAircraft": null,
+      "activeRoutes": null,
+      "destinationsServed": null,
+      "weeklyDepartures": null
+    },
+    "futureExpansion": {
+      "plannedTerminal": null,
+      "plannedLounges": null,
+      "plannedFacilities": []
+    },
+    "active": true
+  },
+  {
+    "id": 8,
+    "airport": "SIN",
+    "hubName": "Singapore Hub",
+    "hubType": "Primary",
+    "headquarters": false,
+    "opened": null,
+    "terminal": "Terminal TBD",
+    "images": {
+      "hero": null,
+      "terminalMap": null,
+      "lounge": null,
+      "gallery": []
+    },
+    "overview": null,
+    "branding": {
+      "themeColor": null,
+      "logoVariant": null
+    },
+    "facilities": {
+      "lounges": [
+        {
+          "name": "Horizon Pacific First Lounge",
+          "type": "First",
+          "active": true
+        },
+        {
+          "name": "Horizon Pacific Business Lounge",
+          "type": "Business",
+          "active": true
+        }
+      ],
+      "maintenanceBase": true,
+      "crewBase": true,
+      "cargoFacility": true,
+      "trainingCenter": false,
+      "cateringFacility": false
+    },
+    "operations": {
+      "primaryHub": true,
+      "curfew": null,
+      "notes": null
+    },
+    "statistics": {
+      "basedAircraft": null,
+      "activeRoutes": null,
+      "destinationsServed": null,
+      "weeklyDepartures": null
+    },
+    "futureExpansion": {
+      "plannedTerminal": null,
+      "plannedLounges": null,
+      "plannedFacilities": []
+    },
+    "active": true
+  },
+  {
+    "id": 9,
+    "airport": "CEB",
+    "hubName": "Cebu Hub",
+    "hubType": "Primary",
+    "headquarters": false,
+    "opened": null,
+    "terminal": "Terminal TBD",
+    "images": {
+      "hero": null,
+      "terminalMap": null,
+      "lounge": null,
+      "gallery": []
+    },
+    "overview": null,
+    "branding": {
+      "themeColor": null,
+      "logoVariant": null
+    },
+    "facilities": {
+      "lounges": [
+        {
+          "name": "Horizon Pacific First Lounge",
+          "type": "First",
+          "active": true
+        },
+        {
+          "name": "Horizon Pacific Business Lounge",
+          "type": "Business",
+          "active": true
+        }
+      ],
+      "maintenanceBase": true,
+      "crewBase": true,
+      "cargoFacility": true,
+      "trainingCenter": false,
+      "cateringFacility": false
+    },
+    "operations": {
+      "primaryHub": true,
+      "curfew": null,
+      "notes": null
+    },
+    "statistics": {
+      "basedAircraft": null,
+      "activeRoutes": null,
+      "destinationsServed": null,
+      "weeklyDepartures": null
+    },
+    "futureExpansion": {
+      "plannedTerminal": null,
+      "plannedLounges": null,
+      "plannedFacilities": []
+    },
+    "active": true
+  },
+  {
+    "id": 10,
+    "airport": "BOM",
+    "hubName": "Mumbai Hub",
+    "hubType": "Primary",
+    "headquarters": false,
+    "opened": null,
+    "terminal": "Terminal TBD",
+    "images": {
+      "hero": null,
+      "terminalMap": null,
+      "lounge": null,
+      "gallery": []
+    },
+    "overview": null,
+    "branding": {
+      "themeColor": null,
+      "logoVariant": null
+    },
+    "facilities": {
+      "lounges": [
+        {
+          "name": "Horizon Pacific First Lounge",
+          "type": "First",
+          "active": true
+        },
+        {
+          "name": "Horizon Pacific Business Lounge",
+          "type": "Business",
+          "active": true
+        }
+      ],
+      "maintenanceBase": true,
+      "crewBase": true,
+      "cargoFacility": true,
+      "trainingCenter": false,
+      "cateringFacility": false
+    },
+    "operations": {
+      "primaryHub": true,
+      "curfew": null,
+      "notes": null
+    },
+    "statistics": {
+      "basedAircraft": null,
+      "activeRoutes": null,
+      "destinationsServed": null,
+      "weeklyDepartures": null
+    },
+    "futureExpansion": {
+      "plannedTerminal": null,
+      "plannedLounges": null,
+      "plannedFacilities": []
+    },
+    "active": true
+  }
+]

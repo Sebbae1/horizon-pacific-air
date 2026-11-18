@@ -1,0 +1,110 @@
+/*
+    Creator: Sebastian Jaculbe
+    Created: September 7th, 2026
+    Updated: September 7th, 2026
+    Version 0.3
+*/
+
+.flight-search {
+    width: 100%;
+    background: white;
+    border-radius: 12px;
+    padding: 30px;
+    box-sizing: border-box;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+}
+
+.flight-search-header h3 {
+    margin: 0 0 25px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.trip-type {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 25px;
+}
+
+.trip-type button {
+    padding: 10px 22px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 6px;
+}
+
+.trip-type button.active {
+    font-weight: 600;
+}
+
+.flight-search-row {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.search-field {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.search-field label {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.search-field select,
+.search-field input {
+    width: 100%;
+    min-height: 48px;
+    padding: 0 14px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-size: 15px;
+    background: white;
+}
+
+.search-field select:focus,
+.search-field input:focus {
+    outline: none;
+}
+
+.search-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+
+.search-flights-button {
+    min-width: 180px;
+    padding: 14px 25px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+@media (max-width: 768px) {
+
+    .flight-search-row {
+        flex-direction: column;
+    }
+
+    .search-button-container {
+        justify-content: stretch;
+    }
+
+    .search-flights-button {
+        width: 100%;
+    }
+
+    .flight-search {
+        padding: 20px;
+    }
+}

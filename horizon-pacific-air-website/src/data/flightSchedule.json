@@ -1,0 +1,3346 @@
+[
+  {
+    "id": 1,
+    "flightId": "CEB-MIA-001",
+    "routeCode": "CEB-MIA",
+    "flightNumber": "HO-900",
+    "aircraft": {
+      "aircraftId": "B747-8-001",
+      "registration": "N-001E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 2,
+    "flightId": "CEB-MIA-002",
+    "routeCode": "CEB-MIA",
+    "flightNumber": "HO-926",
+    "aircraft": {
+      "aircraftId": "B747-8-011",
+      "registration": "N-011E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 3,
+    "flightId": "CEB-BOG-001",
+    "routeCode": "CEB-BOG",
+    "flightNumber": "HO-902",
+    "aircraft": {
+      "aircraftId": "B747-8-002",
+      "registration": "N-002E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 4,
+    "flightId": "CEB-BOG-002",
+    "routeCode": "CEB-BOG",
+    "flightNumber": "HO-908",
+    "aircraft": {
+      "aircraftId": "B747-8-007",
+      "registration": "N-007E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 5,
+    "flightId": "CEB-BSB-001",
+    "routeCode": "CEB-BSB",
+    "flightNumber": "HO-901",
+    "aircraft": {
+      "aircraftId": "B747-8-003",
+      "registration": "N-003E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 6,
+    "flightId": "CEB-BSB-002",
+    "routeCode": "CEB-BSB",
+    "flightNumber": "HO-905",
+    "aircraft": {
+      "aircraftId": "B747-8-009",
+      "registration": "N-009E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 7,
+    "flightId": "CEB-GIG-001",
+    "routeCode": "CEB-GIG",
+    "flightNumber": "HO-903",
+    "aircraft": {
+      "aircraftId": "B747-8-004",
+      "registration": "N-004E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 8,
+    "flightId": "CEB-VVI-001",
+    "routeCode": "CEB-VVI",
+    "flightNumber": "HO-904",
+    "aircraft": {
+      "aircraftId": "B747-8-005",
+      "registration": "N-005E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 9,
+    "flightId": "CEB-SFO-001",
+    "routeCode": "CEB-SFO",
+    "flightNumber": "HO-906",
+    "aircraft": {
+      "aircraftId": "B747-8-006",
+      "registration": "N-006E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 10,
+    "flightId": "CEB-JFK-001",
+    "routeCode": "CEB-JFK",
+    "flightNumber": "HO-910",
+    "aircraft": {
+      "aircraftId": "B747-8-008",
+      "registration": "N-008E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 11,
+    "flightId": "CEB-JFK-002",
+    "routeCode": "CEB-JFK",
+    "flightNumber": "HO-934",
+    "aircraft": {
+      "aircraftId": "B747-8-071",
+      "registration": "N-071E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 12,
+    "flightId": "CEB-LIM-001",
+    "routeCode": "CEB-LIM",
+    "flightNumber": "HO-914",
+    "aircraft": {
+      "aircraftId": "B747-8-010",
+      "registration": "N-010E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 13,
+    "flightId": "CEB-LIM-002",
+    "routeCode": "CEB-LIM",
+    "flightNumber": "HO-928",
+    "aircraft": {
+      "aircraftId": "B747-8-013",
+      "registration": "N-013E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 14,
+    "flightId": "CEB-MAD-001",
+    "routeCode": "CEB-MAD",
+    "flightNumber": "HO-907",
+    "aircraft": {
+      "aircraftId": "B747-8-012",
+      "registration": "N-012E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 15,
+    "flightId": "CEB-CDG-001",
+    "routeCode": "CEB-CDG",
+    "flightNumber": "HO-911",
+    "aircraft": {
+      "aircraftId": "B747-8-014",
+      "registration": "N-014E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 16,
+    "flightId": "CEB-MEX-001",
+    "routeCode": "CEB-MEX",
+    "flightNumber": "HO-916",
+    "aircraft": {
+      "aircraftId": "B747-8-015",
+      "registration": "N-015E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 17,
+    "flightId": "CEB-MEX-002",
+    "routeCode": "CEB-MEX",
+    "flightNumber": "HO-918",
+    "aircraft": {
+      "aircraftId": "B747-8-016",
+      "registration": "N-016E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 18,
+    "flightId": "CEB-SDQ-001",
+    "routeCode": "CEB-SDQ",
+    "flightNumber": "HO-920",
+    "aircraft": {
+      "aircraftId": "B747-8-017",
+      "registration": "N-017E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 19,
+    "flightId": "CEB-SDQ-002",
+    "routeCode": "CEB-SDQ",
+    "flightNumber": "HO-932",
+    "aircraft": {
+      "aircraftId": "B747-8-048",
+      "registration": "N-048E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 20,
+    "flightId": "CEB-CCS-001",
+    "routeCode": "CEB-CCS",
+    "flightNumber": "HO-922",
+    "aircraft": {
+      "aircraftId": "B747-8-018",
+      "registration": "N-018E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+    "id": 21,
+    "flightId": "CEB-CCS-002",
+    "routeCode": "CEB-CCS",
+    "flightNumber": "HO-936",
+    "aircraft": {
+      "aircraftId": "B747-8-072",
+      "registration": "N-072E",
+      "type": "B747-800",
+      "homeHub": "CEB"
+    },
+    "status": {
+      "flightStatus": "Scheduled",
+      "boardingStatus": "Open"
+    }
+  },
+  {
+  "id": 22,
+  "flightId": "CEB-BGI-001",
+  "routeCode": "CEB-BGI",
+  "flightNumber": "HO-924",
+  "aircraft": {
+    "aircraftId": "B747-8-019",
+    "registration": "N-019E",
+    "type": "B747-800",
+    "homeHub": "CEB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 23,
+  "flightId": "CEB-LIS-001",
+  "routeCode": "CEB-LIS",
+  "flightNumber": "HO-913",
+  "aircraft": {
+    "aircraftId": "B747-8-020",
+    "registration": "N-020E",
+    "type": "B747-800",
+    "homeHub": "CEB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 24,
+  "flightId": "LAX-CPT-001",
+  "routeCode": "LAX-CPT",
+  "flightNumber": "HO-158",
+  "aircraft": {
+    "aircraftId": "B747-8-021",
+    "registration": "N-021E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 25,
+  "flightId": "LAX-CPT-002",
+  "routeCode": "LAX-CPT",
+  "flightNumber": "HO-154",
+  "aircraft": {
+    "aircraftId": "B747-8-049",
+    "registration": "N-049E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 26,
+  "flightId": "LAX-JNB-001",
+  "routeCode": "LAX-JNB",
+  "flightNumber": "HO-124",
+  "aircraft": {
+    "aircraftId": "B747-8-022",
+    "registration": "N-022E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 27,
+  "flightId": "LAX-JNB-002",
+  "routeCode": "LAX-JNB",
+  "flightNumber": "HO-156",
+  "aircraft": {
+    "aircraftId": "B747-8-050",
+    "registration": "N-050E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 28,
+  "flightId": "LAX-MLE-001",
+  "routeCode": "LAX-MLE",
+  "flightNumber": "HO-101",
+  "aircraft": {
+    "aircraftId": "B747-8-023",
+    "registration": "N-023E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 29,
+  "flightId": "LAX-MLE-002",
+  "routeCode": "LAX-MLE",
+  "flightNumber": "HO-131",
+  "aircraft": {
+    "aircraftId": "B747-8-051",
+    "registration": "N-051E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 30,
+  "flightId": "LAX-CMB-001",
+  "routeCode": "LAX-CMB",
+  "flightNumber": "HO-103",
+  "aircraft": {
+    "aircraftId": "B747-8-024",
+    "registration": "N-024E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 31,
+  "flightId": "LAX-CMB-002",
+  "routeCode": "LAX-CMB",
+  "flightNumber": "HO-115",
+  "aircraft": {
+    "aircraftId": "B747-8-052",
+    "registration": "N-052E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 32,
+  "flightId": "LAX-SGN-001",
+  "routeCode": "LAX-SGN",
+  "flightNumber": "HO-105",
+  "aircraft": {
+    "aircraftId": "B747-8-025",
+    "registration": "N-025E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 33,
+  "flightId": "LAX-SGN-002",
+  "routeCode": "LAX-SGN",
+  "flightNumber": "HO-117",
+  "aircraft": {
+    "aircraftId": "B747-8-053",
+    "registration": "N-053E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 34,
+  "flightId": "LAX-MEL-001",
+  "routeCode": "LAX-MEL",
+  "flightNumber": "HO-107",
+  "aircraft": {
+    "aircraftId": "B747-8-026",
+    "registration": "N-026E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 35,
+  "flightId": "LAX-MEL-002",
+  "routeCode": "LAX-MEL",
+  "flightNumber": "HO-119",
+  "aircraft": {
+    "aircraftId": "B747-8-054",
+    "registration": "N-054E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 36,
+  "flightId": "LAX-CGK-001",
+  "routeCode": "LAX-CGK",
+  "flightNumber": "HO-109",
+  "aircraft": {
+    "aircraftId": "B747-8-027",
+    "registration": "N-027E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 37,
+  "flightId": "LAX-CGK-002",
+  "routeCode": "LAX-CGK",
+  "flightNumber": "HO-121",
+  "aircraft": {
+    "aircraftId": "B747-8-055",
+    "registration": "N-055E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 38,
+  "flightId": "LAX-BLR-001",
+  "routeCode": "LAX-BLR",
+  "flightNumber": "HO-111",
+  "aircraft": {
+    "aircraftId": "B747-8-028",
+    "registration": "N-028E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 39,
+  "flightId": "LAX-BLR-002",
+  "routeCode": "LAX-BLR",
+  "flightNumber": "HO-123",
+  "aircraft": {
+    "aircraftId": "B747-8-056",
+    "registration": "N-056E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 40,
+  "flightId": "LAX-DOH-001",
+  "routeCode": "LAX-DOH",
+  "flightNumber": "HO-126",
+  "aircraft": {
+    "aircraftId": "B747-8-029",
+    "registration": "N-029E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 41,
+  "flightId": "LAX-DOH-002",
+  "routeCode": "LAX-DOH",
+  "flightNumber": "HO-152",
+  "aircraft": {
+    "aircraftId": "B747-8-057",
+    "registration": "N-057E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 42,
+  "flightId": "LAX-DMK-001",
+  "routeCode": "LAX-DMK",
+  "flightNumber": "HO-113",
+  "aircraft": {
+    "aircraftId": "B747-8-030",
+    "registration": "N-030E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 43,
+  "flightId": "LAX-DMK-002",
+  "routeCode": "LAX-DMK",
+  "flightNumber": "HO-125",
+  "aircraft": {
+    "aircraftId": "B747-8-058",
+    "registration": "N-058E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 44,
+  "flightId": "LAX-SYD-001",
+  "routeCode": "LAX-SYD",
+  "flightNumber": "HO-127",
+  "aircraft": {
+    "aircraftId": "B747-8-059",
+    "registration": "N-059E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 45,
+  "flightId": "LAX-SYD-002",
+  "routeCode": "LAX-SYD",
+  "flightNumber": "HO-129",
+  "aircraft": {
+    "aircraftId": "B747-8-060",
+    "registration": "N-060E",
+    "type": "B747-800",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 46,
+  "flightId": "ORD-HND-001",
+  "routeCode": "ORD-HND",
+  "flightNumber": "HO-63",
+  "aircraft": {
+    "aircraftId": "B747-8-041",
+    "registration": "N-041E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 47,
+  "flightId": "ORD-HND-002",
+  "routeCode": "ORD-HND",
+  "flightNumber": "HO-41",
+  "aircraft": {
+    "aircraftId": "B747-8-031",
+    "registration": "N-031E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 48,
+  "flightId": "ORD-JHB-001",
+  "routeCode": "ORD-JHB",
+  "flightNumber": "HO-43",
+  "aircraft": {
+    "aircraftId": "B747-8-032",
+    "registration": "N-032E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 49,
+  "flightId": "ORD-JHB-002",
+  "routeCode": "ORD-JHB",
+  "flightNumber": "HO-65",
+  "aircraft": {
+    "aircraftId": "B747-8-061",
+    "registration": "N-061E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 50,
+  "flightId": "ORD-SYD-001",
+  "routeCode": "ORD-SYD",
+  "flightNumber": "HO-45",
+  "aircraft": {
+    "aircraftId": "B747-8-033",
+    "registration": "N-033E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 51,
+  "flightId": "ORD-SYD-002",
+  "routeCode": "ORD-SYD",
+  "flightNumber": "HO-47",
+  "aircraft": {
+    "aircraftId": "B747-8-034",
+    "registration": "N-034E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 52,
+  "flightId": "ORD-CMB-001",
+  "routeCode": "ORD-CMB",
+  "flightNumber": "HO-4",
+  "aircraft": {
+    "aircraftId": "B747-8-035",
+    "registration": "N-035E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 53,
+  "flightId": "ORD-CMB-002",
+  "routeCode": "ORD-CMB",
+  "flightNumber": "HO-6",
+  "aircraft": {
+    "aircraftId": "B747-8-036",
+    "registration": "N-036E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 54,
+  "flightId": "ORD-MEL-001",
+  "routeCode": "ORD-MEL",
+  "flightNumber": "HO-49",
+  "aircraft": {
+    "aircraftId": "B747-8-037",
+    "registration": "N-037E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 55,
+  "flightId": "ORD-MEL-002",
+  "routeCode": "ORD-MEL",
+  "flightNumber": "HO-67",
+  "aircraft": {
+    "aircraftId": "B747-8-062",
+    "registration": "N-062E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 56,
+  "flightId": "ORD-PER-001",
+  "routeCode": "ORD-PER",
+  "flightNumber": "HO-51",
+  "aircraft": {
+    "aircraftId": "B747-8-038",
+    "registration": "N-038E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 57,
+  "flightId": "ORD-PER-002",
+  "routeCode": "ORD-PER",
+  "flightNumber": "HO-69",
+  "aircraft": {
+    "aircraftId": "B747-8-063",
+    "registration": "N-063E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 58,
+  "flightId": "ORD-BWN-001",
+  "routeCode": "ORD-BWN",
+  "flightNumber": "HO-53",
+  "aircraft": {
+    "aircraftId": "B747-8-040",
+    "registration": "N-040E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 59,
+  "flightId": "ORD-BWN-002",
+  "routeCode": "ORD-BWN",
+  "flightNumber": "HO-71",
+  "aircraft": {
+    "aircraftId": "B747-8-065",
+    "registration": "N-065E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 60,
+  "flightId": "ORD-JNB-001",
+  "routeCode": "ORD-JNB",
+  "flightNumber": "HO-8",
+  "aircraft": {
+    "aircraftId": "B747-8-039",
+    "registration": "N-039E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 61,
+  "flightId": "ORD-JNB-002",
+  "routeCode": "ORD-JNB",
+  "flightNumber": "HO-10",
+  "aircraft": {
+    "aircraftId": "B747-8-064",
+    "registration": "N-064E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 62,
+  "flightId": "ORD-DMK-001",
+  "routeCode": "ORD-DMK",
+  "flightNumber": "HO-55",
+  "aircraft": {
+    "aircraftId": "B747-8-042",
+    "registration": "N-042E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 63,
+  "flightId": "ORD-DMK-002",
+  "routeCode": "ORD-DMK",
+  "flightNumber": "HO-73",
+  "aircraft": {
+    "aircraftId": "B747-8-066",
+    "registration": "N-066E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 64,
+  "flightId": "ORD-HAN-001",
+  "routeCode": "ORD-HAN",
+  "flightNumber": "HO-57",
+  "aircraft": {
+    "aircraftId": "B747-8-043",
+    "registration": "N-043E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 65,
+  "flightId": "ORD-HAN-002",
+  "routeCode": "ORD-HAN",
+  "flightNumber": "HO-75",
+  "aircraft": {
+    "aircraftId": "B747-8-067",
+    "registration": "N-067E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 66,
+  "flightId": "ORD-MNL-001",
+  "routeCode": "ORD-MNL",
+  "flightNumber": "HO-59",
+  "aircraft": {
+    "aircraftId": "B747-8-044",
+    "registration": "N-044E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 67,
+  "flightId": "ORD-MNL-002",
+  "routeCode": "ORD-MNL",
+  "flightNumber": "HO-77",
+  "aircraft": {
+    "aircraftId": "B747-8-068",
+    "registration": "N-068E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 68,
+  "flightId": "ORD-GAN-001",
+  "routeCode": "ORD-GAN",
+  "flightNumber": "HO-12",
+  "aircraft": {
+    "aircraftId": "B747-8-045",
+    "registration": "N-045E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 69,
+  "flightId": "ORD-GAN-002",
+  "routeCode": "ORD-GAN",
+  "flightNumber": "HO-22",
+  "aircraft": {
+    "aircraftId": "B747-8-069",
+    "registration": "N-069E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 70,
+  "flightId": "ORD-KNO-001",
+  "routeCode": "ORD-KNO",
+  "flightNumber": "HO-79",
+  "aircraft": {
+    "aircraftId": "B747-8-070",
+    "registration": "N-070E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 71,
+  "flightId": "EZE-ICN-001",
+  "routeCode": "EZE-ICN",
+  "flightNumber": "HO-201",
+  "aircraft": {
+    "aircraftId": "B747-8-073",
+    "registration": "N-073E",
+    "type": "B747-800",
+    "homeHub": "EZE"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 72,
+  "flightId": "EZE-ICN-002",
+  "routeCode": "EZE-ICN",
+  "flightNumber": "HO-203",
+  "aircraft": {
+    "aircraftId": "B747-8-074",
+    "registration": "N-074E",
+    "type": "B747-800",
+    "homeHub": "EZE"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 73,
+  "flightId": "EZE-HND-001",
+  "routeCode": "EZE-HND",
+  "flightNumber": "HO-205",
+  "aircraft": {
+    "aircraftId": "B747-8-075",
+    "registration": "N-075E",
+    "type": "B747-800",
+    "homeHub": "EZE"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 74,
+  "flightId": "EZE-HND-002",
+  "routeCode": "EZE-HND",
+  "flightNumber": "HO-207",
+  "aircraft": {
+    "aircraftId": "B747-8-076",
+    "registration": "N-076E",
+    "type": "B747-800",
+    "homeHub": "EZE"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 75,
+  "flightId": "EZE-MNL-001",
+  "routeCode": "EZE-MNL",
+  "flightNumber": "HO-209",
+  "aircraft": {
+    "aircraftId": "B747-8-077",
+    "registration": "N-077E",
+    "type": "B747-800",
+    "homeHub": "EZE"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 76,
+  "flightId": "EZE-MNL-002",
+  "routeCode": "EZE-MNL",
+  "flightNumber": "HO-211",
+  "aircraft": {
+    "aircraftId": "B747-8-078",
+    "registration": "N-078E",
+    "type": "B747-800",
+    "homeHub": "EZE"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 77,
+  "flightId": "EZE-TPE-001",
+  "routeCode": "EZE-TPE",
+  "flightNumber": "HO-213",
+  "aircraft": {
+    "aircraftId": "B747-8-079",
+    "registration": "N-079E",
+    "type": "B747-800",
+    "homeHub": "EZE"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 78,
+  "flightId": "EZE-TPE-002",
+  "routeCode": "EZE-TPE",
+  "flightNumber": "HO-215",
+  "aircraft": {
+    "aircraftId": "B747-8-080",
+    "registration": "N-080E",
+    "type": "B747-800",
+    "homeHub": "EZE"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 79,
+  "flightId": "EZE-CDG-001",
+  "routeCode": "EZE-CDG",
+  "flightNumber": "HO-200",
+  "aircraft": {
+    "aircraftId": "B747-8-081",
+    "registration": "N-081E",
+    "type": "B747-800",
+    "homeHub": "EZE"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 80,
+  "flightId": "EZE-CDG-002",
+  "routeCode": "EZE-CDG",
+  "flightNumber": "HO-202",
+  "aircraft": {
+    "aircraftId": "B747-8-082",
+    "registration": "N-082E",
+    "type": "B747-800",
+    "homeHub": "EZE"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 81,
+  "flightId": "EZE-FRA-001",
+  "routeCode": "EZE-FRA",
+  "flightNumber": "HO-204",
+  "aircraft": {
+    "aircraftId": "B747-8-083",
+    "registration": "N-083E",
+    "type": "B747-800",
+    "homeHub": "EZE"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 82,
+  "flightId": "EZE-FRA-002",
+  "routeCode": "EZE-FRA",
+  "flightNumber": "HO-206",
+  "aircraft": {
+    "aircraftId": "B747-8-084",
+    "registration": "N-084E",
+    "type": "B747-800",
+    "homeHub": "EZE"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 83,
+  "flightId": "ORD-KNO-002",
+  "routeCode": "ORD-KNO",
+  "flightNumber": "HO-61",
+  "aircraft": {
+    "aircraftId": "B747-8-046",
+    "registration": "N-046E",
+    "type": "B747-800",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 84,
+  "flightId": "CEB-BGI-002",
+  "routeCode": "CEB-BGI",
+  "flightNumber": "HO-930",
+  "aircraft": {
+    "aircraftId": "B747-8-047",
+    "registration": "N-047E",
+    "type": "B747-800",
+    "homeHub": "CEB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 101,
+  "flightId": "LAX-JFK-001",
+  "routeCode": "LAX-JFK",
+  "flightNumber": "HO-100",
+  "aircraft": {
+    "aircraftId": "A320-NEO-001",
+    "registration": "N-001C",
+    "type": "A320neo",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 102,
+  "flightId": "LAX-MIA-001",
+  "routeCode": "LAX-MIA",
+  "flightNumber": "HO-102",
+  "aircraft": {
+    "aircraftId": "A320-NEO-002",
+    "registration": "N-002C",
+    "type": "A320neo",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 103,
+  "flightId": "LAX-MIA-002",
+  "routeCode": "LAX-MIA",
+  "flightNumber": "HO-104",
+  "aircraft": {
+    "aircraftId": "A320-NEO-003",
+    "registration": "N-003C",
+    "type": "A320neo",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 104,
+  "flightId": "LAX-ATL-001",
+  "routeCode": "LAX-ATL",
+  "flightNumber": "HO-106",
+  "aircraft": {
+    "aircraftId": "A320-NEO-004",
+    "registration": "N-004C",
+    "type": "A320neo",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 105,
+  "flightId": "LAX-BOS-001",
+  "routeCode": "LAX-BOS",
+  "flightNumber": "HO-108",
+  "aircraft": {
+    "aircraftId": "A320-NEO-005",
+    "registration": "N-005C",
+    "type": "A320neo",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 106,
+  "flightId": "LAX-YYZ-001",
+  "routeCode": "LAX-YYZ",
+  "flightNumber": "HO-110",
+  "aircraft": {
+    "aircraftId": "A320-NEO-006",
+    "registration": "N-006C",
+    "type": "A320neo",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 107,
+  "flightId": "LAX-DFW-001",
+  "routeCode": "LAX-DFW",
+  "flightNumber": "HO-112",
+  "aircraft": {
+    "aircraftId": "A320-NEO-007",
+    "registration": "N-007C",
+    "type": "A320neo",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 108,
+  "flightId": "LAX-DFW-002",
+  "routeCode": "LAX-DFW",
+  "flightNumber": "HO-114",
+  "aircraft": {
+    "aircraftId": "A320-NEO-008",
+    "registration": "N-008C",
+    "type": "A320neo",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 109,
+  "flightId": "LAX-SEA-001",
+  "routeCode": "LAX-SEA",
+  "flightNumber": "HO-116",
+  "aircraft": {
+    "aircraftId": "A320-NEO-009",
+    "registration": "N-009C",
+    "type": "A320neo",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 110,
+  "flightId": "LAX-SEA-002",
+  "routeCode": "LAX-SEA",
+  "flightNumber": "HO-122",
+  "aircraft": {
+    "aircraftId": "A320-NEO-010",
+    "registration": "N-010C",
+    "type": "A320neo",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 111,
+  "flightId": "ORD-JFK-001",
+  "routeCode": "ORD-JFK",
+  "flightNumber": "HO-2",
+  "aircraft": {
+    "aircraftId": "A320-NEO-011",
+    "registration": "N-011C",
+    "type": "A320neo",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 112,
+  "flightId": "ORD-MIA-001",
+  "routeCode": "ORD-MIA",
+  "flightNumber": "HO-1",
+  "aircraft": {
+    "aircraftId": "A320-NEO-012",
+    "registration": "N-012C",
+    "type": "A320neo",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 113,
+  "flightId": "ORD-SFO-001",
+  "routeCode": "ORD-SFO",
+  "flightNumber": "HO-7",
+  "aircraft": {
+    "aircraftId": "A320-NEO-013",
+    "registration": "N-013C",
+    "type": "A320neo",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 114,
+  "flightId": "ORD-BOS-001",
+  "routeCode": "ORD-BOS",
+  "flightNumber": "HO-24",
+  "aircraft": {
+    "aircraftId": "A320-NEO-014",
+    "registration": "N-014C",
+    "type": "A320neo",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 115,
+  "flightId": "ORD-MIA-002",
+  "routeCode": "ORD-MIA",
+  "flightNumber": "HO-3",
+  "aircraft": {
+    "aircraftId": "A320-NEO-015",
+    "registration": "N-015C",
+    "type": "A320neo",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 116,
+  "flightId": "ORD-ATL-001",
+  "routeCode": "ORD-ATL",
+  "flightNumber": "HO-5",
+  "aircraft": {
+    "aircraftId": "A320-NEO-016",
+    "registration": "N-016C",
+    "type": "A320neo",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 117,
+  "flightId": "ORD-DFW-001",
+  "routeCode": "ORD-DFW",
+  "flightNumber": "HO-9",
+  "aircraft": {
+    "aircraftId": "A320-NEO-017",
+    "registration": "N-017C",
+    "type": "A320neo",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 118,
+  "flightId": "ORD-DFW-002",
+  "routeCode": "ORD-DFW",
+  "flightNumber": "HO-11",
+  "aircraft": {
+    "aircraftId": "A320-NEO-018",
+    "registration": "N-018C",
+    "type": "A320neo",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 119,
+  "flightId": "ORD-SEA-001",
+  "routeCode": "ORD-SEA",
+  "flightNumber": "HO-13",
+  "aircraft": {
+    "aircraftId": "A320-NEO-019",
+    "registration": "N-019C",
+    "type": "A320neo",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 120,
+  "flightId": "ORD-SAN-001",
+  "routeCode": "ORD-SAN",
+  "flightNumber": "HO-15",
+  "aircraft": {
+    "aircraftId": "A320-NEO-020",
+    "registration": "N-020C",
+    "type": "A320neo",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 121,
+  "flightId": "ORD-SEA-002",
+  "routeCode": "ORD-SEA",
+  "flightNumber": "HO-19",
+  "aircraft": {
+    "aircraftId": "A320-NEO-022",
+    "registration": "N-022C",
+    "type": "A320neo",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 122,
+  "flightId": "ORD-LAS-001",
+  "routeCode": "ORD-LAS",
+  "flightNumber": "HO-17",
+  "aircraft": {
+    "aircraftId": "A320-NEO-021",
+    "registration": "N-021C",
+    "type": "A320neo",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 123,
+  "flightId": "ORD-ANC-001",
+  "routeCode": "ORD-ANC",
+  "flightNumber": "HO-21",
+  "aircraft": {
+    "aircraftId": "A320-NEO-023",
+    "registration": "N-023C",
+    "type": "A320neo",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 124,
+  "flightId": "LAX-YVR-001",
+  "routeCode": "LAX-YVR",
+  "flightNumber": "HO-118",
+  "aircraft": {
+    "aircraftId": "A320-NEO-024",
+    "registration": "N-024C",
+    "type": "A320neo",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 125,
+  "flightId": "LAX-ANC-001",
+  "routeCode": "LAX-ANC",
+  "flightNumber": "HO-120",
+  "aircraft": {
+    "aircraftId": "A320-NEO-025",
+    "registration": "N-025C",
+    "type": "A320neo",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 126,
+  "flightId": "ORD-TPE-001",
+  "routeCode": "ORD-TPE",
+  "flightNumber": "HO-23",
+  "aircraft": {
+    "aircraftId": "B777-300ER-001",
+    "registration": "N-001D",
+    "type": "B777-300ER",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 127,
+  "flightId": "ORD-ICN-001",
+  "routeCode": "ORD-ICN",
+  "flightNumber": "HO-27",
+  "aircraft": {
+    "aircraftId": "B777-300ER-002",
+    "registration": "N-002D",
+    "type": "B777-300ER",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 128,
+  "flightId": "ORD-NRT-001",
+  "routeCode": "ORD-NRT",
+  "flightNumber": "HO-31",
+  "aircraft": {
+    "aircraftId": "B777-300ER-003",
+    "registration": "N-003D",
+    "type": "B777-300ER",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 129,
+  "flightId": "ORD-SGN-001",
+  "routeCode": "ORD-SGN",
+  "flightNumber": "HO-35",
+  "aircraft": {
+    "aircraftId": "B777-300ER-004",
+    "registration": "N-004D",
+    "type": "B777-300ER",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 130,
+  "flightId": "ORD-SGN-002",
+  "routeCode": "ORD-SGN",
+  "flightNumber": "HO-37",
+  "aircraft": {
+    "aircraftId": "B777-300ER-005",
+    "registration": "N-005D",
+    "type": "B777-300ER",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 131,
+  "flightId": "ORD-MNL-001",
+  "routeCode": "ORD-MNL",
+  "flightNumber": "HO-39",
+  "aircraft": {
+    "aircraftId": "B777-300ER-006",
+    "registration": "N-006D",
+    "type": "B777-300ER",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 132,
+  "flightId": "DXB-SFO-001",
+  "routeCode": "DXB-SFO",
+  "flightNumber": "HO-401",
+  "aircraft": {
+    "aircraftId": "B777-300ER-007",
+    "registration": "N-007D",
+    "type": "B777-300ER",
+    "homeHub": "DXB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 133,
+  "flightId": "DXB-SFO-002",
+  "routeCode": "DXB-SFO",
+  "flightNumber": "HO-403",
+  "aircraft": {
+    "aircraftId": "B777-300ER-008",
+    "registration": "N-008D",
+    "type": "B777-300ER",
+    "homeHub": "DXB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 134,
+  "flightId": "DXB-DFW-001",
+  "routeCode": "DXB-DFW",
+  "flightNumber": "HO-405",
+  "aircraft": {
+    "aircraftId": "B777-300ER-009",
+    "registration": "N-009D",
+    "type": "B777-300ER",
+    "homeHub": "DXB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 135,
+  "flightId": "DXB-DFW-002",
+  "routeCode": "DXB-DFW",
+  "flightNumber": "HO-407",
+  "aircraft": {
+    "aircraftId": "B777-300ER-010",
+    "registration": "N-010D",
+    "type": "B777-300ER",
+    "homeHub": "DXB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 136,
+  "flightId": "DXB-MEL-001",
+  "routeCode": "DXB-MEL",
+  "flightNumber": "HO-409",
+  "aircraft": {
+    "aircraftId": "B777-300ER-011",
+    "registration": "N-011D",
+    "type": "B777-300ER",
+    "homeHub": "DXB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 137,
+  "flightId": "DXB-MEL-002",
+  "routeCode": "DXB-MEL",
+  "flightNumber": "HO-411",
+  "aircraft": {
+    "aircraftId": "B777-300ER-012",
+    "registration": "N-012D",
+    "type": "B777-300ER",
+    "homeHub": "DXB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 138,
+  "flightId": "DXB-SYD-001",
+  "routeCode": "DXB-SYD",
+  "flightNumber": "HO-413",
+  "aircraft": {
+    "aircraftId": "B777-300ER-013",
+    "registration": "N-013D",
+    "type": "B777-300ER",
+    "homeHub": "DXB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 139,
+  "flightId": "DXB-SYD-002",
+  "routeCode": "DXB-SYD",
+  "flightNumber": "HO-415",
+  "aircraft": {
+    "aircraftId": "B777-300ER-014",
+    "registration": "N-014D",
+    "type": "B777-300ER",
+    "homeHub": "DXB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 140,
+  "flightId": "DXB-MIA-001",
+  "routeCode": "DXB-MIA",
+  "flightNumber": "HO-417",
+  "aircraft": {
+    "aircraftId": "B777-300ER-015",
+    "registration": "N-015D",
+    "type": "B777-300ER",
+    "homeHub": "DXB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 141,
+  "flightId": "DXB-MIA-002",
+  "routeCode": "DXB-MIA",
+  "flightNumber": "HO-419",
+  "aircraft": {
+    "aircraftId": "B777-300ER-016",
+    "registration": "N-016D",
+    "type": "B777-300ER",
+    "homeHub": "DXB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 142,
+  "flightId": "DXB-ICN-001",
+  "routeCode": "DXB-ICN",
+  "flightNumber": "HO-400",
+  "aircraft": {
+    "aircraftId": "B777-300ER-017",
+    "registration": "N-017D",
+    "type": "B777-300ER",
+    "homeHub": "DXB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 143,
+  "flightId": "DXB-ICN-002",
+  "routeCode": "DXB-ICN",
+  "flightNumber": "HO-402",
+  "aircraft": {
+    "aircraftId": "B777-300ER-018",
+    "registration": "N-018D",
+    "type": "B777-300ER",
+    "homeHub": "DXB"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 144,
+  "flightId": "LHR-SYD-001",
+  "routeCode": "LHR-SYD",
+  "flightNumber": "HO-501",
+  "aircraft": {
+    "aircraftId": "B777-300ER-019",
+    "registration": "N-019D",
+    "type": "B777-300ER",
+    "homeHub": "LHR"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 145,
+  "flightId": "LHR-MEL-001",
+  "routeCode": "LHR-MEL",
+  "flightNumber": "HO-503",
+  "aircraft": {
+    "aircraftId": "B777-300ER-020",
+    "registration": "N-020D",
+    "type": "B777-300ER",
+    "homeHub": "LHR"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 146,
+  "flightId": "LHR-HNL-001",
+  "routeCode": "LHR-HNL",
+  "flightNumber": "HO-505",
+  "aircraft": {
+    "aircraftId": "B777-300ER-021",
+    "registration": "N-021D",
+    "type": "B777-300ER",
+    "homeHub": "LHR"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 147,
+  "flightId": "LHR-SGN-001",
+  "routeCode": "LHR-SGN",
+  "flightNumber": "HO-507",
+  "aircraft": {
+    "aircraftId": "B777-300ER-022",
+    "registration": "N-022D",
+    "type": "B777-300ER",
+    "homeHub": "LHR"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 148,
+  "flightId": "LHR-TPE-001",
+  "routeCode": "LHR-TPE",
+  "flightNumber": "HO-500",
+  "aircraft": {
+    "aircraftId": "B777-300ER-023",
+    "registration": "N-023D",
+    "type": "B777-300ER",
+    "homeHub": "LHR"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 149,
+  "flightId": "SIN-MIA-001",
+  "routeCode": "SIN-MIA",
+  "flightNumber": "HO-708",
+  "aircraft": {
+    "aircraftId": "B777-300ER-024",
+    "registration": "N-024D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 150,
+  "flightId": "SIN-JFK-001",
+  "routeCode": "SIN-JFK",
+  "flightNumber": "HO-700",
+  "aircraft": {
+    "aircraftId": "B777-300ER-025",
+    "registration": "N-025D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 151,
+  "flightId": "SIN-JFK-002",
+  "routeCode": "SIN-JFK",
+  "flightNumber": "HO-710",
+  "aircraft": {
+    "aircraftId": "B777-300ER-026",
+    "registration": "N-026D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 152,
+  "flightId": "SIN-LIM-001",
+  "routeCode": "SIN-LIM",
+  "flightNumber": "HO-715",
+  "aircraft": {
+    "aircraftId": "B777-300ER-027",
+    "registration": "N-027D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 153,
+  "flightId": "SIN-MAD-001",
+  "routeCode": "SIN-MAD",
+  "flightNumber": "HO-717",
+  "aircraft": {
+    "aircraftId": "B777-300ER-028",
+    "registration": "N-028D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 154,
+  "flightId": "SIN-DFW-001",
+  "routeCode": "SIN-DFW",
+  "flightNumber": "HO-712",
+  "aircraft": {
+    "aircraftId": "B777-300ER-029",
+    "registration": "N-029D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 155,
+  "flightId": "SIN-GIG-001",
+  "routeCode": "SIN-GIG",
+  "flightNumber": "HO-719",
+  "aircraft": {
+    "aircraftId": "B777-300ER-030",
+    "registration": "N-030D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 156,
+  "flightId": "HKG-JFK-001",
+  "routeCode": "HKG-JFK",
+  "flightNumber": "HO-316",
+  "aircraft": {
+    "aircraftId": "B777-300ER-031",
+    "registration": "N-031D",
+    "type": "B777-300ER",
+    "homeHub": "HKG"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 157,
+  "flightId": "HKG-SCL-001",
+  "routeCode": "HKG-SCL",
+  "flightNumber": "HO-300",
+  "aircraft": {
+    "aircraftId": "B777-300ER-032",
+    "registration": "N-032D",
+    "type": "B777-300ER",
+    "homeHub": "HKG"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 158,
+  "flightId": "HKG-LIM-001",
+  "routeCode": "HKG-LIM",
+  "flightNumber": "HO-302",
+  "aircraft": {
+    "aircraftId": "B777-300ER-033",
+    "registration": "N-033D",
+    "type": "B777-300ER",
+    "homeHub": "HKG"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 159,
+  "flightId": "HKG-GIG-001",
+  "routeCode": "HKG-GIG",
+  "flightNumber": "HO-303",
+  "aircraft": {
+    "aircraftId": "B777-300ER-034",
+    "registration": "N-034D",
+    "type": "B777-300ER",
+    "homeHub": "HKG"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 160,
+  "flightId": "HKG-RGL-001",
+  "routeCode": "HKG-RGL",
+  "flightNumber": "HO-304",
+  "aircraft": {
+    "aircraftId": "B777-300ER-035",
+    "registration": "N-035D",
+    "type": "B777-300ER",
+    "homeHub": "HKG"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 161,
+  "flightId": "HKG-CUN-001",
+  "routeCode": "HKG-CUN",
+  "flightNumber": "HO-306",
+  "aircraft": {
+    "aircraftId": "B777-300ER-036",
+    "registration": "N-036D",
+    "type": "B777-300ER",
+    "homeHub": "HKG"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 162,
+  "flightId": "HKG-MIA-001",
+  "routeCode": "HKG-MIA",
+  "flightNumber": "HO-308",
+  "aircraft": {
+    "aircraftId": "B777-300ER-037",
+    "registration": "N-037D",
+    "type": "B777-300ER",
+    "homeHub": "HKG"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 163,
+  "flightId": "HKG-RGL-002",
+  "routeCode": "HKG-RGL",
+  "flightNumber": "HO-310",
+  "aircraft": {
+    "aircraftId": "B777-300ER-038",
+    "registration": "N-038D",
+    "type": "B777-300ER",
+    "homeHub": "HKG"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 164,
+  "flightId": "HKG-LIM-002",
+  "routeCode": "HKG-LIM",
+  "flightNumber": "HO-312",
+  "aircraft": {
+    "aircraftId": "B777-300ER-039",
+    "registration": "N-039D",
+    "type": "B777-300ER",
+    "homeHub": "HKG"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 165,
+  "flightId": "HKG-SCL-002",
+  "routeCode": "HKG-SCL",
+  "flightNumber": "HO-314",
+  "aircraft": {
+    "aircraftId": "B777-300ER-040",
+    "registration": "N-040D",
+    "type": "B777-300ER",
+    "homeHub": "HKG"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 166,
+  "flightId": "PEK-GIG-001",
+  "routeCode": "PEK-GIG",
+  "flightNumber": "HO-826",
+  "aircraft": {
+    "aircraftId": "B777-300ER-041",
+    "registration": "N-041D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 167,
+  "flightId": "PEK-LIM-001",
+  "routeCode": "PEK-LIM",
+  "flightNumber": "HO-824",
+  "aircraft": {
+    "aircraftId": "B777-300ER-042",
+    "registration": "N-042D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 168,
+  "flightId": "PEK-SCL-001",
+  "routeCode": "PEK-SCL",
+  "flightNumber": "HO-818",
+  "aircraft": {
+    "aircraftId": "B777-300ER-043",
+    "registration": "N-043D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 169,
+  "flightId": "PEK-RGL-001",
+  "routeCode": "PEK-RGL",
+  "flightNumber": "HO-820",
+  "aircraft": {
+    "aircraftId": "B777-300ER-044",
+    "registration": "N-044D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 170,
+  "flightId": "PEK-VVI-001",
+  "routeCode": "PEK-VVI",
+  "flightNumber": "HO-803",
+  "aircraft": {
+    "aircraftId": "B777-300ER-045",
+    "registration": "N-045D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 171,
+  "flightId": "PEK-MIA-001",
+  "routeCode": "PEK-MIA",
+  "flightNumber": "HO-828",
+  "aircraft": {
+    "aircraftId": "B777-300ER-046",
+    "registration": "N-046D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 172,
+  "flightId": "PEK-MEX-001",
+  "routeCode": "PEK-MEX",
+  "flightNumber": "HO-830",
+  "aircraft": {
+    "aircraftId": "B777-300ER-047",
+    "registration": "N-047D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 173,
+  "flightId": "PEK-MIA-002",
+  "routeCode": "PEK-MIA",
+  "flightNumber": "HO-802",
+  "aircraft": {
+    "aircraftId": "B777-300ER-048",
+    "registration": "N-048D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 174,
+  "flightId": "PEK-GIG-002",
+  "routeCode": "PEK-GIG",
+  "flightNumber": "HO-805",
+  "aircraft": {
+    "aircraftId": "B777-300ER-049",
+    "registration": "N-049D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 175,
+  "flightId": "PEK-VVI-002",
+  "routeCode": "PEK-VVI",
+  "flightNumber": "HO-809",
+  "aircraft": {
+    "aircraftId": "B777-300ER-050",
+    "registration": "N-050D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 176,
+  "flightId": "ORD-ICN-002",
+  "routeCode": "ORD-ICN",
+  "flightNumber": "HO-29",
+  "aircraft": {
+    "aircraftId": "B777-300ER-051",
+    "registration": "N-051D",
+    "type": "B777-300ER",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 177,
+  "flightId": "ORD-NRT-002",
+  "routeCode": "ORD-NRT",
+  "flightNumber": "HO-33",
+  "aircraft": {
+    "aircraftId": "B777-300ER-052",
+    "registration": "N-052D",
+    "type": "B777-300ER",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 178,
+  "flightId": "ORD-TPE-002",
+  "routeCode": "ORD-TPE",
+  "flightNumber": "HO-25",
+  "aircraft": {
+    "aircraftId": "B777-300ER-053",
+    "registration": "N-053D",
+    "type": "B777-300ER",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 179,
+  "flightId": "ORD-MNL-002",
+  "routeCode": "ORD-MNL",
+  "flightNumber": "HO-41",
+  "aircraft": {
+    "aircraftId": "B777-300ER-054",
+    "registration": "N-054D",
+    "type": "B777-300ER",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 180,
+  "flightId": "LHR-MEL-002",
+  "routeCode": "LHR-MEL",
+  "flightNumber": "HO-509",
+  "aircraft": {
+    "aircraftId": "B777-300ER-055",
+    "registration": "N-055D",
+    "type": "B777-300ER",
+    "homeHub": "LHR"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 181,
+  "flightId": "LHR-SYD-002",
+  "routeCode": "LHR-SYD",
+  "flightNumber": "HO-511",
+  "aircraft": {
+    "aircraftId": "B777-300ER-056",
+    "registration": "N-056D",
+    "type": "B777-300ER",
+    "homeHub": "LHR"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 182,
+  "flightId": "LHR-SGN-002",
+  "routeCode": "LHR-SGN",
+  "flightNumber": "HO-513",
+  "aircraft": {
+    "aircraftId": "B777-300ER-057",
+    "registration": "N-057D",
+    "type": "B777-300ER",
+    "homeHub": "LHR"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 183,
+  "flightId": "LHR-HNL-002",
+  "routeCode": "LHR-HNL",
+  "flightNumber": "HO-515",
+  "aircraft": {
+    "aircraftId": "B777-300ER-058",
+    "registration": "N-058D",
+    "type": "B777-300ER",
+    "homeHub": "LHR"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 184,
+  "flightId": "LHR-ICN-001",
+  "routeCode": "LHR-ICN",
+  "flightNumber": "HO-504",
+  "aircraft": {
+    "aircraftId": "B777-300ER-059",
+    "registration": "N-059D",
+    "type": "B777-300ER",
+    "homeHub": "LHR"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 185,
+  "flightId": "LHR-ICN-002",
+  "routeCode": "LHR-ICN",
+  "flightNumber": "HO-506",
+  "aircraft": {
+    "aircraftId": "B777-300ER-060",
+    "registration": "N-060D",
+    "type": "B777-300ER",
+    "homeHub": "LHR"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 186,
+  "flightId": "LHR-TPE-002",
+  "routeCode": "LHR-TPE",
+  "flightNumber": "HO-502",
+  "aircraft": {
+    "aircraftId": "B777-300ER-061",
+    "registration": "N-061D",
+    "type": "B777-300ER",
+    "homeHub": "LHR"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 187,
+  "flightId": "LHR-NRT-001",
+  "routeCode": "LHR-NRT",
+  "flightNumber": "HO-508",
+  "aircraft": {
+    "aircraftId": "B777-300ER-062",
+    "registration": "N-062D",
+    "type": "B777-300ER",
+    "homeHub": "LHR"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 188,
+  "flightId": "LHR-NRT-002",
+  "routeCode": "LHR-NRT",
+  "flightNumber": "HO-510",
+  "aircraft": {
+    "aircraftId": "B777-300ER-063",
+    "registration": "N-063D",
+    "type": "B777-300ER",
+    "homeHub": "LHR"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 189,
+  "flightId": "SIN-MIA-002",
+  "routeCode": "SIN-MIA",
+  "flightNumber": "HO-702",
+  "aircraft": {
+    "aircraftId": "B777-300ER-064",
+    "registration": "N-064D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 190,
+  "flightId": "SIN-LIM-002",
+  "routeCode": "SIN-LIM",
+  "flightNumber": "HO-701",
+  "aircraft": {
+    "aircraftId": "B777-300ER-065",
+    "registration": "N-065D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 191,
+  "flightId": "SIN-LIM-003",
+  "routeCode": "SIN-LIM",
+  "flightNumber": "HO-703",
+  "aircraft": {
+    "aircraftId": "B777-300ER-066",
+    "registration": "N-066D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 192,
+  "flightId": "SIN-MAD-002",
+  "routeCode": "SIN-MAD",
+  "flightNumber": "HO-705",
+  "aircraft": {
+    "aircraftId": "B777-300ER-067",
+    "registration": "N-067D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 193,
+  "flightId": "SIN-DFW-002",
+  "routeCode": "SIN-DFW",
+  "flightNumber": "HO-704",
+  "aircraft": {
+    "aircraftId": "B777-300ER-068",
+    "registration": "N-068D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 194,
+  "flightId": "SIN-GIG-002",
+  "routeCode": "SIN-GIG",
+  "flightNumber": "HO-707",
+  "aircraft": {
+    "aircraftId": "B777-300ER-069",
+    "registration": "N-069D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 195,
+  "flightId": "SIN-GIG-003",
+  "routeCode": "SIN-GIG",
+  "flightNumber": "HO-709",
+  "aircraft": {
+    "aircraftId": "B777-300ER-070",
+    "registration": "N-070D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 196,
+  "flightId": "PEK-LIM-002",
+  "routeCode": "PEK-LIM",
+  "flightNumber": "HO-800",
+  "aircraft": {
+    "aircraftId": "B777-300ER-071",
+    "registration": "N-071D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 197,
+  "flightId": "PEK-SCL-002",
+  "routeCode": "PEK-SCL",
+  "flightNumber": "HO-804",
+  "aircraft": {
+    "aircraftId": "B777-300ER-072",
+    "registration": "N-072D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 198,
+  "flightId": "PEK-RGL-002",
+  "routeCode": "PEK-RGL",
+  "flightNumber": "HO-806",
+  "aircraft": {
+    "aircraftId": "B777-300ER-073",
+    "registration": "N-073D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 199,
+  "flightId": "PEK-VVI-003",
+  "routeCode": "PEK-VVI",
+  "flightNumber": "HO-807",
+  "aircraft": {
+    "aircraftId": "B777-300ER-074",
+    "registration": "N-074D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 200,
+  "flightId": "PEK-MEX-002",
+  "routeCode": "PEK-MEX",
+  "flightNumber": "HO-808",
+  "aircraft": {
+    "aircraftId": "B777-300ER-075",
+    "registration": "N-075D",
+    "type": "B777-300ER",
+    "homeHub": "PEK"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 201,
+  "flightId": "HKG-GIG-002",
+  "routeCode": "HKG-GIG",
+  "flightNumber": "HO-301",
+  "aircraft": {
+    "aircraftId": "B777-300ER-076",
+    "registration": "N-076D",
+    "type": "B777-300ER",
+    "homeHub": "HKG"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 202,
+  "flightId": "HKG-CUN-002",
+  "routeCode": "HKG-CUN",
+  "flightNumber": "HO-318",
+  "aircraft": {
+    "aircraftId": "B777-300ER-077",
+    "registration": "N-077D",
+    "type": "B777-300ER",
+    "homeHub": "HKG"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 203,
+  "flightId": "HKG-MIA-002",
+  "routeCode": "HKG-MIA",
+  "flightNumber": "HO-320",
+  "aircraft": {
+    "aircraftId": "B777-300ER-078",
+    "registration": "N-078D",
+    "type": "B777-300ER",
+    "homeHub": "HKG"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 204,
+  "flightId": "HKG-JFK-002",
+  "routeCode": "HKG-JFK",
+  "flightNumber": "HO-322",
+  "aircraft": {
+    "aircraftId": "B777-300ER-079",
+    "registration": "N-079D",
+    "type": "B777-300ER",
+    "homeHub": "HKG"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 205,
+  "flightId": "ORD-FCO-001",
+  "routeCode": "ORD-FCO",
+  "flightNumber": "HO-14",
+  "aircraft": {
+    "aircraftId": "B777-300ER-080",
+    "registration": "N-080D",
+    "type": "B777-300ER",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 206,
+  "flightId": "ORD-FCO-002",
+  "routeCode": "ORD-FCO",
+  "flightNumber": "HO-16",
+  "aircraft": {
+    "aircraftId": "B777-300ER-081",
+    "registration": "N-081D",
+    "type": "B777-300ER",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 207,
+  "flightId": "ORD-MAD-001",
+  "routeCode": "ORD-MAD",
+  "flightNumber": "HO-18",
+  "aircraft": {
+    "aircraftId": "B777-300ER-082",
+    "registration": "N-082D",
+    "type": "B777-300ER",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 208,
+  "flightId": "ORD-MAD-002",
+  "routeCode": "ORD-MAD",
+  "flightNumber": "HO-20",
+  "aircraft": {
+    "aircraftId": "B777-300ER-083",
+    "registration": "N-083D",
+    "type": "B777-300ER",
+    "homeHub": "ORD"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 209,
+  "flightId": "LAX-FCO-001",
+  "routeCode": "LAX-FCO",
+  "flightNumber": "HO-128",
+  "aircraft": {
+    "aircraftId": "B777-300ER-084",
+    "registration": "N-084D",
+    "type": "B777-300ER",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 210,
+  "flightId": "LAX-FCO-002",
+  "routeCode": "LAX-FCO",
+  "flightNumber": "HO-130",
+  "aircraft": {
+    "aircraftId": "B777-300ER-085",
+    "registration": "N-085D",
+    "type": "B777-300ER",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 211,
+  "flightId": "LAX-MAD-001",
+  "routeCode": "LAX-MAD",
+  "flightNumber": "HO-132",
+  "aircraft": {
+    "aircraftId": "B777-300ER-086",
+    "registration": "N-086D",
+    "type": "B777-300ER",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 212,
+  "flightId": "LAX-MAD-002",
+  "routeCode": "LAX-MAD",
+  "flightNumber": "HO-134",
+  "aircraft": {
+    "aircraftId": "B777-300ER-087",
+    "registration": "N-087D",
+    "type": "B777-300ER",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 213,
+  "flightId": "LAX-LIS-001",
+  "routeCode": "LAX-LIS",
+  "flightNumber": "HO-136",
+  "aircraft": {
+    "aircraftId": "B777-300ER-088",
+    "registration": "N-088D",
+    "type": "B777-300ER",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 214,
+  "flightId": "LAX-LIS-002",
+  "routeCode": "LAX-LIS",
+  "flightNumber": "HO-138",
+  "aircraft": {
+    "aircraftId": "B777-300ER-089",
+    "registration": "N-089D",
+    "type": "B777-300ER",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 215,
+  "flightId": "LAX-ATH-001",
+  "routeCode": "LAX-ATH",
+  "flightNumber": "HO-140",
+  "aircraft": {
+    "aircraftId": "B777-300ER-090",
+    "registration": "N-090D",
+    "type": "B777-300ER",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 216,
+  "flightId": "LAX-ATH-002",
+  "routeCode": "LAX-ATH",
+  "flightNumber": "HO-142",
+  "aircraft": {
+    "aircraftId": "B777-300ER-091",
+    "registration": "N-091D",
+    "type": "B777-300ER",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 217,
+  "flightId": "LAX-CDG-001",
+  "routeCode": "LAX-CDG",
+  "flightNumber": "HO-144",
+  "aircraft": {
+    "aircraftId": "B777-300ER-092",
+    "registration": "N-092D",
+    "type": "B777-300ER",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 218,
+  "flightId": "LAX-CDG-002",
+  "routeCode": "LAX-CDG",
+  "flightNumber": "HO-146",
+  "aircraft": {
+    "aircraftId": "B777-300ER-093",
+    "registration": "N-093D",
+    "type": "B777-300ER",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 219,
+  "flightId": "LAX-FRA-001",
+  "routeCode": "LAX-FRA",
+  "flightNumber": "HO-148",
+  "aircraft": {
+    "aircraftId": "B777-300ER-094",
+    "registration": "N-094D",
+    "type": "B777-300ER",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 220,
+  "flightId": "LAX-FRA-002",
+  "routeCode": "LAX-FRA",
+  "flightNumber": "HO-150",
+  "aircraft": {
+    "aircraftId": "B777-300ER-095",
+    "registration": "N-095D",
+    "type": "B777-300ER",
+    "homeHub": "LAX"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ },
+ {
+  "id": 221,
+  "flightId": "SIN-FRA-001",
+  "routeCode": "SIN-FRA",
+  "flightNumber": "HO-721",
+  "aircraft": {
+    "aircraftId": "B777-300ER-096",
+    "registration": "N-096D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 222,
+  "flightId": "SIN-FRA-002",
+  "routeCode": "SIN-FRA",
+  "flightNumber": "HO-723",
+  "aircraft": {
+    "aircraftId": "B777-300ER-097",
+    "registration": "N-097D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 223,
+  "flightId": "SIN-FRA-003",
+  "routeCode": "SIN-FRA",
+  "flightNumber": "HO-725",
+  "aircraft": {
+    "aircraftId": "B777-300ER-098",
+    "registration": "N-098D",
+    "type": "B777-300ER",
+    "homeHub": "SIN"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 224,
+  "flightId": "BOM-JFK-001",
+  "routeCode": "BOM-JFK",
+  "flightNumber": "HO-611",
+  "aircraft": {
+    "aircraftId": "B777-300ER-099",
+    "registration": "N-099D",
+    "type": "B777-300ER",
+    "homeHub": "BOM"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+},
+{
+  "id": 225,
+  "flightId": "BOM-JFK-002",
+  "routeCode": "BOM-JFK",
+  "flightNumber": "HO-613",
+  "aircraft": {
+    "aircraftId": "B777-300ER-100",
+    "registration": "N-100D",
+    "type": "B777-300ER",
+    "homeHub": "BOM"
+  },
+  "status": {
+    "flightStatus": "Scheduled",
+    "boardingStatus": "Open"
+  }
+ }
+] 

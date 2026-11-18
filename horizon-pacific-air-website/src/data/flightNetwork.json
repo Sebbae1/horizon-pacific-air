@@ -1,0 +1,5378 @@
+[
+  {
+    "id": 1,
+    "routeCode": "CEB-MIA",
+    "routeInfo": {
+      "departure": "CEB",
+      "destination": "MIA",
+      "distanceKm": 15219,
+      "flightTimeMins": 756
+    },
+    "operation": {
+      "airline": "Horizon Pacific Air",
+      "hub": "CEB",
+      "aircraftType": "B747-800",
+      "serviceType": "Passenger",
+      "status": "Active"
+    },
+    "frequency": {
+      "aircraftAssigned": 2,
+      "dailyFlights": 1
+    },
+    "availability": {
+      "bookingOpen": true,
+      "checkInOpen": true,
+      "boardingOpen": true
+    },
+    "cabins": {
+      "economy": true,
+      "business": true,
+      "first": true
+    },
+    "ticketPricing": {
+      "currency": "USD",
+      "economy": 5180,
+      "business": 10395,
+      "first": 15570
+    },
+    "notes": {
+      "technicalStop": true,
+      "stopAirport": "Calgary, Canada"
+    },
+    "images": {
+      "banner": null,
+      "destination": null,
+      "aircraft": null,
+      "thumbnail": null
+    },
+    "active": true
+  },
+  {
+    "id": 2,
+    "routeCode": "CEB-BOG",
+    "routeInfo": {
+      "departure": "CEB",
+      "destination": "BOG",
+      "distanceKm": 17406,
+      "flightTimeMins": 952
+    },
+    "operation": {
+      "airline": "Horizon Pacific Air",
+      "hub": "CEB",
+      "aircraftType": "B747-800",
+      "serviceType": "Passenger",
+      "status": "Active"
+    },
+    "frequency": {
+      "aircraftAssigned": 2,
+      "dailyFlights": 1
+    },
+    "availability": {
+      "bookingOpen": true,
+      "checkInOpen": true,
+      "boardingOpen": true
+    },
+    "cabins": {
+      "economy": true,
+      "business": true,
+      "first": true
+    },
+    "ticketPricing": {
+      "currency": "USD",
+      "economy": 5904,
+      "business": 11814,
+      "first": 17660
+    },
+    "notes": {
+      "technicalStop": true,
+      "stopAirport": "Los Angeles, United States"
+    },
+    "images": {
+      "banner": null,
+      "destination": null,
+      "aircraft": null,
+      "thumbnail": null
+    },
+    "active": true
+  },
+  {
+    "id": 3,
+    "routeCode": "CEB-BSB",
+    "routeInfo": {
+      "departure": "CEB",
+      "destination": "BSB",
+      "distanceKm": 18946,
+      "flightTimeMins": 1036
+    },
+    "operation": {
+      "airline": "Horizon Pacific Air",
+      "hub": "CEB",
+      "aircraftType": "B747-800",
+      "serviceType": "Passenger",
+      "status": "Active"
+    },
+    "frequency": {
+      "aircraftAssigned": 2,
+      "dailyFlights": 1
+    },
+    "availability": {
+      "bookingOpen": true,
+      "checkInOpen": true,
+      "boardingOpen": true
+    },
+    "cabins": {
+      "economy": true,
+      "business": true,
+      "first": true
+    },
+    "ticketPricing": {
+      "currency": "USD",
+      "economy": 6411,
+      "business": 12810,
+      "first": 19126
+    },
+    "notes": {
+      "technicalStop": true,
+      "stopAirport": "Cape Town, South Africa"
+    },
+    "images": {
+      "banner": null,
+      "destination": null,
+      "aircraft": null,
+      "thumbnail": null
+    },
+    "active": true
+  },
+  {
+    "id": 4,
+    "routeCode": "CEB-GIG",
+    "routeInfo": {
+      "departure": "CEB",
+      "destination": "GIG",
+      "distanceKm": 18147,
+      "flightTimeMins": 992
+    },
+    "operation": {
+      "airline": "Horizon Pacific Air",
+      "hub": "CEB",
+      "aircraftType": "B747-800",
+      "serviceType": "Passenger",
+      "status": "Active"
+    },
+    "frequency": {
+      "aircraftAssigned": 1,
+      "dailyFlights": 1
+    },
+    "availability": {
+      "bookingOpen": true,
+      "checkInOpen": true,
+      "boardingOpen": true
+    },
+    "cabins": {
+      "economy": true,
+      "business": true,
+      "first": true
+    },
+    "ticketPricing": {
+      "currency": "USD",
+      "economy": 6124,
+      "business": 12246,
+      "first": 18296
+    },
+    "notes": {
+      "technicalStop": true,
+      "stopAirport": "Cape Town, South Africa"
+    },
+    "images": {
+      "banner": null,
+      "destination": null,
+      "aircraft": null,
+      "thumbnail": null
+    },
+    "active": true
+  },
+  {
+    "id": 5,
+    "routeCode": "CEB-VVI",
+    "routeInfo": {
+      "departure": "CEB",
+      "destination": "VVI",
+      "distanceKm": 18896,
+      "flightTimeMins": 1033
+    },
+    "operation": {
+      "airline": "Horizon Pacific Air",
+      "hub": "CEB",
+      "aircraftType": "B747-800",
+      "serviceType": "Passenger",
+      "status": "Active"
+    },
+    "frequency": {
+      "aircraftAssigned": 1,
+      "dailyFlights": 1
+    },
+    "availability": {
+      "bookingOpen": true,
+      "checkInOpen": true,
+      "boardingOpen": true
+    },
+    "cabins": {
+      "economy": true,
+      "business": true,
+      "first": true
+    },
+    "ticketPricing": {
+      "currency": "USD",
+      "economy": 6398,
+      "business": 12782,
+      "first": 19084
+    },
+    "notes": {
+      "technicalStop": true,
+      "stopAirport": "Auckland, New Zealand"
+    },
+    "images": {
+      "banner": null,
+      "destination": null,
+      "aircraft": null,
+      "thumbnail": null
+    },
+    "active": true
+  },
+  {
+    "id": 6,
+    "routeCode": "CEB-SFO",
+    "routeInfo": {
+      "departure": "CEB",
+      "destination": "SFO",
+      "distanceKm": 11313,
+      "flightTimeMins": 618
+    },
+    "operation": {
+      "airline": "Horizon Pacific Air",
+      "hub": "CEB",
+      "aircraftType": "B747-800",
+      "serviceType": "Passenger",
+      "status": "Active"
+    },
+    "frequency": {
+      "aircraftAssigned": 1,
+      "dailyFlights": 2
+    },
+    "availability": {
+      "bookingOpen": true,
+      "checkInOpen": true,
+      "boardingOpen": true
+    },
+    "cabins": {
+      "economy": true,
+      "business": true,
+      "first": true
+    },
+    "ticketPricing": {
+      "currency": "USD",
+      "economy": 3894,
+      "business": 7866,
+      "first": 11847
+    },
+    "notes": {
+      "technicalStop": false,
+      "stopAirport": null
+    },
+    "images": {
+      "banner": null,
+      "destination": null,
+      "aircraft": null,
+      "thumbnail": null
+    },
+    "active": true
+  },
+  {
+    "id": 7,
+    "routeCode": "CEB-JFK",
+    "routeInfo": {
+      "departure": "CEB",
+      "destination": "JFK",
+      "distanceKm": 14064,
+      "flightTimeMins": 769
+    },
+    "operation": {
+      "airline": "Horizon Pacific Air",
+      "hub": "CEB",
+      "aircraftType": "B747-800",
+      "serviceType": "Passenger",
+      "status": "Active"
+    },
+    "frequency": {
+      "aircraftAssigned": 2,
+      "dailyFlights": 1
+    },
+    "availability": {
+      "bookingOpen": true,
+      "checkInOpen": true,
+      "boardingOpen": true
+    },
+    "cabins": {
+      "economy": true,
+      "business": true,
+      "first": true
+    },
+    "ticketPricing": {
+      "currency": "USD",
+      "economy": 4801,
+      "business": 9649,
+      "first": 14472
+    },
+    "notes": {
+      "technicalStop": false,
+      "stopAirport": null
+    },
+    "images": {
+      "banner": null,
+      "destination": null,
+      "aircraft": null,
+      "thumbnail": null
+    },
+    "active": true
+  },
+  {
+    "id": 8,
+    "routeCode": "CEB-LIM",
+    "routeInfo": {
+      "departure": "CEB",
+      "destination": "LIM",
+      "distanceKm": 17749,
+      "flightTimeMins": 970
+    },
+    "operation": {
+      "airline": "Horizon Pacific Air",
+      "hub": "CEB",
+      "aircraftType": "B747-800",
+      "serviceType": "Passenger",
+      "status": "Active"
+    },
+    "frequency": {
+      "aircraftAssigned": 2,
+      "dailyFlights": null
+    },
+    "availability": {
+      "bookingOpen": true,
+      "checkInOpen": true,
+      "boardingOpen": true
+    },
+    "cabins": {
+      "economy": true,
+      "business": true,
+      "first": true
+    },
+    "ticketPricing": {
+      "currency": "USD",
+      "economy": 6004,
+      "business": 12009,
+      "first": 17948
+    },
+    "notes": {
+      "technicalStop": true,
+      "stopAirport": "Hao Island, French Polynesia"
+    },
+    "images": {
+      "banner": null,
+      "destination": null,
+      "aircraft": null,
+      "thumbnail": null
+    },
+    "active": true
+  },
+  {
+    "id": 9,
+    "routeCode": "CEB-MAD",
+    "routeInfo": {
+      "departure": "CEB",
+      "destination": "MAD",
+      "distanceKm": 12218,
+      "flightTimeMins": 668
+    },
+    "operation": {
+      "airline": "Horizon Pacific Air",
+      "hub": "CEB",
+      "aircraftType": "B747-800",
+      "serviceType": "Passenger",
+      "status": "Active"
+    },
+    "frequency": {
+      "aircraftAssigned": 1,
+      "dailyFlights": 2
+    },
+    "availability": {
+      "bookingOpen": true,
+      "checkInOpen": true,
+      "boardingOpen": true
+    },
+    "cabins": {
+      "economy": true,
+      "business": true,
+      "first": true
+    },
+    "ticketPricing": {
+      "currency": "USD",
+      "economy": 3869,
+      "business": 7839,
+      "first": 11924
+    },
+    "notes": {
+      "technicalStop": false,
+      "stopAirport": null
+    },
+    "images": {
+      "banner": null,
+      "destination": null,
+      "aircraft": null,
+      "thumbnail": null
+    },
+    "active": true
+  },
+  {
+    "id": 10,
+    "routeCode": "CEB-CDG",
+    "routeInfo": {
+      "departure": "CEB",
+      "destination": "CDG",
+      "distanceKm": 11300,
+      "flightTimeMins": 618
+    },
+    "operation": {
+      "airline": "Horizon Pacific Air",
+      "hub": "CEB",
+      "aircraftType": "B747-800",
+      "serviceType": "Passenger",
+      "status": "Active"
+    },
+    "frequency": {
+      "aircraftAssigned": 1,
+      "dailyFlights": 2
+    },
+    "availability": {
+      "bookingOpen": true,
+      "checkInOpen": true,
+      "boardingOpen": true
+    },
+    "cabins": {
+      "economy": true,
+      "business": true,
+      "first": true
+    },
+    "ticketPricing": {
+      "currency": "USD",
+      "economy": 3889,
+      "business": 7858,
+      "first": 11835
+    },
+    "notes": {
+      "technicalStop": false,
+      "stopAirport": null
+    },
+    "images": {
+      "banner": null,
+      "destination": null,
+      "aircraft": null,
+      "thumbnail": null
+    },
+    "active": true
+  },
+  {
+    "id": 11,
+    "routeCode": "CEB-MEX",
+    "routeInfo": {
+      "departure": "CEB",
+      "destination": "MEX",
+      "distanceKm": 14256,
+      "flightTimeMins": 779
+    },
+    "operation": {
+      "airline": "Horizon Pacific Air",
+      "hub": "CEB",
+      "aircraftType": "B747-800",
+      "serviceType": "Passenger",
+      "status": "Active"
+    },
+    "frequency": {
+      "aircraftAssigned": 2,
+      "dailyFlights": 1
+    },
+    "availability": {
+      "bookingOpen": true,
+      "checkInOpen": true,
+      "boardingOpen": true
+    },
+    "cabins": {
+      "economy": true,
+      "business": true,
+      "first": true
+    },
+    "ticketPricing": {
+      "currency": "USD",
+      "economy": 4865,
+      "business": 9773,
+      "first": 14655
+    },
+    "notes": {
+      "technicalStop": false,
+      "stopAirport": null
+    },
+    "images": {
+      "banner": null,
+      "destination": null,
+      "aircraft": null,
+      "thumbnail": null
+    },
+    "active": true
+  },
+  {
+    "id": 12,
+    "routeCode": "CEB-SDQ",
+    "routeInfo": {
+      "departure": "CEB",
+      "destination": "SDQ",
+      "distanceKm": 16487,
+      "flightTimeMins": 901
+    },
+    "operation": {
+      "airline": "Horizon Pacific Air",
+      "hub": "CEB",
+      "aircraftType": "B747-800",
+      "serviceType": "Passenger",
+      "status": "Active"
+    },
+    "frequency": {
+      "aircraftAssigned": 2,
+      "dailyFlights": 1
+    },
+    "availability": {
+      "bookingOpen": true,
+      "checkInOpen": true,
+      "boardingOpen": true
+    },
+    "cabins": {
+      "economy": true,
+      "business": true,
+      "first": true
+    },
+    "ticketPricing": {
+      "currency": "USD",
+      "economy": 5601,
+      "business": 11219,
+      "first": 16783
+    },
+    "notes": {
+      "technicalStop": true,
+      "stopAirport": "Fairbanks, United States"
+    },
+    "images": {
+      "banner": null,
+      "destination": null,
+      "aircraft": null,
+      "thumbnail": null
+    },
+    "active": true
+  },
+  {
+    "id": 13,
+    "routeCode": "CEB-CCS",
+    "routeInfo": {
+      "departure": "CEB",
+      "destination": "CCS",
+      "distanceKm": 17393,
+      "flightTimeMins": 951
+    },
+    "operation": {
+      "airline": "Horizon Pacific Air",
+      "hub": "CEB",
+      "aircraftType": "B747-800",
+      "serviceType": "Passenger",
+      "status": "Active"
+    },
+    "frequency": {
+      "aircraftAssigned": 2,
+      "dailyFlights": 1
+    },
+    "availability": {
+      "bookingOpen": true,
+      "checkInOpen": true,
+      "boardingOpen": true
+    },
+    "cabins": {
+      "economy": true,
+      "business": true,
+      "first": true
+    },
+    "ticketPricing": {
+      "currency": "USD",
+      "economy": 5900,
+      "business": 11806,
+      "first": 17648
+    },
+    "notes": {
+      "technicalStop": true,
+      "stopAirport": "Tokyo Narita, Japan"
+    },
+    "images": {
+      "banner": null,
+      "destination": null,
+      "aircraft": null,
+      "thumbnail": null
+    },
+    "active": true
+  },
+  {
+  "id": 14,
+  "routeCode": "CEB-BGI",
+  "routeInfo": {
+    "departure": "CEB",
+    "destination": "BGI",
+    "distanceKm": 17392,
+    "flightTimeMins": 951
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "CEB",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5898,
+    "business": 11802,
+    "first": 17643
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Busan, South Korea"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 15,
+  "routeCode": "CEB-LIS",
+  "routeInfo": {
+    "departure": "CEB",
+    "destination": "LIS",
+    "distanceKm": 12714,
+    "flightTimeMins": 695
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "CEB",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 1,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4356,
+    "business": 8774,
+    "first": 13184
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 16,
+  "routeCode": "LAX-CPT",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "CPT",
+    "distanceKm": 16081,
+    "flightTimeMins": 879
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5467,
+    "business": 10955,
+    "first": 16396
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Isla Margarita, Venezuela"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 17,
+  "routeCode": "LAX-JNB",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "JNB",
+    "distanceKm": 16709,
+    "flightTimeMins": 914
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air", 
+    "hub": "LAX",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5674,
+    "business": 11361,
+    "first": 16993
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Atlanta, United States"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 18,
+  "routeCode": "LAX-MLE",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "MLE",
+    "distanceKm": 15594,
+    "flightTimeMins": 853
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5306,
+    "business": 10640,
+    "first": 15932
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Urumqi, China"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 19,
+  "routeCode": "LAX-CMB",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "CMB",
+    "distanceKm": 15053,
+    "flightTimeMins": 823
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5128,
+    "business": 10290,
+    "first": 15416
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Merced Castle, United States"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 20,
+  "routeCode": "LAX-SGN",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "SGN",
+    "distanceKm": 13131,
+    "flightTimeMins": 718
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4494,
+    "business": 9044,
+    "first": 13582
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 21,
+  "routeCode": "LAX-MEL",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "MEL",
+    "distanceKm": 12758,
+    "flightTimeMins": 697
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4371,
+    "business": 8803,
+    "first": 13227
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 22,
+  "routeCode": "LAX-CGK",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "CGK",
+    "distanceKm": 14451,
+    "flightTimeMins": 790
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4929,
+    "business": 9899,
+    "first": 14841
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 23,
+  "routeCode": "LAX-BLR",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "BLR",
+    "distanceKm": 14503,
+    "flightTimeMins": 793
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4946,
+    "business": 9933,
+    "first": 14891
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 24,
+  "routeCode": "LAX-DOH",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "DOH",
+    "distanceKm": 13348,
+    "flightTimeMins": 730
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4565,
+    "business": 9185,
+    "first": 13789
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 25,
+  "routeCode": "LAX-DMK",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "DMK",
+    "distanceKm": 13281,
+    "flightTimeMins": 726
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": null
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4543,
+    "business": 9141,
+    "first": 13725
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 26,
+  "routeCode": "LAX-SYD",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "SYD",
+    "distanceKm": 12062,
+    "flightTimeMins": 659
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4141,
+    "business": 8351,
+    "first": 12562
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 27,
+  "routeCode": "ORD-HND",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "HND",
+    "distanceKm": 10124,
+    "flightTimeMins": 553
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3501,
+    "business": 7097,
+    "first": 10714
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 28,
+  "routeCode": "ORD-JHB",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "JHB",
+    "distanceKm": 15027,
+    "flightTimeMins": 822
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 8119,
+    "business": 10273,
+    "first": 15391
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Johor Bahru, Malaysia"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 29,
+  "routeCode": "ORD-SYD",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "SYD",
+    "distanceKm": 14863,
+    "flightTimeMins": 813
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5065,
+    "business": 10166,
+    "first": 15234
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Nadi, Fiji"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 30,
+  "routeCode": "ORD-CMB",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "CMB",
+    "distanceKm": 14410,
+    "flightTimeMins": null
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4916,
+    "business": 9873,
+    "first": 14802
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 31,
+  "routeCode": "ORD-MEL",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "MEL",
+    "distanceKm": 15559,
+    "flightTimeMins": 851
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5294,
+    "business": 10616,
+    "first": 15896
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Colorado Springs, United States"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 32,
+  "routeCode": "ORD-PER",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "PER",
+    "distanceKm": 17646,
+    "flightTimeMins": 965
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5978,
+    "business": 11960,
+    "first": 17874
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Vancouver, Canada"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 33,
+  "routeCode": "ORD-BWN",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "BWN",
+    "distanceKm": 13959,
+    "flightTimeMins": 782
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4882,
+    "business": 9807,
+    "first": 14706
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 34,
+  "routeCode": "ORD-JNB",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "JNB",
+    "distanceKm": 14019,
+    "flightTimeMins": 766
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4787,
+    "business": 9620,
+    "first": 14429
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 35,
+  "routeCode": "ORD-DMK",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "DMK",
+    "distanceKm": 13740,
+    "flightTimeMins": 751
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4694,
+    "business": 9439,
+    "first": 14163
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 36,
+  "routeCode": "ORD-HAN",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "HAN",
+    "distanceKm": 12848,
+    "flightTimeMins": 702
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4400,
+    "business": 8861,
+    "first": 13312
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 37,
+  "routeCode": "ORD-MNL",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "MNL",
+    "distanceKm": 13070,
+    "flightTimeMins": 715
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": null
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4473,
+    "business": 9005,
+    "first": 13524
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 38,
+  "routeCode": "ORD-GAN",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "GAN",
+    "distanceKm": 15339,
+    "flightTimeMins": 823
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5126,
+    "business": 10287,
+    "first": 15411
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Zahedan, Iran"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 39,
+  "routeCode": "ORD-KNO",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "KNO",
+    "distanceKm": 14897,
+    "flightTimeMins": 814
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5076,
+    "business": 10188,
+    "first": 15266
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Xichang, China"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 40,
+  "routeCode": "EZE-ICN",
+  "routeInfo": {
+    "departure": "EZE",
+    "destination": "ICN",
+    "distanceKm": 19487,
+    "flightTimeMins": 1066
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "EZE",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 6589,
+    "business": 13158,
+    "first": 19639
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Los Angeles, United States"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 41,
+  "routeCode": "EZE-HND",
+  "routeInfo": {
+    "departure": "EZE",
+    "destination": "HND",
+    "distanceKm": 18357,
+    "flightTimeMins": 1004
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "EZE",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 6216,
+    "business": 12427,
+    "first": 18562
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Kailua/Kona, United States"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 42,
+  "routeCode": "EZE-MNL",
+  "routeInfo": {
+    "departure": "EZE",
+    "destination": "MNL",
+    "distanceKm": 17762,
+    "flightTimeMins": 971
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "EZE",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 6020,
+    "business": 12041,
+    "first": 17995
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Perth, Australia"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 43,
+  "routeCode": "EZE-TPE",
+  "routeInfo": {
+    "departure": "EZE",
+    "destination": "TPE",
+    "distanceKm": 18934,
+    "flightTimeMins": 1035
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "EZE",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 6408,
+    "business": 12803,
+    "first": 19116
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Perth, Australia"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 44,
+  "routeCode": "EZE-CDG",
+  "routeInfo": {
+    "departure": "EZE",
+    "destination": "CDG",
+    "distanceKm": 11001,
+    "flightTimeMins": 607
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "EZE",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3824,
+    "business": 7729,
+    "first": 11645
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 45,
+  "routeCode": "EZE-FRA",
+  "routeInfo": {
+    "departure": "EZE",
+    "destination": "FRA",
+    "distanceKm": 11503,
+    "flightTimeMins": 629
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "EZE",
+    "aircraftType": "B747-800",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3956,
+    "business": 7989,
+    "first": 12029
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 46,
+  "routeCode": "LAX-JFK",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "JFK",
+    "distanceKm": 3975,
+    "flightTimeMins": 267
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 1,
+    "dailyFlights": 5
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 1472,
+    "business": 3111,
+    "first": 4847
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 47,
+  "routeCode": "LAX-MIA",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "MIA",
+    "distanceKm": 3763,
+    "flightTimeMins": 252
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 5
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 1402,
+    "business": 2974,
+    "first": 4645
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 48,
+  "routeCode": "LAX-ATL",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "ATL",
+    "distanceKm": 3126,
+    "flightTimeMins": 210
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 1,
+    "dailyFlights": 6
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 1192,
+    "business": 2561,
+    "first": 4037
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 49,
+  "routeCode": "LAX-BOS",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "BOS",
+    "distanceKm": 4194,
+    "flightTimeMins": 281
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 1,
+    "dailyFlights": 5
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 1544,
+    "business": 3253,
+    "first": 5056
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 50,
+  "routeCode": "LAX-YYZ",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "YYZ",
+    "distanceKm": 3494,
+    "flightTimeMins": 234
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 1,
+    "dailyFlights": 6
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 1314,
+    "business": 2800,
+    "first": 4389
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 51,
+  "routeCode": "LAX-DFW",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "DFW",
+    "distanceKm": 1984,
+    "flightTimeMins": 133
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 10
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 815,
+    "business": 1821,
+    "first": 2947
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 52,
+  "routeCode": "LAX-SEA",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "SEA",
+    "distanceKm": 1537,
+    "flightTimeMins": 103
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 13
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 668,
+    "business": 1531,
+    "first": 2522
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 53,
+  "routeCode": "ORD-JFK",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "JFK",
+    "distanceKm": 1188,
+    "flightTimeMins": 79
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 1,
+    "dailyFlights": 14
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 552,
+    "business": 1305,
+    "first": 2189
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 54,
+  "routeCode": "ORD-MIA",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "MIA",
+    "distanceKm": 1931,
+    "flightTimeMins": 129
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 11
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 797,
+    "business": 1786,
+    "first": 2897
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 55,
+  "routeCode": "ORD-SFO",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "SFO",
+    "distanceKm": 2964,
+    "flightTimeMins": 199
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 1,
+    "dailyFlights": 7
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 1139,
+    "business": 2456,
+    "first": 3883
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 56,
+  "routeCode": "ORD-BOS",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "BOS",
+    "distanceKm": 1392,
+    "flightTimeMins": 93
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 1,
+    "dailyFlights": 13
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 620,
+    "business": 1437,
+    "first": 2383
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 57,
+  "routeCode": "ORD-ATL",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "ATL",
+    "distanceKm": 977,
+    "flightTimeMins": 65
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 1,
+    "dailyFlights": 18
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 483,
+    "business": 1168,
+    "first": 1987
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 58,
+  "routeCode": "ORD-DFW",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "DFW",
+    "distanceKm": 1291,
+    "flightTimeMins": 86
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 16
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 586,
+    "business": 1372,
+    "first": 2287
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 59,
+  "routeCode": "ORD-SEA",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "SEA",
+    "distanceKm": 2762,
+    "flightTimeMins": 185
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 7
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 1072,
+    "business": 2325,
+    "first": 3690
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 60,
+  "routeCode": "ORD-SAN",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "SAN",
+    "distanceKm": 2769,
+    "flightTimeMins": 186
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 1,
+    "dailyFlights": 7
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 1074,
+    "business": 2329,
+    "first": 3696
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 61,
+  "routeCode": "ORD-LAS",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "LAS",
+    "distanceKm": 2432,
+    "flightTimeMins": 163
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 1,
+    "dailyFlights": 8
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 963,
+    "business": 2111,
+    "first": 3375
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 62,
+  "routeCode": "ORD-ANC",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "ANC",
+    "distanceKm": 4569,
+    "flightTimeMins": 307
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 1,
+    "dailyFlights": 4
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 1668,
+    "business": 3496,
+    "first": 5414
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 63,
+  "routeCode": "LAX-YVR",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "YVR",
+    "distanceKm": 1741,
+    "flightTimeMins": 117
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 1,
+    "dailyFlights": 8
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 735,
+    "business": 1664,
+    "first": 2716
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 64,
+  "routeCode": "LAX-ANC",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "ANC",
+    "distanceKm": 3771,
+    "flightTimeMins": 253
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "A320neo",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 1,
+    "dailyFlights": 5
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 1405,
+    "business": 2979,
+    "first": 4653
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ }, 
+ {
+  "id": 65,
+  "routeCode": "ORD-TPE",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "TPE",
+    "distanceKm": 11980,
+    "flightTimeMins": 694
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4114,
+    "business": 8298,
+    "first": 12484
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 66,
+  "routeCode": "ORD-ICN",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "ICN",
+    "distanceKm": 10520,
+    "flightTimeMins": 609
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3632,
+    "business": 7352,
+    "first": 11091
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 67,
+  "routeCode": "ORD-NRT",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "NRT",
+    "distanceKm": 10074,
+    "flightTimeMins": 583
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3485,
+    "business": 7063,
+    "first": 10666
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 68,
+  "routeCode": "ORD-SGN",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "SGN",
+    "distanceKm": 13959,
+    "flightTimeMins": 808
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4767,
+    "business": 9581,
+    "first": 14372
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 69,
+  "routeCode": "ORD-MNL",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "MNL",
+    "distanceKm": 13070,
+    "flightTimeMins": 757
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4473,
+    "business": 9005,
+    "first": 13524
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 70,
+  "routeCode": "DXB-SFO",
+  "routeInfo": {
+    "departure": "DXB",
+    "destination": "SFO",
+    "distanceKm": 13021,
+    "flightTimeMins": 754
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "DXB",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4457,
+    "business": 8973,
+    "first": 13477
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 71,
+  "routeCode": "DXB-DFW",
+  "routeInfo": {
+    "departure": "DXB",
+    "destination": "DFW",
+    "distanceKm": 12920,
+    "flightTimeMins": 748
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "DXB",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4424,
+    "business": 8907,
+    "first": 13381
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 72,
+  "routeCode": "DXB-MEL",
+  "routeInfo": {
+    "departure": "DXB",
+    "destination": "MEL",
+    "distanceKm": 11651,
+    "flightTimeMins": 674
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "DXB",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4003,
+    "business": 8082,
+    "first": 12165
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 73,
+  "routeCode": "DXB-SYD",
+  "routeInfo": {
+    "departure": "DXB",
+    "destination": "SYD",
+    "distanceKm": 12044,
+    "flightTimeMins": 697
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "DXB",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4135,
+    "business": 8340,
+    "first": 12545
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 74,
+  "routeCode": "DXB-MIA",
+  "routeInfo": {
+    "departure": "DXB",
+    "destination": "MIA",
+    "distanceKm": 12607,
+    "flightTimeMins": 730
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "DXB",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4321,
+    "business": 8705,
+    "first": 13082
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+{
+  "id": 75,
+  "routeCode": "DXB-ICN",
+  "routeInfo": {
+    "departure": "DXB",
+    "destination": "ICN",
+    "distanceKm": 6729,
+    "flightTimeMins": 389
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "DXB",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 3
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 2381,
+    "business": 4896,
+    "first": 7475
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 76,
+  "routeCode": "LHR-SYD",
+  "routeInfo": {
+    "departure": "LHR",
+    "destination": "SYD",
+    "distanceKm": 17021,
+    "flightTimeMins": 986
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LHR",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5777,
+    "business": 11565,
+    "first": 17293
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Urumqi, China"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 77,
+  "routeCode": "LHR-MEL",
+  "routeInfo": {
+    "departure": "LHR",
+    "destination": "MEL",
+    "distanceKm": 16909,
+    "flightTimeMins": 979
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LHR",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5740,
+    "business": 11492,
+    "first": 17187
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Dhaka, Bangladesh"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 78,
+  "routeCode": "LHR-HNL",
+  "routeInfo": {
+    "departure": "LHR",
+    "destination": "HNL",
+    "distanceKm": 11628,
+    "flightTimeMins": 673
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LHR",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3998,
+    "business": 8070,
+    "first": 12148
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 79,
+  "routeCode": "LHR-SGN",
+  "routeInfo": {
+    "departure": "LHR",
+    "destination": "SGN",
+    "distanceKm": 10220,
+    "flightTimeMins": 592
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LHR",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3533,
+    "business": 7158,
+    "first": 10805
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 80,
+  "routeCode": "LHR-TPE",
+  "routeInfo": {
+    "departure": "LHR",
+    "destination": "TPE",
+    "distanceKm": 9784,
+    "flightTimeMins": 566
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LHR",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3389,
+    "business": 6875,
+    "first": 10389
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 81,
+  "routeCode": "SIN-MIA",
+  "routeInfo": {
+    "departure": "SIN",
+    "destination": "MIA",
+    "distanceKm": 16963,
+    "flightTimeMins": 982
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "SIN",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5758,
+    "business": 11527,
+    "first": 17237
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Hohhot, China"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 82,
+  "routeCode": "SIN-JFK",
+  "routeInfo": {
+    "departure": "SIN",
+    "destination": "JFK",
+    "distanceKm": 15342,
+    "flightTimeMins": 888
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "SIN",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5223,
+    "business": 10476,
+    "first": 15690
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Kunming, China"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 83,
+  "routeCode": "SIN-LIM",
+  "routeInfo": {
+    "departure": "SIN",
+    "destination": "LIM",
+    "distanceKm": 18850,
+    "flightTimeMins": 1092  
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "SIN",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 3,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 6372,
+    "business": 12732,
+    "first": 19012
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Rio Gallegos, Argentina"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 84,
+  "routeCode": "SIN-MAD",
+  "routeInfo": {
+    "departure": "SIN",
+    "destination": "MAD",
+    "distanceKm": 11383,
+    "flightTimeMins": 659
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "SIN",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3917,
+    "business": 7911,
+    "first": 11914
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 85,
+  "routeCode": "SIN-DFW",
+  "routeInfo": {
+    "departure": "SIN",
+    "destination": "DFW",
+    "distanceKm": 15614,
+    "flightTimeMins": 904
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "SIN",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5313,
+    "business": 10653,
+    "first": 15951
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Shanghai Pudong, China"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 86,
+  "routeCode": "SIN-GIG",
+  "routeInfo": {
+    "departure": "SIN",
+    "destination": "GIG",
+    "distanceKm": 15770,
+    "flightTimeMins": 913
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "SIN",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 3,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5358,
+    "business": 10741,
+    "first": 16081
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Durban, South Africa"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 87,
+  "routeCode": "HKG-JFK",
+  "routeInfo": {
+    "departure": "HKG",
+    "destination": "JFK",
+    "distanceKm": 12971,
+    "flightTimeMins": 751
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "HKG",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4441,
+    "business": 8940,
+    "first": 13429
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 88,
+  "routeCode": "HKG-SCL",
+  "routeInfo": {
+    "departure": "HKG",
+    "destination": "SCL",
+    "distanceKm": 18699,
+    "flightTimeMins": 1083
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "HKG",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 6331,
+    "business": 12653,
+    "first": 18895
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Melbourne, Australia"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 89,
+  "routeCode": "HKG-LIM",
+  "routeInfo": {
+    "departure": "HKG",
+    "destination": "LIM",
+    "distanceKm": 18739,
+    "flightTimeMins": 1065
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "HKG",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 6226,
+    "business": 12445,
+    "first": 18589
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Los Angeles, United States"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 90,
+  "routeCode": "HKG-GIG",
+  "routeInfo": {
+    "departure": "HKG",
+    "destination": "GIG",
+    "distanceKm": 17672,
+    "flightTimeMins": 1023
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "HKG",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5992,
+    "business": 11987,
+    "first": 17915
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Nairobi, Kenya"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 91,
+  "routeCode": "HKG-RGL",
+  "routeInfo": {
+    "departure": "HKG",
+    "destination": "RGL",
+    "distanceKm": 16745,
+    "flightTimeMins": 970
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "HKG",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5686,
+    "business": 11386,
+    "first": 17030
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Perth, Australia"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 92,
+  "routeCode": "HKG-CUN",
+  "routeInfo": {
+    "departure": "HKG",
+    "destination": "CUN",
+    "distanceKm": 14694,
+    "flightTimeMins": 851
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "HKG",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5009,
+    "business": 10057,
+    "first": 15073
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Anadyr, Russia"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 93,
+  "routeCode": "HKG-MIA",
+  "routeInfo": {
+    "departure": "HKG",
+    "destination": "MIA",
+    "distanceKm": 14452,
+    "flightTimeMins": 837
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "HKG",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4930,
+    "business": 9900,
+    "first": 14842
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 94,
+  "routeCode": "PEK-GIG",
+  "routeInfo": {
+    "departure": "PEK",
+    "destination": "GIG",
+    "distanceKm": 17318,
+    "flightTimeMins": 1003
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "PEK",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5875,
+    "business": 11757,
+    "first": 17456
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Belgrade, Serbia"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 95,
+  "routeCode": "PEK-LIM",
+  "routeInfo": {
+    "departure": "PEK",
+    "destination": "LIM",
+    "distanceKm": 16918,
+    "flightTimeMins": 962
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "PEK",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5644,
+    "business": 11304,
+    "first": 16909
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Edmonton, Canada"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 96,
+  "routeCode": "PEK-SCL",
+  "routeInfo": {
+    "departure": "PEK",
+    "destination": "SCL",
+    "distanceKm": 19024,
+    "flightTimeMins": 1102
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "PEK",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 6438,
+    "business": 12863,
+    "first": 19204
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "San Francisco, United States"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 97,
+  "routeCode": "PEK-RGL",
+  "routeInfo": {
+    "departure": "PEK",
+    "destination": "RGL",
+    "distanceKm": 18655,
+    "flightTimeMins": 1080
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "PEK",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 6317,
+    "business": 12624,
+    "first": 18853
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Darwin, Australia"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 98,
+  "routeCode": "PEK-VVI",
+  "routeInfo": {
+    "departure": "PEK",
+    "destination": "VVI",
+    "distanceKm": 17520,
+    "flightTimeMins": 1015
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "PEK",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 3,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 5942,
+    "business": 11889,
+    "first": 17770
+  },
+  "notes": {
+    "technicalStop": true,
+    "stopAirport": "Goose Bay, Canada"
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 99,
+  "routeCode": "PEK-MIA",
+  "routeInfo": {
+    "departure": "PEK",
+    "destination": "MIA",
+    "distanceKm": 12485,
+    "flightTimeMins": 723
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "PEK",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4280,
+    "business": 8626,
+    "first": 12966
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+},
+{
+  "id": 100,
+  "routeCode": "PEK-MEX",
+  "routeInfo": {
+    "departure": "PEK",
+    "destination": "MEX",
+    "distanceKm": 12436,
+    "flightTimeMins": 720
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "PEK",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4264,
+    "business": 8594,
+    "first": 12919
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 101,
+  "routeCode": "LHR-ICN",
+  "routeInfo": {
+    "departure": "LHR",
+    "destination": "ICN",
+    "distanceKm": 8862,
+    "flightTimeMins": 513
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LHR",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3085,
+    "business": 6278,
+    "first": 9509
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 102,
+  "routeCode": "LHR-NRT",
+  "routeInfo": {
+    "departure": "LHR",
+    "destination": "NRT",
+    "distanceKm": 9592,
+    "flightTimeMins": 555
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LHR",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3326,
+    "business": 6751,
+    "first": 10206
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 103,
+  "routeCode": "ORD-FCO",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "FCO",
+    "distanceKm": 7742,
+    "flightTimeMins": 448
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 3
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 2715,
+    "business": 5552,
+    "first": 8441
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 104,
+  "routeCode": "ORD-MAD",
+  "routeInfo": {
+    "departure": "ORD",
+    "destination": "MAD",
+    "distanceKm": 6746,
+    "flightTimeMins": 390
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "ORD",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 3
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 2387,
+    "business": 4907,
+    "first": 7491
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 105,
+  "routeCode": "LAX-FCO",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "FCO",
+    "distanceKm": 10204,
+    "flightTimeMins": 591
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3528,
+    "business": 7147,
+    "first": 10789
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 106,
+  "routeCode": "LAX-MAD",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "MAD",
+    "distanceKm": 9387,
+    "flightTimeMins": 543
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3258,
+    "business": 6618,
+    "first": 10011
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 107,
+  "routeCode": "LAX-LIS",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "LIS",
+    "distanceKm": 9137,
+    "flightTimeMins": 529
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3176,
+    "business": 6456,
+    "first": 9772
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 108,
+  "routeCode": "LAX-ATH",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "ATH",
+    "distanceKm": 11127,
+    "flightTimeMins": 644
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3832,
+    "business": 7746,
+    "first": 11671
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+  },
+  {
+  "id": 109,
+  "routeCode": "LAX-CDG",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "CDG",
+    "distanceKm": 9103,
+    "flightTimeMins": 527
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3164,
+    "business": 6434,
+    "first": 9739
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 110,
+  "routeCode": "LAX-FRA",
+  "routeInfo": {
+    "departure": "LAX",
+    "destination": "FRA",
+    "distanceKm": 9322,
+    "flightTimeMins": 540
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "LAX",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3237,
+    "business": 6576,
+    "first": 9949
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 111,
+  "routeCode": "SIN-FRA",
+  "routeInfo": {
+    "departure": "SIN",
+    "destination": "FRA",
+    "distanceKm": 10280,
+    "flightTimeMins": 595
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "SIN",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 3,
+    "dailyFlights": 2
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 3553,
+    "business": 7196,
+    "first": 10862
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ },
+ {
+  "id": 112,
+  "routeCode": "BOM-JFK",
+  "routeInfo": {
+    "departure": "BOM",
+    "destination": "JFK",
+    "distanceKm": 12533,
+    "flightTimeMins": 726
+  },
+  "operation": {
+    "airline": "Horizon Pacific Air",
+    "hub": "BOM",
+    "aircraftType": "B777-300ER",
+    "serviceType": "Passenger",
+    "status": "Active"
+  },
+  "frequency": {
+    "aircraftAssigned": 2,
+    "dailyFlights": 1
+  },
+  "availability": {
+    "bookingOpen": true,
+    "checkInOpen": true,
+    "boardingOpen": true
+  },
+  "cabins": {
+    "economy": true,
+    "business": true,
+    "first": true
+  },
+  "ticketPricing": {
+    "currency": "USD",
+    "economy": 4296,
+    "business": 4656,
+    "first": 13011
+  },
+  "notes": {
+    "technicalStop": false,
+    "stopAirport": null
+  },
+  "images": {
+    "banner": null,
+    "destination": null,
+    "aircraft": null,
+    "thumbnail": null
+  },
+  "active": true
+ }
+]

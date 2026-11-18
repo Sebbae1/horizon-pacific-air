@@ -1,0 +1,215 @@
+/*
+    Creator: Sebastian Jaculbe
+    Created: September 7th, 2026
+    Updated: September 7th, 2026
+    Version 0.3
+*/
+
+.flight-results {
+    width: 100%;
+    margin-top: 35px;
+}
+
+.flight-results-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.flight-results-header h3 {
+    margin: 0 0 5px;
+    font-size: 26px;
+}
+
+.flight-results-header p {
+    margin: 0;
+    font-size: 15px;
+}
+
+.trip-type-label {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.flight-results-list {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.flight-card {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    gap: 25px;
+    align-items: center;
+
+    background: white;
+    border-radius: 10px;
+    padding: 25px;
+
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+}
+
+.flight-card-main {
+    min-width: 0;
+}
+
+.flight-identification {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+
+.flight-number {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.flight-status {
+    font-size: 12px;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+.flight-route {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.airport {
+    display: flex;
+    flex-direction: column;
+    min-width: 90px;
+}
+
+.airport strong {
+    font-size: 25px;
+}
+
+.airport span {
+    font-size: 13px;
+    margin-top: 4px;
+}
+
+.flight-duration {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 13px;
+    white-space: nowrap;
+}
+
+.flight-line {
+    font-size: 14px;
+    margin: 3px 0;
+}
+
+.flight-duration small {
+    font-size: 11px;
+}
+
+.flight-card-details {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    min-width: 130px;
+}
+
+.flight-card-details div {
+    display: flex;
+    flex-direction: column;
+}
+
+.flight-card-details span {
+    font-size: 11px;
+}
+
+.flight-card-details strong {
+    font-size: 14px;
+    margin-top: 2px;
+}
+
+.flight-card-price {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    min-width: 140px;
+}
+
+.flight-card-price span {
+    font-size: 11px;
+}
+
+.flight-card-price strong {
+    font-size: 27px;
+    margin: 2px 0;
+}
+
+.flight-card-price small {
+    font-size: 11px;
+}
+
+.select-flight-button {
+    margin-top: 15px;
+    padding: 11px 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.no-flight-results {
+    padding: 40px;
+    text-align: center;
+    background: white;
+    border-radius: 10px;
+}
+
+.no-flight-results h4 {
+    margin: 0 0 8px;
+    font-size: 20px;
+}
+
+.no-flight-results p {
+    margin: 0;
+}
+
+@media (max-width: 900px) {
+
+    .flight-card {
+        grid-template-columns: 1fr;
+    }
+
+    .flight-card-price {
+        align-items: flex-start;
+    }
+
+    .flight-route {
+        justify-content: space-between;
+    }
+}
+
+@media (max-width: 600px) {
+
+    .flight-results-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .flight-route {
+        gap: 12px;
+    }
+
+    .airport strong {
+        font-size: 20px;
+    }
+
+    .flight-line {
+        font-size: 10px;
+    }
+}

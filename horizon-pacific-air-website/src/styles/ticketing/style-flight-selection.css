@@ -1,0 +1,238 @@
+/*
+    Creator: Sebastian Jaculbe
+    Created: September 7th, 2026
+    Updated: September 7th, 2026
+    Version 0.3
+*/
+
+.flight-selection {
+    width: 100%;
+}
+
+.flight-selection-header {
+    margin-bottom: 25px;
+}
+
+.back-to-results-button {
+    padding: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.flight-selection-header h3 {
+    margin: 0 0 8px;
+    font-size: 28px;
+}
+
+.flight-selection-header p {
+    margin: 0;
+    font-size: 15px;
+}
+
+.selected-flight-card {
+    background: white;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+}
+
+.selected-flight-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 25px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.selected-flight-airline {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.selected-flight-airline span {
+    font-size: 14px;
+}
+
+.selected-flight-airline strong {
+    font-size: 20px;
+}
+
+.selected-flight-status {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.selected-flight-route {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 35px 0;
+}
+
+.selected-airport {
+    display: flex;
+    flex-direction: column;
+    min-width: 180px;
+}
+
+.selected-airport strong {
+    font-size: 36px;
+}
+
+.selected-airport span {
+    font-size: 16px;
+    margin-top: 4px;
+}
+
+.selected-airport small {
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.selected-flight-duration {
+    flex: 1;
+    text-align: center;
+    font-size: 13px;
+    white-space: nowrap;
+}
+
+.selected-flight-details {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding-top: 25px;
+    border-top: 1px solid #e5e5e5;
+}
+
+.selection-detail {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.selection-detail span {
+    font-size: 12px;
+}
+
+.selection-detail strong {
+    font-size: 15px;
+}
+
+.selection-price-section {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 60px;
+
+    margin-top: 20px;
+    padding: 25px 30px;
+
+    background: white;
+    border-radius: 10px;
+
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+}
+
+.selection-price-details,
+.selection-total {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.selection-price-details span,
+.selection-total span {
+    font-size: 12px;
+}
+
+.selection-price-details strong {
+    font-size: 20px;
+    margin: 3px 0;
+}
+
+.selection-total strong {
+    font-size: 30px;
+    margin: 3px 0;
+}
+
+.selection-price-details small,
+.selection-total small {
+    font-size: 11px;
+}
+
+.selection-actions {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.continue-button {
+    min-width: 200px;
+    padding: 14px 25px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+@media (max-width: 768px) {
+
+    .selected-flight-route {
+        gap: 15px;
+    }
+
+    .selected-airport {
+        min-width: 0;
+    }
+
+    .selected-airport strong {
+        font-size: 28px;
+    }
+
+    .selected-flight-details {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .selection-price-section {
+        justify-content: space-between;
+        gap: 20px;
+    }
+}
+
+@media (max-width: 500px) {
+
+    .selected-flight-route {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .selected-flight-duration {
+        width: 100%;
+        text-align: left;
+    }
+
+    .selected-flight-details {
+        grid-template-columns: 1fr;
+    }
+
+    .selection-price-section {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .selection-price-details,
+    .selection-total {
+        align-items: flex-start;
+    }
+
+    .selection-actions,
+    .continue-button {
+        width: 100%;
+    }
+}

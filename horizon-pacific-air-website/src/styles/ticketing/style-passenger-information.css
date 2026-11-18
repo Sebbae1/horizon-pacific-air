@@ -1,0 +1,115 @@
+/*
+    Creator: Sebastian Jaculbe
+    Created: September 7th, 2026
+    Updated: September 7th, 2026
+    Version 0.3
+*/
+
+.passenger-information {
+    width: 100%;
+}
+
+.passenger-information-header {
+    margin-bottom: 25px;
+}
+
+.back-to-selection-button {
+    padding: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.passenger-information-header h3 {
+    margin: 0 0 8px;
+    font-size: 28px;
+}
+
+.passenger-information-header p {
+    margin: 0;
+    font-size: 15px;
+}
+
+.passenger-form-card {
+    background: white;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+}
+
+.passenger-form-header {
+    margin-bottom: 25px;
+}
+
+.passenger-form-header h4 {
+    margin: 0;
+    font-size: 20px;
+}
+
+.passenger-form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.passenger-field {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.passenger-field label {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.passenger-field input,
+.passenger-field select {
+    width: 100%;
+    min-height: 48px;
+    padding: 0 14px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-size: 15px;
+    background: white;
+}
+
+.passenger-field input:focus,
+.passenger-field select:focus {
+    outline: none;
+}
+
+.passenger-form-actions {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.continue-to-review-button {
+    min-width: 200px;
+    padding: 14px 25px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+@media (max-width: 700px) {
+
+    .passenger-form-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .passenger-form-actions {
+        justify-content: stretch;
+    }
+
+    .continue-to-review-button {
+        width: 100%;
+    }
+}

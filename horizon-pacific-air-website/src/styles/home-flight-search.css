@@ -1,0 +1,188 @@
+.home-flight-search {
+    position: relative;
+
+    width: calc(100% - 80px);
+    max-width: 1180px;
+
+    margin: -60px auto 60px;
+
+    background: white;
+
+    border-radius: 8px;
+
+    box-shadow:
+        0 8px 30px rgba(0, 0, 0, 0.12);
+
+    z-index: 10;
+}
+
+.home-flight-search-tabs {
+    display: flex;
+
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.home-flight-search-tabs button {
+    padding: 18px 24px;
+
+    border: none;
+    border-bottom: 3px solid transparent;
+
+    background: transparent;
+
+    cursor: pointer;
+
+    font-size: 14px;
+}
+
+.home-flight-search-tabs button.active {
+    border-bottom-color: #2d82b0;
+
+    font-weight: 600;
+}
+
+.home-flight-search-form {
+    display: grid;
+
+    grid-template-columns:
+        1.2fr
+        auto
+        1.2fr
+        1fr
+        1fr
+        1fr
+        auto;
+
+    gap: 12px;
+
+    align-items: end;
+
+    padding: 25px;
+}
+
+.home-search-field {
+    display: flex;
+    flex-direction: column;
+
+    gap: 7px;
+}
+
+.home-search-field label {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.home-search-input {
+    min-height: 46px;
+
+    display: flex;
+    align-items: center;
+
+    padding: 0 12px;
+
+    border: 1px solid #d5d5d5;
+    border-radius: 5px;
+
+    color: #666;
+
+    font-size: 14px;
+}
+
+.swap-airports-button {
+    width: 36px;
+    height: 36px;
+
+    border: 1px solid #d5d5d5;
+    border-radius: 50%;
+
+    background: white;
+
+    cursor: pointer;
+
+    align-self: center;
+}
+
+.home-search-button {
+    min-height: 46px;
+
+    padding: 0 22px;
+
+    border: none;
+    border-radius: 5px;
+
+    cursor: pointer;
+
+    font-weight: 600;
+}
+
+.home-search-options {
+    display: flex;
+    align-items: center;
+
+    gap: 20px;
+
+    padding: 0 25px 20px;
+
+    font-size: 13px;
+}
+
+.home-search-options label {
+    display: flex;
+    align-items: center;
+
+    gap: 6px;
+}
+
+.multi-city-button {
+    margin-left: auto;
+
+    border: none;
+    background: none;
+
+    cursor: pointer;
+
+    font-size: 13px;
+}
+
+@media (max-width: 1000px) {
+
+    .home-flight-search-form {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .swap-airports-button {
+        display: none;
+    }
+
+    .home-search-button {
+        width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+
+    .home-flight-search {
+        width: calc(100% - 30px);
+        margin-top: -30px;
+    }
+
+    .home-flight-search-tabs {
+        overflow-x: auto;
+    }
+
+    .home-flight-search-tabs button {
+        white-space: nowrap;
+    }
+
+    .home-flight-search-form {
+        grid-template-columns: 1fr;
+    }
+
+    .home-search-options {
+        flex-wrap: wrap;
+    }
+
+    .multi-city-button {
+        margin-left: 0;
+    }
+}

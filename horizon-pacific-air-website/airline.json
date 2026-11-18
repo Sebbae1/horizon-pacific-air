@@ -1,0 +1,73 @@
+{
+  "id": 1,
+  "name": "Horizon Pacific Air",
+  "legalName": "Horizon Pacific Air",
+  "iata": "HO",
+  "icao": "HPA",
+  "callsign": "HORIZON",
+  "founded": null,
+  "headquarters": "ORD",
+  "primaryHub": "ORD",
+  "secondaryHubs": [
+    "LAX",
+    "LHR",
+    "EZE",
+    "DXB",
+    "HKG",
+    "PEK",
+    "SIN",
+    "CEB",
+    "BOM"
+  ],
+  "alliance": null,
+  "website": null,
+  "slogan": null,
+  "branding": {
+    "primaryColor": null,
+    "secondaryColor": null,
+    "accentColor": null,
+    "logo": "/assets/airline/logo.png",
+    "logoDark": null,
+    "logoLight": null,
+    "favicon": "/favicon.ico"
+  },
+  "fleet": {
+    "fleetSize": null,
+    "aircraftTypes": [],
+    "averageAge": null
+  },
+  "network": {
+    "destinationsServed": null,
+    "countriesServed": null,
+    "continentsServed": null,
+    "activeRoutes": null
+  },
+  "passengerExperience": {
+    "classes": [
+      "Economy",
+      "Business",
+      "First"
+    ],
+    "loyaltyProgram": null,
+    "airportLounges": true,
+    "onlineCheckIn": true,
+    "mobileBoardingPass": true
+  },
+  "operations": {
+    "cargoDivision": true,
+    "charterOperations": false,
+    "maintenanceDivision": true,
+    "trainingAcademy": false
+  },
+  "socials": {
+    "facebook": null,
+    "instagram": null,
+    "x": null,
+    "youtube": null
+  },
+  "contact": {
+    "customerService": null,
+    "email": null
+  },
+  "active": true
+}

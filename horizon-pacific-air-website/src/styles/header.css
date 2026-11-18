@@ -1,0 +1,38 @@
+/*
+    Creator: Sebastian Jaculbe
+    Created: June 10th, 2026
+    Updated: June 10th, 2026
+    Version: 0.3
+*/
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 1rem 2rem;
+
+  background-color: #111;
+
+  border-bottom: 1px solid #333;
+}
+
+.header-left,
+.header-center,
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.airline-logo {
+  height: 80px;
+}
+
+.alliance-logo {
+  height: 50px;
+}
+
+.header-center h1 {
+  font-size: 2rem;
+  letter-spacing: 2px;
+}

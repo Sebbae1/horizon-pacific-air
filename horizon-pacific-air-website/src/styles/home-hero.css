@@ -1,0 +1,99 @@
+.home-hero {
+    position: relative;
+    width: 100%;
+    min-height: 620px;
+
+    background-image:
+        url("/images/homepage/hero/hero-aircraft.jpg");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.home-hero-overlay {
+    position: absolute;
+    inset: 0;
+
+    display: flex;
+    align-items: center;
+
+    background:
+        linear-gradient(
+            90deg,
+            rgba(0, 0, 0, 0.55),
+            rgba(0, 0, 0, 0.20),
+            rgba(0, 0, 0, 0.05)
+        );
+}
+
+.home-hero-content {
+    width: 100%;
+    max-width: 1200px;
+
+    margin: 0 auto;
+    padding: 80px 40px;
+
+    box-sizing: border-box;
+
+    color: white;
+}
+
+.home-hero-eyebrow {
+    margin: 0 0 15px;
+
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 4px;
+}
+
+.home-hero-content h1 {
+    margin: 0;
+
+    max-width: 650px;
+
+    font-size: 64px;
+    line-height: 1.05;
+
+    text-align: left;
+}
+
+.home-hero-description {
+    max-width: 550px;
+
+    margin: 25px 0;
+
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+.home-hero-button {
+    padding: 14px 28px;
+
+    border: none;
+    border-radius: 4px;
+
+    cursor: pointer;
+
+    font-size: 16px;
+    font-weight: 600;
+}
+
+@media (max-width: 768px) {
+
+    .home-hero {
+        min-height: 520px;
+    }
+
+    .home-hero-content {
+        padding: 50px 25px;
+    }
+
+    .home-hero-content h1 {
+        font-size: 44px;
+    }
+
+    .home-hero-description {
+        font-size: 17px;
+    }
+}

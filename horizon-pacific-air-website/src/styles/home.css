@@ -1,0 +1,155 @@
+.home-page {
+    width: 100%;
+
+    overflow-x: hidden;
+}
+
+.home-feature-section {
+    display: grid;
+
+    grid-template-columns: 1fr 1fr;
+
+    width: 100%;
+}
+
+.home-feature-image {
+    min-height: 360px;
+
+    position: relative;
+
+    background-size: cover;
+    background-position: center;
+}
+
+.cabin-image {
+    background-image:
+        url("/images/homepage/cabins/cabin.jpg");
+}
+
+.sustainability-image {
+    background-image:
+        url("/images/homepage/sustainability/sustainability.jpg");
+}
+
+.home-feature-overlay {
+    position: absolute;
+    inset: 0;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: flex-end;
+
+    padding: 45px;
+
+    color: white;
+
+    background:
+        linear-gradient(
+            transparent 25%,
+            rgba(0, 0, 0, 0.75)
+        );
+}
+
+.home-feature-overlay h2 {
+    margin: 0 0 10px;
+
+    font-size: 34px;
+
+    font-weight: 500;
+
+    text-align: left;
+}
+
+.home-feature-overlay p {
+    max-width: 400px;
+
+    margin: 0 0 20px;
+
+    line-height: 1.5;
+}
+
+.home-feature-overlay button {
+    width: fit-content;
+
+    padding: 10px 18px;
+
+    border: 1px solid white;
+    border-radius: 4px;
+
+    background: transparent;
+
+    color: white;
+
+    cursor: pointer;
+}
+
+.home-services {
+    width: 100%;
+
+    background: white;
+}
+
+.home-services-inner {
+    max-width: 1200px;
+
+    margin: 0 auto;
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(6, 1fr);
+}
+
+.home-service-item {
+    min-height: 110px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    justify-content: center;
+
+    gap: 8px;
+
+    border-right: 1px solid #ddd;
+
+    text-align: center;
+}
+
+.home-service-item:last-child {
+    border-right: none;
+}
+
+.home-service-item span {
+    font-size: 24px;
+}
+
+.home-service-item p {
+    margin: 0;
+
+    font-size: 12px;
+}
+
+@media (max-width: 700px) {
+
+    .home-feature-section {
+        grid-template-columns: 1fr;
+    }
+
+    .home-services-inner {
+        grid-template-columns:
+            repeat(3, 1fr);
+    }
+
+    .home-service-item:nth-child(3) {
+        border-right: none;
+    }
+
+    .home-feature-overlay {
+        padding: 30px;
+    }
+}
